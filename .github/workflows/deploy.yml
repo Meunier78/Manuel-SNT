@@ -32,9 +32,6 @@ jobs:
       - name: Installer MkDocs
         run: pip install -r requirements.txt
 
-      - name: Importer le contenu source
-        run: python scripts/import_sources.py
-
       - name: Construire le site
         run: mkdocs build --strict
 
