@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>Après avoir regardé le tutoriel vidéo, produisez des images à la mode "Game Boy Camera" à partir de photos actuelles. Vous pouvez commencer avec la photo de la porte de Brandebourg. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Après avoir regardé le tutoriel vidéo, produisez des images à la mode "Game Boy Camera" à partir de photos actuelles. Vous pouvez commencer avec la photo de la porte de Brandebourg. <br/></p>
 <p>Vos amis sauront-ils reconnaître la photographie d'origine (paysage, portrait, monument) ? Seront-ils sensibles au charme des images pixelisées des années 1990 ? </p>
+</div>
+</div>
 
 </div>
 

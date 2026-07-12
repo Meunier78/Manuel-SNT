@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./La Boussole micro bit en action Video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/informatique-embarquee-exercices-la-boussole-micro-bit-en-action-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

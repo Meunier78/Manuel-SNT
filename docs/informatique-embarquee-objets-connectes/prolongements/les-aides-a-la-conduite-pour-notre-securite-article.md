@@ -2,7 +2,13 @@
 
 <div class="imported-content">
 
-<p>Avez-vous conscience des aides à la conduite en service dans une voiture moderne ? Voici quelques systèmes informatiques embarqués qui veillent à la sécurité des passagers. <br/></p>
+<div class="card">
+
+
+
+
+
+<div><a class="relative-url" href="https://media.roole.fr/quotidien/equipement/top-10-des-dispositifs-daide-a-la-conduite" rel="noopener" target="_blank"><p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551776811" id="l_2425146" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/informatique-embarquee-prolongements-les-aides-a-la-conduite-pour-notre-securite-article-html/image-01.jpg" width="749"/></p></a></div><div id="note-text"><p>Avez-vous conscience des aides à la conduite en service dans une voiture moderne ? Voici quelques systèmes informatiques embarqués qui veillent à la sécurité des passagers. <br/></p>
 <h2>La direction assistée<br/></h2><p>Voici une technologie que vous avez sûrement totalement oubliée, et pourtant : dès que vous tournez le volant de votre véhicule, la direction assistée s’enclenche et facilite considérablement le braquage de vos roues directrices. Vos manœuvres sont ainsi beaucoup plus souples et simplifiées.<br/></p>
 <h2>Le régulateur de vitesse adaptatif<br/></h2><p>Nouvelle génération de régulateur de vitesse, le régulateur de vitesse adaptatif ou Adaptative Cruise Control (ACC) vous permet d’adapter l’allure de votre voiture aux conditions de circulation. Lorsque vous l’enclenchez, le système adapte automatiquement votre vitesse à celle de la voiture qui vous précède sur la route en fonction de la distance qui vous sépare.</p>
 <h2>L’alerte de franchissement involontaire de ligne (AFIL)<br/></h2><p>Si vous changez de voie et que vous franchissez une bande blanche sans avoir activé votre clignotant, un calculateur déclenche une alerte, souvent sous forme de vibrations et/ou de bips sonores. En règle générale, le dispositif ne corrige pas la trajectoire, c’est au conducteur de le faire, mais certains systèmes plus sophistiqués sont en mesure d’effectuer une correction active pour permettre le maintien de la direction et éviter une sortie de route.</p>
@@ -13,6 +19,8 @@
 <h2>Le GPS<br/></h2><p>Il est loin le temps où les conducteurs partaient sur les routes équipés d’une carte papier. Désormais, lorsque vous vous rendez quelque part, vous activez votre GPS de façon quasi-systématique. Qu’il soit directement intégré à votre véhicule ou alors disponible depuis une application mobile sur votre smartphone, il vous est devenu indispensable ! Et pour cause, au-delà de vous indiquer le trajet pour vous rendre d’un point A à un point B, les GPS prennent en compte les conditions de circulation et vous proposent un itinéraire privilégié afin d’optimiser votre trajet selon vos préférences.<br/></p>
 <h2>Le détecteur de fatigue<br/></h2><p>La somnolence au volant correspond à la difficulté de rester éveillé, avec un risque d’endormissement élevé. Elle se manifeste par des paupières lourdes et des bâillements répétés. Selon Damien Léger, président du Conseil scientifique de l’INSV : « Dès les premiers signes de somnolence, les risques d’avoir un accident sont multipliés par 3 ou 4. ».</p>
 <p>Pour lutter contre la fatigue et la somnolence au volant, il existe plusieurs solutions. De l’ « attention assist » (détection de somnolence) directement intégré à votre véhicule qui affiche une alerte sur l’ordinateur de bord pour vous recommander de faire une pause, à l’oreillette ou à la bague qui analyse votre niveau d’attention et vous envoie une alerte si celui-ci diminue, tous les moyens sont bons pour vous garder éveillé sur la route !</p>
+</div>
+</div>
 
 </div>
 

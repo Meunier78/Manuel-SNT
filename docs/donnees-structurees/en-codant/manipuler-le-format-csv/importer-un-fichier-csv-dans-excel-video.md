@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Importer un fichier csv dans Excel Video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-csv-importer-un-fichier-csv-dans-excel-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

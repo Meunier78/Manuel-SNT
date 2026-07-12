@@ -5,7 +5,9 @@
 <div class="card">
 
 
-<div><a class="relative-url" href="https://www.hoaxbuster.com/" rel="noopener" target="_blank"><p><img class="wrapped imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774964" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-activites-attention-aux-infox-hoaxbuster-site-html/image-01.jpg" width="750"/></p></a></div>
+
+
+<div><a class="relative-url" href="https://www.hoaxbuster.com/" rel="noopener" target="_blank"><p><img class="wrapped ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774964" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-activites-attention-aux-infox-hoaxbuster-site-html/image-01.jpg" width="750"/></p></a></div>
 
 </div>
 

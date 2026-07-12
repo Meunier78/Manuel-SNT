@@ -2,10 +2,17 @@
 
 <div class="imported-content">
 
-<p>1. Dans le fichier CSV contacts_perso.csv, quel séparateur est employé pour séparer les descripteurs ou les valeurs de ceux-ci ?</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Dans le fichier CSV contacts_perso.csv, quel séparateur est employé pour séparer les descripteurs ou les valeurs de ceux-ci ?</p>
 <p>2. Quel autre séparateur peut-on également trouver dans d'autres fichiers CSV ?</p>
 <p>3. Quels sont les descripteurs du fichier CSV  étudié ?</p>
 <p>4. Combien y a-t-il d'objets et comment sont-ils séparés ?</p>
+</div>
+</div>
 
 </div>
 

@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>Dans cette activité, il s'agit d'observer une photographie numérique de très près :<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Dans cette activité, il s'agit d'observer une photographie numérique de très près :<br/></p>
 <ul><li>avec un logiciel, les détails d'une image stockée sur un ordinateur ; <br/></li><li>avec un microscope, les détails d'un écran qui affiche cette image. </li></ul><p>Nous comparerons les deux zooms pour établir un lien entre l'image et l'écran. </p>
+</div>
+</div>
 
 </div>
 

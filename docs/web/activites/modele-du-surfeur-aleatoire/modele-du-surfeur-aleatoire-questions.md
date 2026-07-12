@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img class="imported-image ptSynthesisImg" data-filename="LE WEB 07.png" data-height="312" data-original-url="media%2For%2F551774314%3Fhid%3Dm_16572" data-width="750" id="m_16572" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-activites-modele-du-surfeur-aleatoire-modele-du-surfeur-aleatoire-questions-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="LE WEB 07.png" data-height="312" data-original-url="media%2For%2F551774314%3Fhid%3Dm_16572" data-width="750" id="m_16572" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-activites-modele-du-surfeur-aleatoire-modele-du-surfeur-aleatoire-questions-html/image-01.jpg"/></p>
 <p>1. Modélisez le mini site web composé de quatre pages sous la forme d'un graphe. Que représentent les nœuds et les arêtes ?</p>
 <p>2. Effectuez un classement intuitif des pages web qui composent le mini site web.</p>
 <p>3. Une autre approche du PageRank consiste à faire parcourir par un "surfeur aléatoire" les pages web qui sont reliées les unes aux autres en respectant les déplacements autorisés. Les déplacements d'une page à l'autre seront simulés par le résultat d'un lancer de dé.</p>
@@ -11,6 +16,8 @@
 <p>b) En utilisant l'application en ligne "PageRank simulator" vérifiez si les résultats obtenus précédemment sont cohérents.</p>
 <p>c) Comment pourrait-on améliorer la prédictibilité du Page Rank en utilisant la méthode du surfeur aléatoire ? <br/></p>
 <p>4. Quel modèle de surfeur Google utilise-t-il depuis 2010 ? Quelle est la différence avec le modèle du surfeur aléatoire ?<br/></p>
+</div>
+</div>
 
 </div>
 

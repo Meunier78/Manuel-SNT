@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Sobriete numerique Guide.pdf" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-route-vers-sobriete-numerique-sobriete-numerique-guide-html/image-01.jpg"/></div></a></div></div>
 
 </div>

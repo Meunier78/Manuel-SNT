@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>1. Qu'est-ce que le droit d'auteur ?<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Qu'est-ce que le droit d'auteur ?<br/></p>
 <p>a) Le droit de créer un site web.<br/>b) Le droit de copier et distribuer des contenus sans permission.<br/>c) Le droit exclusif d'utiliser, reproduire et distribuer une œuvre.</p>
 <p>2. Qu'est-ce que le RGPD (Règlement général sur la protection des données) ?</p>
 <p>a) Une loi qui protège la vie privée des utilisateurs en contrôlant la collecte et l'utilisation de leurs données personnelles.<br/>b) Un réseau social populaire.<br/>c) Une norme de codage utilisée pour créer des sites web.</p>
@@ -16,6 +21,8 @@
 <p>a) Une stratégie de marketing en ligne pour attirer de nouveaux utilisateurs.<br/>b) Une méthode pour créer des liens entre différentes pages web.<br/>c) Un type d'attaque informatique visant à voler des informations confidentielles.</p>
 <p>7. Qu'est-ce que les Creative Commons ?<br/></p>
 <p>a) Un ensemble de licences permettant de partager et d'utiliser des œuvres créatives.<br/>b) Une organisation internationale de protection des droits d'auteur.<br/>c) Une méthode de cryptage utilisée pour sécuriser les transactions en ligne.<br/></p>
+</div>
+</div>
 
 </div>
 

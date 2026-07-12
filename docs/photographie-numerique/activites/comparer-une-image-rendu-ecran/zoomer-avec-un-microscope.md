@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>Nous commençons par observer l'écran d'un téléphone avec un microscope. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Nous commençons par observer l'écran d'un téléphone avec un microscope. <br/></p>
 <p>Pour cela, visionnez la vidéo "Un smartphone au microscope". Observez les petits points lumineux, microscopiques et invisibles à l'œil nu, qui composent l'image diffusée par l'écran. </p>
+</div>
+</div>
 
 </div>
 

@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p><br/></p>
+<div class="card">
+
+
+
+
+<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775429" id="l_2350571" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-le-format-json-ouverture-et-affichage-d-un-fichier-json-avec-python-html/image-01.jpg" width="750"/></p><div id="note-text"><p><br/></p>
+</div>
+</div>
 
 </div>
 

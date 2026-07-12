@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Pour convertir une chaîne de caractères en une liste en utilisant l'espace comme séparateur, on peut utiliser la méthode split :</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Pour convertir une chaîne de caractères en une liste en utilisant l'espace comme séparateur, on peut utiliser la méthode split :</p>
 <p><i>chaine = "toto le héros"</i></p>
 <p><i>chaine.split(" ")</i> renvoie ['toto', 'le', 'héros']</p>
 <p>Une <b>liste</b> permet de stocker des éléments que l'on peut rappeler à l'aide de leurs indices :<br/></p>
@@ -22,6 +27,8 @@
 <p><i>str(100)</i> renvoie '100'<br/><i>int('100')</i> renvoie 100</p>
 <p>On inverse un entier (ou une chaîne représentant un entier) sur huit bits avec :</p>
 <p><i>256+~int('255')</i> renvoie 0</p>
+</div>
+</div>
 
 </div>
 

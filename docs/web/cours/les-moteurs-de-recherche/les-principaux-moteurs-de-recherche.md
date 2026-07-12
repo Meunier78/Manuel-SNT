@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="535" data-original-url="logo%2Fhash%2F551774350%3Fh%3D17480ef04f5215e3fbdb79765d5a9fd3" data-width="1000" id="l_2421363" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-les-principaux-moteurs-de-recherche-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="535" data-original-url="logo%2Fhash%2F551774350%3Fh%3D17480ef04f5215e3fbdb79765d5a9fd3" data-width="1000" id="l_2421363" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-les-principaux-moteurs-de-recherche-html/image-01.jpg"/></p>
 <p><br/></p>
 <p><b>1. Google</b><br/></p>
 <p>Google est le moteur de recherche le plus utilisé avec une part de marché écrasante. Connu pour ses algorithmes puissants et ses résultats de recherche très pertinents, Google propose également d'autres services tels que Gmail, Google Maps, Google Drive et YouTube. Il est fréquemment mis à jour pour ajouter de nouvelles fonctionnalités et offre une interface simple et conviviale.<br/></p>
@@ -21,6 +26,8 @@
 <p><b>6. Qwant</b></p>
 <p>Qwant est un moteur de recherche français mis en ligne en février 2013. Il garantit la confidentialité des utilisateurs en évitant le suivi et la revente d'informations personnelles à des fins publicitaires et déclare l'équité dans l'affichage des résultats. <br/></p>
 <p><br/>Chacun de ces moteurs de recherche possède ses propres avantages et caractéristiques en termes de pertinence des résultats, de services complémentaires, de protection de la vie privée, etc. La sélection d'un moteur de recherche dépend souvent des préférences individuelles d'un utilisateur, de ses besoins spécifiques et de la région géographique dans laquelle il se trouve.<br/></p>
+</div>
+</div>
 
 </div>
 

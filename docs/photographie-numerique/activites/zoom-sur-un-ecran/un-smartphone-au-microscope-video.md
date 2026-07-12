@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Un smartphone au microscope Video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-zoom-sur-un-ecran-un-smartphone-au-microscope-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

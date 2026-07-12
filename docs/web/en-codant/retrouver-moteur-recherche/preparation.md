@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Pour convertir une chaîne de caractères en une liste en utilisant l'espace comme séparateur, on peut utiliser la méthode split :</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Pour convertir une chaîne de caractères en une liste en utilisant l'espace comme séparateur, on peut utiliser la méthode split :</p>
 <p><i>chaine = "toto le héro"</i></p>
 <p><i>chaine.split(" ")</i> renvoie ['toto', 'le', 'héro']</p>
 <p>Pour connaître l'index d'un élément dans une liste on utilise la méthode index.</p>
@@ -16,6 +21,8 @@
 <p><i>ma_liste[1, -1]</i> renvoie ["a", "toto"]<br/></p>
 <p>On peut parcourir toute la liste et donner l'index de chaque élément sur deux chiffres :</p>
 <p><i>for i in ma_liste:</i><br/><i>    print(i, "a pour indice ", f"{ma_liste.index(i):02}") renvoie </i><i>1 a pour indice  00</i><br/><i>                                                                                                        a a pour indice  01</i><br/><i>                                                                                                        toto a pour indice  02</i><br/><i>                                                                                                       3 a pour indice  03</i><br/></p>
+</div>
+</div>
 
 </div>
 

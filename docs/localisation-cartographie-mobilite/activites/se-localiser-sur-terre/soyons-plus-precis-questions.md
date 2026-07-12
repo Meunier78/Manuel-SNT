@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>3. Suivant le même principe, montrez que la longitude est égale à 1,1507039° W<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>3. Suivant le même principe, montrez que la longitude est égale à 1,1507039° W<br/></p>
 <p>4. Déduisez une zone plus précise où à été prise la photographie, en vous repérant sur la carte de France. </p>
+</div>
+</div>
 
 </div>
 

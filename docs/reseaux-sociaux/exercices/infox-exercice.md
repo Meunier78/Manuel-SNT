@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Examinez les trois publications. Certaines s'apparentent-elles à des infox ? Argumentez, éventuellement en vous appuyant sur une recherche Internet.  </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Examinez les trois publications. Certaines s'apparentent-elles à des infox ? Argumentez, éventuellement en vous appuyant sur une recherche Internet.  </p>
+</div>
+</div>
 
 </div>
 

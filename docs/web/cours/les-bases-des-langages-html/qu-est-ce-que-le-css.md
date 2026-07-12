@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="259" data-original-url="logo%2Fhash%2F551774377%3Fh%3D7c56e5ad2b48eb9d5edbca4f329af2f0" data-width="505" id="l_2426512" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-bases-des-langages-html-qu-est-ce-que-le-css-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="259" data-original-url="logo%2Fhash%2F551774377%3Fh%3D7c56e5ad2b48eb9d5edbca4f329af2f0" data-width="505" id="l_2426512" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-bases-des-langages-html-qu-est-ce-que-le-css-html/image-01.jpg"/></p>
 <p><br/></p>
 <p>Le CSS (Cascading Style<b> </b>Sheets) est un langage de style utilisé pour définir l'apparence et la mise en page d'une page web. Il permet de contrôler le design, la couleur, la typographie, la disposition des éléments, les marges, les bordures, les arrière-plans, etc.<br/></p>
 <p>L’utilisation de feuilles de style au format CSS repose sur l’idée de séparation du contenu et de la mise en forme :<br/></p>
@@ -15,6 +20,8 @@
 <p>Le CSS peut être appliqué à plusieurs pages web, ce qui permet une gestion cohérente du style sur l'ensemble d'un site.<br/></p>
 <p><b>Remarque :</b><br/></p>
 <ul><li>Indenter en CSS est également très important afin de conserver le plus de clarté possible dans son code.<br/></li><li>On écrit dans un fichier CSS les commentaires de la manière suivante :  <b>/* Je suis un commentaire  */</b></li></ul><p><br/></p>
+</div>
+</div>
 
 </div>
 

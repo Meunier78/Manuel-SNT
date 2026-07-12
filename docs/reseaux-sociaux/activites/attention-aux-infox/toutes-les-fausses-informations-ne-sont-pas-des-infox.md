@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>Ne confondez pas les canulars, qui sont diffusés sur certains sites et des réseaux sociaux, avec des infox ou des nouvelles tombant sous le coup de la loi de décembre 2018. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Ne confondez pas les canulars, qui sont diffusés sur certains sites et des réseaux sociaux, avec des infox ou des nouvelles tombant sous le coup de la loi de décembre 2018. <br/></p>
 <p>Les sites <a href="https://www.legorafi.fr/" rel="noopener" target="_blank">https://www.legorafi.fr/</a> (en français) et <a href="https://www.theonion.com/" rel="noopener" target="_blank">https://www.theonion.com/</a> (en anglais) sont de très bons exemples de sites parodiques qui ne visent pas à manipuler les consciences, mais à nous faire sourire. </p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

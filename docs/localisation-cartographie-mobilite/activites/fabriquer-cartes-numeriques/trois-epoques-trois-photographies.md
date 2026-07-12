@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Voici les photographies du site du lycée international de Palaiseau (<a href="https://www.openstreetmap.org/#map=19/48.71329/2.20519" rel="noopener" target="_blank">https://www.openstreetmap.org/#map=19/48.71329/2.20519</a>) extraites de trois sites internet en avril 2023. L'établissement a ouvert ses portes en septembre 2022 ; il était donc totalement construit à cette époque. Les photographies de trois sites différents n'ont visiblement pas été prises aux mêmes moments.  </p>
+<div class="card">
+
+
+
+
+<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775528" id="l_2288221" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/localisation-cartographie-activites-fabriquer-cartes-numeriques-trois-epoques-trois-photographies-html/image-01.jpg" width="1000"/></p><div id="note-text"><p>Voici les photographies du site du lycée international de Palaiseau (<a href="https://www.openstreetmap.org/#map=19/48.71329/2.20519" rel="noopener" target="_blank">https://www.openstreetmap.org/#map=19/48.71329/2.20519</a>) extraites de trois sites internet en avril 2023. L'établissement a ouvert ses portes en septembre 2022 ; il était donc totalement construit à cette époque. Les photographies de trois sites différents n'ont visiblement pas été prises aux mêmes moments.  </p>
+</div>
+</div>
 
 </div>
 

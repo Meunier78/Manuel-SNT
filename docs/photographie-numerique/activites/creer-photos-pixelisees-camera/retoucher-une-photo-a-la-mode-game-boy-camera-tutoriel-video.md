@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Retoucher une photo a la mode Game Boy Camera Tutoriel video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-creer-photos-pixelisees-camera-retoucher-une-photo-a-la-mode-game-boy-camera-tutoriel-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

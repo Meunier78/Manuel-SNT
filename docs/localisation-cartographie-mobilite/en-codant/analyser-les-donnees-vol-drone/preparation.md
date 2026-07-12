@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Téléchargez le fichier CSV en le renommant "drone.csv".</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Téléchargez le fichier CSV en le renommant "drone.csv".</p>
 <p>Pour traiter des données, nous allons utiliser la bibliothèque Python Pandas qui permet la manipulation et l'analyse des données. On donne :</p>
 <p><i>import pandas</i><br/><i>vol = pandas.read_csv("drone.csv") #L’objet « vol » contient le fichier</i></p>
 <p>Vous pouvez obtenir des informations sur le fichier csv avec :</p>
@@ -23,6 +28,8 @@
 <p><i>ma_liste[2]</i> renvoie toto</p>
 <p>Pour convertir un caractère d'une liste en nombre entier <b>int</b> ou réel <b>float</b> :</p>
 <p><i>int(maliste[0])</i> renvoie 1</p>
+</div>
+</div>
 
 </div>
 

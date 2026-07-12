@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>Un capteur d'appareil photographique est constitué de millions de photosites. Chacun d'entre eux capture la lumière sur une toute petite surface, de l'ordre d'un micromètre de côté (un millième de millimètre).<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Un capteur d'appareil photographique est constitué de millions de photosites. Chacun d'entre eux capture la lumière sur une toute petite surface, de l'ordre d'un micromètre de côté (un millième de millimètre).<br/></p>
 <p>Les capteurs des appareils photo haut de gamme peuvent mesurer quelques centimètres de diagonale. Voici quelques années, les capteurs des téléphones portables dépassaient rarement un centimètre, mais aujourd’hui ils peuvent mesurer un ou deux centimètres de diagonale. </p>
+</div>
+</div>
 
 </div>
 

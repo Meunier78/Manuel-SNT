@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Nous avons modélisé la table du DNS par un dictionnaire. Le programme demande à l'utilisateur d'entrer une adresse ip ou un nom de domaine. Si c'est un nom de domaine, on retrouve l'adresse ip correspondante dans le dictionnaire. À partir de l'adresse ip, on donne l'adresse réseau (net id) et l'adresse de la machine (host id).<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Nous avons modélisé la table du DNS par un dictionnaire. Le programme demande à l'utilisateur d'entrer une adresse ip ou un nom de domaine. Si c'est un nom de domaine, on retrouve l'adresse ip correspondante dans le dictionnaire. À partir de l'adresse ip, on donne l'adresse réseau (net id) et l'adresse de la machine (host id).<br/></p>
 <p>1. Complétez la fonction <i>est_ip</i> qui vérifie si la chaîne de caractères passée en paramètre est une adresse IPV4 et renvoie vrai ou faux.</p>
 <p><i>def est_ipv4(ad):</i></p>
 <p><i>    ad = ad.split('.')</i></p>
@@ -35,6 +40,8 @@
 <p>3. Réalisez la fonction host_id qui renvoie l'adresse de la machine.</p>
 <p><i>hostid = host_id(route_vers, masque)</i></p>
 <p><i>print("Adresse machine : ", hostid)</i></p>
+</div>
+</div>
 
 </div>
 

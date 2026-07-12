@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="528" data-original-url="media%2FpearlContent%2F551774422" data-width="750" id="l_2445203" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-exercices-analyse-d-un-code-html-questions-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="528" data-original-url="media%2FpearlContent%2F551774422" data-width="750" id="l_2445203" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-exercices-analyse-d-un-code-html-questions-html/image-01.jpg"/></p>
 <p>Observez le code HTML ci-dessus et répondez aux questions suivantes.</p>
 <p>1. Quel élément de balise HTML est utilisé pour lier une feuille de style externe à une page web ?<br/></p>
 <p>a) style<br/>b) link<br/>c) head<br/>d) script</p>
@@ -26,6 +31,8 @@
 <p>a) head<br/>b) body<br/>c) html<br/>d) p</p>
 <p>11. La balise présente sur la première ligne du fichier HTML permet au navigateur de comprendre que les instructions qui vont suivre sont en :</p>
 <p>a) HTML 5<br/>b) JSON<br/>c) CSS<br/>d) JAVASCRIPT</p>
+</div>
+</div>
 
 </div>
 

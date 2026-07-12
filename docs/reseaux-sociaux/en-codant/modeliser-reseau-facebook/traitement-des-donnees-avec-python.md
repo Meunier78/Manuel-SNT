@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Pour modéliser un réseau social de type facebook, nous allons :</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Pour modéliser un réseau social de type facebook, nous allons :</p>
 <p>1. Copiez et complétez le programme suivant avec votre éditeur Python<br/></p>
 <p><i>import networkx as nx</i><br/><i>import matplotlib.pyplot as plt</i></p>
 <p><i>rsFacebook = nx.Graph()</i></p>
@@ -13,6 +18,8 @@
 <p><br/></p>
 <p><i>2. Ajoutez les lignes de code qui permettent d'afficher dans la console : </i></p>
 <ul><li><i>Le nombre de sommets et leurs noms</i><br/></li><li><i>Le nombre d'arêtes et  pour chacune, les sommets qui sont liés</i><br/></li><li><i>Le(s) centre(s) du graphe </i><br/></li><li>Le diamètre du graphe</li><li>Le rayon du graphe</li><li>Les voisins de Fabrice<br/></li></ul><p><br/></p>
+</div>
+</div>
 
 </div>
 

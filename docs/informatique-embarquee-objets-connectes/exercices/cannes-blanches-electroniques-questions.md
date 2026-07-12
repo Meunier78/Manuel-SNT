@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>La canne Rango de Gosense est un exemple de canne blanche électronique à destination des personnes malvoyantes. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>La canne Rango de Gosense est un exemple de canne blanche électronique à destination des personnes malvoyantes. <br/></p>
 <p>1. Décrivez l'ensemble des fonctionnalités de la canne Rango (rédigez une ou deux phrases par fonctionnalité). </p>
 <p>2. Expliquez pourquoi l'on peut qualifier la canne Rango de système informatique embarqué.<br/></p>
+</div>
+</div>
 
 </div>
 

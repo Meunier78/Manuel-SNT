@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p class="scrap-without-first-image"></p><p>1. Comment sont codées les informations dans les machines à base de microprocesseurs à transistors telles que les ordinateurs ?</p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p class="scrap-without-first-image"></p><p>1. Comment sont codées les informations dans les machines à base de microprocesseurs à transistors telles que les ordinateurs ?</p>
 <p>2. Qu'est-ce qu'un bit ?</p>
 <p>3. Qu'est-ce qu'un octet ?</p>
 <p>4. Dans un octet où est situé le bit de poids fort ? Donnez un exemple.</p>
@@ -17,6 +22,8 @@
 <p>13. Qu'est-ce que l'encapsulation TCP/IP ?</p>
 <p>14. À quoi sert un serveur DNS ?<br/></p>
 <p><img ="xl"="" class="imported-image" data-height="666" data-original-url="logo%2Fhash%2F551774125%3Fh%3Dc1a7318ed61d7b1e8c5ec41e6b158123" data-width="1000" id="l_2402227" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-bit-octet-adresses-etc-questions-html/image-01.jpg"/></p>
+</div>
+</div>
 
 </div>
 

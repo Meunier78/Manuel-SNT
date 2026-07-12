@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p><img class="imported-image ptSynthesisImg" data-filename="DON1.jpg" data-height="779" data-original-url="media%2For%2F551775399%3Fhid%3Dm_16827" data-width="750" id="m_16827" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-xml-arbre-des-balises-du-fichier-xml-d-exemple-schema-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="DON1.jpg" data-height="779" data-original-url="media%2For%2F551775399%3Fhid%3Dm_16827" data-width="750" id="m_16827" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-xml-arbre-des-balises-du-fichier-xml-d-exemple-schema-html/image-01.jpg"/></p>
+</div>
+</div>
 
 </div>
 

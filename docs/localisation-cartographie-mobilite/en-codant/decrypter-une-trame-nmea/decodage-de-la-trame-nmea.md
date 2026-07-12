@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Les différents éléments de la trame sont détaillés ici.  <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Les différents éléments de la trame sont détaillés ici.  <br/></p>
 <p><b>$GxGGA </b> : Type de trame (x = A : GALLILEO ; P : GPS ; L : GLONASS ; B : BEIDOU ; N :  mixte P + L)</p>
 <p><b>123036.000</b> : Trame envoyée à 12h30m36,000s (heure UTC format hhmmss.sss)</p>
 <p><b>4850.8593</b>  : Latitude 48.8476° décimaux DD (48+50.8593/60) ou 48°50'51.56" DMS (48+50+0.8593*60)</p>
@@ -18,6 +23,8 @@
 <p><b>M</b>  : en mètres</p>
 <p><b>,,,,,0000</b>  : D'autres informations si besoin</p>
 <p><b>6F</b>  : Somme de contrôle de parité</p>
+</div>
+</div>
 
 </div>
 

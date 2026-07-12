@@ -5,7 +5,9 @@
 <div class="card">
 
 
-<div><a class="relative-url" href="https://eduscol.education.fr/1540/qu-est-ce-qu-un-ent" rel="noopener" target="_blank"><p><img class="wrapped imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775021" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-exercices-qu-est-ce-qu-un-ent-site-html/image-01.jpg" width="750"/></p></a></div>
+
+
+<div><a class="relative-url" href="https://eduscol.education.fr/1540/qu-est-ce-qu-un-ent" rel="noopener" target="_blank"><p><img class="wrapped ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775021" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-exercices-qu-est-ce-qu-un-ent-site-html/image-01.jpg" width="750"/></p></a></div>
 <p>Un ENT se présente comme un bouquet modulaire et extensible de services intégrés ou connectés, et interopérables.</p>
 <p>Un ENT répond à la définition, à l'architecture de référence et aux exigences et recommandations figurant dans la version en vigueur du schéma directeur des espaces numériques de travail (SDET).</p>
 <p>Cet outil participe à la structuration du paysage du numérique éducatif.</p>

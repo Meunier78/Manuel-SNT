@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="931" data-original-url="logo%2Fhash%2F551774398%3Fh%3Dbc993be928ae161ee141715984e251f7" data-width="750" id="l_2429721" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-elements-html-selecteurs-code-et-affichage-pour-le-modele-des-boites-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="931" data-original-url="logo%2Fhash%2F551774398%3Fh%3Dbc993be928ae161ee141715984e251f7" data-width="750" id="l_2429721" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-elements-html-selecteurs-code-et-affichage-pour-le-modele-des-boites-html/image-01.jpg"/></p>
+</div>
+</div>
 
 </div>
 

@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>JSON est l'acronyme de "JavaScript Object Notation". Il s'agit d'un format de données léger, facile à lire, à comprendre et à écrire pour les humains, ainsi qu'à analyser et à générer pour les machines. JSON est devenu un format de données très répandu dans les applications Web et les API car il est facile à intégrer avec des langages de programmation tels que JavaScript, Python, Java, etc.</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>JSON est l'acronyme de "JavaScript Object Notation". Il s'agit d'un format de données léger, facile à lire, à comprendre et à écrire pour les humains, ainsi qu'à analyser et à générer pour les machines. JSON est devenu un format de données très répandu dans les applications Web et les API car il est facile à intégrer avec des langages de programmation tels que JavaScript, Python, Java, etc.</p>
 <p>La syntaxe JSON est basée sur la notation de tableau et d'objet JavaScript. Les données sont stockées sous forme de paires clé-valeur dans des objets, ou sous forme de tableaux de valeurs. Les objets {objet} sont délimités par des accolades et les tableaux [tableau] sont délimités par des crochets. Les valeurs sont généralement des chaînes de caractères, des nombres, des booléens, des tableaux ou des objets imbriqués.</p>
 <p>Voici un exemple simple permettant d'illustrer le codage d'un objet en JSON :</p>
 <p>--------------------------------</p>
@@ -36,6 +41,8 @@
 <p> ] </p>
 <p>-------------------------------<br/></p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

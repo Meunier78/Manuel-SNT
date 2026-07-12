@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Exemple pour les elements block et inline Fichier HTML (2).html" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-elements-html-selecteurs-exemple-pour-les-elements-block-et-inline-fichier-html-html/image-01.jpg"/></div></a></div></div>
 
 </div>

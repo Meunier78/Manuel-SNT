@@ -5,7 +5,9 @@
 <div class="card">
 
 
-<div><a class="relative-url" href="https://creativecommons.org/licenses/list.en" rel="noopener" target="_blank"><p><img class="wrapped imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774352" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-cours-le-droit-sur-le-web-les-licences-creative-commons-cc-html/image-01.jpg" width="750"/></p></a></div>
+
+
+<div><a class="relative-url" href="https://creativecommons.org/licenses/list.en" rel="noopener" target="_blank"><p><img class="wrapped ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774352" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-cours-le-droit-sur-le-web-les-licences-creative-commons-cc-html/image-01.jpg" width="750"/></p></a></div>
 <p>Creative Commons is the nonprofit behind the open licenses and other legal tools that allow creators to share their work. Our legal tools are free to use.</p>
 <h3>4.0 International</h3>
 <h3>3.0 Unported</h3>

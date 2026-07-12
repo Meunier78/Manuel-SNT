@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>1. D'après vous, qu'est-ce que ces différents dispositifs ont en commun ? <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. D'après vous, qu'est-ce que ces différents dispositifs ont en commun ? <br/></p>
 <p>2. Recherchez "IHM en informatique" dans un moteur de recherche. De quoi s'agit-il ? À quoi sert une IHM ? </p>
+</div>
+</div>
 
 </div>
 

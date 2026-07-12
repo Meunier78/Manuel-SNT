@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="509" data-original-url="logo%2Fhash%2F551775260%3Fh%3D9a0cda2e714d50ef0c4f75cee1a5faf7" data-width="472" id="l_2307362" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-cours-qu-est-ce-qu-une-metadonnee-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="509" data-original-url="logo%2Fhash%2F551775260%3Fh%3D9a0cda2e714d50ef0c4f75cee1a5faf7" data-width="472" id="l_2307362" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-cours-qu-est-ce-qu-une-metadonnee-html/image-01.jpg"/></p>
 <p>Les métadonnées sont des données qui en décrivent d'autres.<br/></p>
 <p>Elles fournissent des renseignements sur les caractéristiques et les propriétés d’une donnée : son nom, son format, son auteur, sa date et son heure de création ou de modification, etc.<br/></p>
 <p>Les métadonnées sont utilisées afin de faciliter la gestion, la recherche, l’analyse et l’utilisation des données. Par exemple les moteurs de recherche utilisent les métadonnées afin d’indexer et classer les pages web.</p>
@@ -19,6 +24,8 @@
 <p>________________________________<br/></p>
 <p><b>Remarque :</b> <br/></p>
 <p>Sous Microsoft Windows © les métadonnées peuvent être affichées en faisant un clic droit sur le nom du fichier puis en sélectionnant dans le menu contextuel le sous-menu "Propriétés". La fenêtre « pop-up » qui s’ouvre contient les métadonnées dans l’onglet "Détails".<br/><br/></p>
+</div>
+</div>
 
 </div>
 

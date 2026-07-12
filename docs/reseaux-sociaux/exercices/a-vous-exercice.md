@@ -2,10 +2,17 @@
 
 <div class="imported-content">
 
-<p>1. Choisissez une marque.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Choisissez une marque.<br/></p>
 <p>2. Effectuez une recherche sur sa présence sur différents réseaux sociaux. <br/></p>
 <p>3. Présentez quelques messages produits par cette marque, par exemple sur Twitter. Expliquez l'objectif de ces messages, la stratégie employée. </p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

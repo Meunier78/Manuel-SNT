@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Table de donnees vente Fichier.xlsx" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-du-ticket-caisse-base-donnees-table-de-donnees-vente-fichier-html/image-01.jpg"/></div></a></div></div>
 
 </div>

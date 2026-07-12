@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Survol de champs par un drone Video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-activites-controler-des-cultures-survol-de-champs-par-un-drone-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

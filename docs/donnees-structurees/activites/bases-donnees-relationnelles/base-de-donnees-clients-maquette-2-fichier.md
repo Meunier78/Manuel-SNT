@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Base de donnees clients maquette 2 Fichier.xlsx" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-bases-donnees-relationnelles-base-de-donnees-clients-maquette-2-fichier-html/image-01.jpg"/></div></a></div></div>
 
 </div>

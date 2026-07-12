@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>1. Expliquez ce qui peut causer l'apparition d'un flou dans une photographie. </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Expliquez ce qui peut causer l'apparition d'un flou dans une photographie. </p>
 <p>2. Nommez les trois couleurs primaires qui permettent de coder la couleur d'une image dans un fichier et la reconstituer sur un écran. <br/></p>
 <p>3. Rappelez comment on appelle les petits éléments qui composent un capteur photographique. Décrivez leur rôle dans la capture des couleurs de l'image. <br/>4. Expliquez comment la surface d'un écran lumineux (de téléphone, d'ordinateur, de télévision) recrée les nuances de couleurs d'une image. <br/></p>
 <p>5. Rappelez ce qu'est la profondeur de couleur d'une image.<br/></p>
@@ -12,6 +17,8 @@
 <p>9. Nommez quelques informations qui peuvent être stockées au format EXIF dans des fichiers de photographies numériques.</p>
 <p>10. Citez trois types de retouches que l'on peut appliquer à une photographie numérique. </p>
 <p>11. Citez quelques moyens de partager des photographies numériques, avec des proches, amis ou avec la famille. </p>
+</div>
+</div>
 
 </div>
 

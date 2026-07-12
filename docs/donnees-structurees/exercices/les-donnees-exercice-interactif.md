@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a class="relative-url" href="https://learningapps.org/display?v=p8ieab3wc23" rel="noopener" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-exercices-les-donnees-exercice-interactif-html/image-01.jpg"/></div></a></div></div>
 
 </div>

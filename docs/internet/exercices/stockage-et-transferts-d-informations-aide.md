@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img class="imported-image ptSynthesisImg" data-filename="blob" data-height="379" data-original-url="media%2For%2F551774126%3Fhid%3Dm_17073" data-width="750" id="m_17073" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-stockage-et-transferts-d-informations-aide-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="blob" data-height="379" data-original-url="media%2For%2F551774126%3Fhid%3Dm_17073" data-width="750" id="m_17073" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-stockage-et-transferts-d-informations-aide-html/image-01.jpg"/></p>
 <p>L'octet constitue l'unité de mesure informatique pour évaluer la taille d'un fichier, c'est-à-dire l'espace qu'il occupe physiquement sur un disque dur ou une mémoire de stockage. Étant donné que l'octet est une unité de taille très petite, la plupart des fichiers informatiques sont exprimés en termes de Ko (kilo-octets), Mo (méga-octets), Go (giga-octets) ou To (téra-octets) :</p>
 <ul><li>1 Ko = 1000 o = 1 x 10<sup>3</sup> o<br/></li><li>1 Mo = 1 000 000 o = 1 x 10<sup>6</sup> o<br/></li><li>1 Go = 1 000 000 000 o = 1 x 10<sup>9</sup> o</li><li>1 To = 1 000 000 000 000 o = 1 x 10<sup>12</sup> o</li></ul><p>1 octet est composé de 8 bits.<br/></p>
 <p>NB : les valeurs données ici ne sont pas rigoureuses, mais approchées. Si l'on voulait être rigoureux, il faudrait utiliser 1024, et non 1000, comme multiplicateur entre chaque unité.</p>
@@ -11,6 +16,8 @@
 <p><br/></p>
 <p><br/></p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Créez un dossier de travail dans lequel vous placerez le fichier csv ainsi que le fichier py. Téléchargez le fichier CSV en le renommant "villes_virgule.csv" et ouvrez le avec NodePad++ (ou un autre éditeur de texte).<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Créez un dossier de travail dans lequel vous placerez le fichier csv ainsi que le fichier py. Téléchargez le fichier CSV en le renommant "villes_virgule.csv" et ouvrez le avec NodePad++ (ou un autre éditeur de texte).<br/></p>
 <p>1. Combien de villes sont répertoriées ?<br/></p>
 <p>2. Donnez la surface et la population de Paris en 2012.<br/></p>
 <p>3. Ouvrez ce fichier avec un tableur tel que Excel ou Libre office Calc (jeu de caractère unicode utf-8) de manière à visualiser et travailler sur les différentes colonnes.</p>
@@ -12,6 +17,8 @@
 <p>Il est possible de récupérer certaines données du tableau, par exemple, certaines lignes, certaines colonnes ou bien encore des valeurs uniques. Pour cela, il suffit d'utiliser la méthode « loc » avec les index des lignes et les index des colonnes. Le principe de fonctionnement de « loc » est relativement simple puisque l'on aura une instruction de la forme « villes.loc[index_ligne, index_colonne] ».<br/>On peut aussi récupérer toutes les lignes d’une colonne « villes.loc[:, index_colonne] » ou toutes les colonnes d’une ligne « villes.loc[index_ligne, :] ». Index_ligne ou index_colonne peut prendre la forme d’un numéro ou d’un test.<br/></p>
 <p><b>Exemple</b> :<br/><i>print(villes.loc[villes["nom"]=="Paris", ["dens"]])</i><br/><i>print("************************")</i><br/><i>print(villes.loc[30437, :])</i></p>
 <p>La méthode mean() permet de calculer une moyenne. On l’utilise avec « villes.loc[index_ligne, index_colonne].mean() »</p>
+</div>
+</div>
 
 </div>
 

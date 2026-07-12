@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>1. Qu'est-ce qu'un octet ?<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Qu'est-ce qu'un octet ?<br/></p>
 <p>2. Combien un octet peut-il stocker d'informations ?</p>
 <p>3. Convertissez le nombre décimal 67 en binaire puis codez le sur 1 octet.<br/></p>
 <p>4. Comment code-t-on le nombre 67 en hexadécimal ?</p>
@@ -16,6 +21,8 @@
 <p><br/></p>
 <p><br/></p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

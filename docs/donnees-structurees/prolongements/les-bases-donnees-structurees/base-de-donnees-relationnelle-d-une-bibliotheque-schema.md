@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p><br/></p>
+<div class="card">
+
+
+
+
+<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775416" id="l_2436778" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-les-bases-donnees-structurees-base-de-donnees-relationnelle-d-une-bibliotheque-schema-html/image-01.jpg" width="1000"/></p><div id="note-text"><p><br/></p>
+</div>
+</div>
 
 </div>
 

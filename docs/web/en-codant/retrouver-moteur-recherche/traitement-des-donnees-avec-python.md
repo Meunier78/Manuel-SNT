@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>On souhaite réaliser une fonction explore qui traduit les titres de plusieurs pages (p1, p2, p3...) en codes, comme vu dans la présentation.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>On souhaite réaliser une fonction explore qui traduit les titres de plusieurs pages (p1, p2, p3...) en codes, comme vu dans la présentation.<br/></p>
 <p>P3 = "Le chat perdu et l'enfant" --&gt; 3070 3161 3052</p>
 <p>2. Copiez et complétez le programme suivant :</p>
 <p>liste_mots = ["vie", "saison", "continent", "femme", "homme", "enfant", </p>
@@ -50,6 +55,8 @@
 <p>mot = "vie"</p>
 <p>reponse = .....................................</p>
 <p>print(f"le mot '{mot}' est dans {reponse}")</p>
+</div>
+</div>
 
 </div>
 

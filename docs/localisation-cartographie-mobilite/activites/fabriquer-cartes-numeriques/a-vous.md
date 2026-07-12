@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>À vous de créer votre propre carte. Il peut s'agir d'une carte présentant des lieux que vous appréciez particulièrement. Il est également possible de recréer les trajets et les lieux visités lors d'un voyage en vacances, réel ou imaginé. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>À vous de créer votre propre carte. Il peut s'agir d'une carte présentant des lieux que vous appréciez particulièrement. Il est également possible de recréer les trajets et les lieux visités lors d'un voyage en vacances, réel ou imaginé. <br/></p>
 <p>Créez une carte avec différents marqueur et partagez-la en précisant son adresse unique. </p>
+</div>
+</div>
 
 </div>
 

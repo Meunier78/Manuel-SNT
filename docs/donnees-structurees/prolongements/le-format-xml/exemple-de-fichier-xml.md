@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Exemple de fichier XML.xml" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-le-format-xml-exemple-de-fichier-xml-html/image-01.jpg"/></div></a></div></div>
 
 </div>

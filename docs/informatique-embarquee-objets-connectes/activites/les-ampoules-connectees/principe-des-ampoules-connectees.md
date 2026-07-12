@@ -2,9 +2,15 @@
 
 <div class="imported-content">
 
-<p>Les ampoules connectées peut peuvent être contrôlées à distance à l'aide d'une application mobile ou d'un assistant vocal. Elles sont généralement équipées d'une connexion Wi-Fi, Bluetooth ou radio qui leur permet de communiquer avec d'autres appareils connectés. </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Les ampoules connectées peut peuvent être contrôlées à distance à l'aide d'une application mobile ou d'un assistant vocal. Elles sont généralement équipées d'une connexion Wi-Fi, Bluetooth ou radio qui leur permet de communiquer avec d'autres appareils connectés. </p>
 <p>Les utilisateurs peuvent ainsi, à partir d'interrupteurs, d'assistants vocaux ou simplement à l'aide de leur téléphone : <br/></p>
-<ul><li>contrôler l'éclairage à distance ;<br/></li><li>programmer des horaires d'allumage et d'extinction ;<br/></li><li>ajuster l'intensité ou la couleur de la lumière.<br/></li></ul>
+<ul><li>contrôler l'éclairage à distance ;<br/></li><li>programmer des horaires d'allumage et d'extinction ;<br/></li><li>ajuster l'intensité ou la couleur de la lumière.<br/></li></ul></div>
+</div>
 
 </div>
 

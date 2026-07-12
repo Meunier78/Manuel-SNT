@@ -5,7 +5,9 @@
 <div class="card">
 
 
-<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:EU_gdpr.jpg" rel="noopener" target="_blank"><p><img class="wrapped imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775158" id="l_2360954" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-reperes-2018-reglement-general-sur-la-protection-des-donnees-rgpd-html/image-01.jpg" width="500"/></p></a></div>
+
+
+<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:EU_gdpr.jpg" rel="noopener" target="_blank"><p><img class="wrapped ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775158" id="l_2360954" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-reperes-2018-reglement-general-sur-la-protection-des-donnees-rgpd-html/image-01.jpg" width="500"/></p></a></div>
 
 </div>
 

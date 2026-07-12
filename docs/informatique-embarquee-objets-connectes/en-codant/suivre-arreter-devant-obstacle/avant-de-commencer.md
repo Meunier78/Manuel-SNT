@@ -2,8 +2,14 @@
 
 <div class="imported-content">
 
-<p>Contexte de la mise en œuvre de l'activité : en classe, en présence de l'enseignant<br/>Ressources, matériel, documents nécessaires :<br/></p>
-<ul><li>Connexion Internet à l'espace Vittascience ou Capytale<br/></li><li>Un robot Maqueen pour les tests réels</li></ul>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Contexte de la mise en œuvre de l'activité : en classe, en présence de l'enseignant<br/>Ressources, matériel, documents nécessaires :<br/></p>
+<ul><li>Connexion Internet à l'espace Vittascience ou Capytale<br/></li><li>Un robot Maqueen pour les tests réels</li></ul></div>
+</div>
 
 </div>
 

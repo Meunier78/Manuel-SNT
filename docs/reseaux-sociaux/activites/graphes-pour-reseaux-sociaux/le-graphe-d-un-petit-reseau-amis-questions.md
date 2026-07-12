@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>1. Quelle est la distance entre Louna et Margot ? </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Quelle est la distance entre Louna et Margot ? </p>
 <p>2. Quelle est la distance entre Leila et Margot ? </p>
+</div>
+</div>
 
 </div>
 

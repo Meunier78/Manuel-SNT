@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="721" data-original-url="media%2FpearlContent%2F551777118" data-width="1000" id="l_2439062" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-en-codant-ajouter-des-filtres-une-image-images-du-perroquet-avec-des-filtres-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="721" data-original-url="media%2FpearlContent%2F551777118" data-width="1000" id="l_2439062" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-en-codant-ajouter-des-filtres-une-image-images-du-perroquet-avec-des-filtres-html/image-01.jpg"/></p>
+</div>
+</div>
 
 </div>
 

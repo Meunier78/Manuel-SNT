@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Un utilisateur a ajouté l'adresse d'une résidence à Aix-en-Provence (n°<b>345 </b>chemin Mouret). </p>
+<div class="card">
+
+
+
+
+<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775525" id="l_2436682" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/localisation-cartographie-activites-fabriquer-cartes-numeriques-la-carte-du-chemin-mouret-avant-et-apres-image-html/image-01.jpg" width="1000"/></p><div id="note-text"><p>Un utilisateur a ajouté l'adresse d'une résidence à Aix-en-Provence (n°<b>345 </b>chemin Mouret). </p>
+</div>
+</div>
 
 </div>
 

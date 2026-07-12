@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img class="imported-image ptSynthesisImg" data-filename="blob" data-height="405" data-original-url="media%2For%2F551776938%3Fhid%3Dm_16915" data-width="750" id="m_16915" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-les-metadonnees-photographie-latitude-et-longitude-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="blob" data-height="405" data-original-url="media%2For%2F551776938%3Fhid%3Dm_16915" data-width="750" id="m_16915" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-les-metadonnees-photographie-latitude-et-longitude-html/image-01.jpg"/></p>
 <p>Pour décrire une position à la surface de la Terre, on utilise généralement la latitude et la longitude. La latitude permet de se repérer par rapport au nord et au sud. La longitude par rapport à l'ouest et à l'est. </p>
 <p>Latitude et longitude s'expriment en degrés. </p>
 <p>L'origine (valeur zéro) de la latitude est l'équateur, celle de la longitude est le méridien de Greenwich (qui passe notamment par l'Angleterre). </p>
@@ -13,7 +18,8 @@
 <p>Les coordonnées de Rio de Janeiro peuvent donc encore être écrites : 22°55'14"S et 43°11'6"O.</p>
 <p>Des convertisseurs en ligne peuvent être utilisés pour ne pas avoir à mener des calculs compliqués. </p>
 <p>Écritures équivalentes : </p>
-<ul><li>-22.92048, -43.18512 ;</li><li>22.92048°S, 43.18512°O ;</li><li>22°55'14"S et 43°11'6"O.<br/></li></ul>
+<ul><li>-22.92048, -43.18512 ;</li><li>22.92048°S, 43.18512°O ;</li><li>22°55'14"S et 43°11'6"O.<br/></li></ul></div>
+</div>
 
 </div>
 

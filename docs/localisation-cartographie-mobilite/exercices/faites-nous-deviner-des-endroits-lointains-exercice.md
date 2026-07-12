@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Choisissez un lieu que vous aimeriez visiter. À partir d'un site de cartes numériques (OpenStreetMap, Google Maps, Geoportail, etc.), identifiez sa latitude et sa longitude. Communiquez-les à l'un ou l'une de vos camarades qui devra deviner l'endroit, en utilisant le site de son choix.  </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Choisissez un lieu que vous aimeriez visiter. À partir d'un site de cartes numériques (OpenStreetMap, Google Maps, Geoportail, etc.), identifiez sa latitude et sa longitude. Communiquez-les à l'un ou l'une de vos camarades qui devra deviner l'endroit, en utilisant le site de son choix.  </p>
+</div>
+</div>
 
 </div>
 

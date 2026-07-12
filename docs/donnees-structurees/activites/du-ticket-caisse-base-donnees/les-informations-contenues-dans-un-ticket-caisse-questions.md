@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>Consultez les trois exemples de tickets de caisse et répondez aux questions suivantes.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Consultez les trois exemples de tickets de caisse et répondez aux questions suivantes.<br/></p>
 <p>1. Sur ces trois tickets, quelles sont les informations qui dépendent du client et de ses achats ?</p>
 <p>2. Quelles sont celles communes à tous les tickets ?</p>
+</div>
+</div>
 
 </div>
 

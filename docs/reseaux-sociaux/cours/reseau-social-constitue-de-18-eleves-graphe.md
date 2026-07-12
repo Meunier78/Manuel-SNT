@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p><img class="imported-image ptSynthesisImg" data-height="239" data-original-url="media%2For%2F551774999%3Fhid%3Dm_16280" data-width="750" id="m_16280" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-cours-reseau-social-constitue-de-18-eleves-graphe-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-height="239" data-original-url="media%2For%2F551774999%3Fhid%3Dm_16280" data-width="750" id="m_16280" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-cours-reseau-social-constitue-de-18-eleves-graphe-html/image-01.jpg"/></p>
+</div>
+</div>
 
 </div>
 

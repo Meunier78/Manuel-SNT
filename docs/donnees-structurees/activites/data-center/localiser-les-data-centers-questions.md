@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>En utilisant le site Data Center map, répondez aux questions suivantes.  </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>En utilisant le site Data Center map, répondez aux questions suivantes.  </p>
 <p>1. Dressez par ordre décroissant la liste des cinq pays hébergeant le plus de centres de données dans le monde.</p>
 <p>2. En France, où sont principalement localisés les centre de données ? Pour quelles raisons selon vous ?</p>
+</div>
+</div>
 
 </div>
 

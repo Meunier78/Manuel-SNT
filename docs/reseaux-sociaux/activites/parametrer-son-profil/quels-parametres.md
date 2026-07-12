@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>1. Choisissez un réseau social. Sur votre téléphone ou celui d'une connaissance, affichez les paramètres de confidentialité de ce réseau social, dans l'application correspondante.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Choisissez un réseau social. Sur votre téléphone ou celui d'une connaissance, affichez les paramètres de confidentialité de ce réseau social, dans l'application correspondante.<br/></p>
 <p>2. Réalisez une capture d'écran de la page qui s'affiche.<br/></p>
 <p>3. Expliquez les principaux réglages : à quoi correspondent-ils ? Quel est leur rôle ? Quelles sont les conséquences du changement de ces réglages ?  <br/></p>
+</div>
+</div>
 
 </div>
 

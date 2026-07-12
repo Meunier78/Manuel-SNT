@@ -2,7 +2,15 @@
 
 <div class="imported-content">
 
-<p>Le navigateur Mosaic, développé par le NCSA, permet une navigation visuelle avec des images intégrées.<br/></p>
+<div class="card">
+
+
+
+
+
+<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:NCSA_Mosaic_Browser_Screenshot.png" rel="noopener" target="_blank"><p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774275" id="l_2420437" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-reperes-1993-disponibilite-du-premier-navigateur-mosaic-html/image-01.jpg" width="750"/></p></a></div><div id="note-text"><p>Le navigateur Mosaic, développé par le NCSA, permet une navigation visuelle avec des images intégrées.<br/></p>
+</div>
+</div>
 
 </div>
 

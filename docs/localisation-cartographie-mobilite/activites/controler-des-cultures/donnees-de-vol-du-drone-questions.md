@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>Des données ont pu être récupérées à partir du drone qui a réalisé le survol. Trois grandeurs ont été extraites des données de vol : la latitude, la longitude et l'altitude du drone qui sont mesurées plusieurs fois par seconde. </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Des données ont pu être récupérées à partir du drone qui a réalisé le survol. Trois grandeurs ont été extraites des données de vol : la latitude, la longitude et l'altitude du drone qui sont mesurées plusieurs fois par seconde. </p>
 <p>1. Que représentent les différents graphes, tracés, valeurs affichées dans la vidéo ? </p>
 <p>2. Comment, à partir de la latitude, la longitude et l'altitude, les vitesses ont-elles été calculées, d'après vous ?<b> </b><br/></p>
+</div>
+</div>
 
 </div>
 

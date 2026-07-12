@@ -2,13 +2,20 @@
 
 <div class="imported-content">
 
-<p>1. Quelle est, en hexadécimal, l'adresse physique MAC de la machine vers laquelle est envoyée la trame ?<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Quelle est, en hexadécimal, l'adresse physique MAC de la machine vers laquelle est envoyée la trame ?<br/></p>
 <p>2. Quelle est, en hexadécimal, l'adresse physique MAC de la machine d'où elle provient ?</p>
 <p>3. Quel est le type des données acheminées par la trame ?</p>
 <p>4. Quel est le type de protocole IP utilisé ?<br/></p>
 <p>5. Quelle est, en décimal pointé, l'adresse IP de la machine vers laquelle est envoyée la trame ?<br/></p>
 <p>6. Quelle est, en décimal pointé, l'adresse IP de la machine d'où provient la trame ?<br/></p>
 <p>7. Quel est le contenu du message ?</p>
+</div>
+</div>
 
 </div>
 

@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p><br/></p>
+<div class="card">
+
+
+
+
+<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774488" id="l_2432904" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-prolongements-creation-adaptent-differentes-aligner-les-elements-sur-l-axe-secondaire-html/image-01.jpg" width="1000"/></p><div id="note-text"><p><br/></p>
 <p>Si les éléments sont placés selon une direction horizontale (ligne), l’axe secondaire est vertical et réciproquement. L’instruction <b>align-items</b> qui peut prendre les valeurs ci-dessous permet de modifier l’alignement des éléments selon un axe secondaire :<br/></p>
 <ul><li><b>stretch </b>: les éléments sont étirés sur tout l'axe (valeur par défaut) ;<br/></li><li><b>flex-start</b> : alignés au début ;<br/></li><li><b>flex-end</b> : alignés à la fin ;<br/></li><li><b>center </b>: alignés au centre ;<br/></li><li><b>baseline</b> : alignés sur la ligne de base (semblable à flex-start).</li></ul><p><br/></p>
+</div>
+</div>
 
 </div>
 

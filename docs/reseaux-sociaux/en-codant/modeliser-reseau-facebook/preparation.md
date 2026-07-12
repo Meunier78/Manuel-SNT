@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Pour tracer des graphes, on utilise la bibliothèque dédiée « networkx » ainsi que la bibliothèque « matplotlib.pyplot ». </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Pour tracer des graphes, on utilise la bibliothèque dédiée « networkx » ainsi que la bibliothèque « matplotlib.pyplot ». </p>
 <p><i>Import networkx as nx</i></p>
 <p><i>import matplotlib.pyplot as plt</i></p>
 <p>On fabrique un objet graphe nommé « rsFacebook » par exemple et on prépare des options pour le tracé :</p>
@@ -18,6 +23,8 @@
 <p>On peut aussi afficher les sommets  avec <i>rsFacebook.edges()</i> et leur nombre avec <i>rsFacebook.number_of_edges()</i>.</p>
 <p>Les arêtes et leur nombre en utilisant <i>nodes()</i> et <i>number_of_nodes().</i></p>
 <p>On peut également afficher le(s) centre(s), le diamètre et le rayon du graphe avec les fonctions <i>nx.center(rsFacebook)</i>, nx.<i>diameter(rsFacebook)</i> et nx.<i>radius(rsFacebook)</i></p>
+</div>
+</div>
 
 </div>
 

@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Consommation mondiale data center Fichier.xlsx" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-environnemental-numerique-consommation-mondiale-data-center-fichier-html/image-01.jpg"/></div></a></div></div>
 
 </div>

@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>1. La modélisation du réseau-exemple présente plusieurs inconvénients par rapport à la réalité. Citez quelques-uns d'entre eux.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. La modélisation du réseau-exemple présente plusieurs inconvénients par rapport à la réalité. Citez quelques-uns d'entre eux.<br/></p>
 <p>2. Trouvez les inconvénients majeurs de chacune des stratégies présentées dans le document « Quelques stratégies de routage à envisager ».</p>
 <p>3. Existe-t-il, selon vous, une autre stratégie bien meilleure que les précédentes ?</p>
+</div>
+</div>
 
 </div>
 

@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p class="scrap-without-first-image"></p><p>Le site <a href="http://webgraphviz.com/" rel="noopener" target="_blank">http://webgraphviz.com/</a> permet de générer des graphes de manière automatisée. <br/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p class="scrap-without-first-image"></p><p>Le site <a href="http://webgraphviz.com/" rel="noopener" target="_blank">http://webgraphviz.com/</a> permet de générer des graphes de manière automatisée. <br/></p>
 <p>Si l'on copie-colle le texte ci-dessous dans le générateur pour remplacer le code présent par défaut, et que l'on clique sur "Generate Graph!", le site construit le schéma correspondant. <br/></p>
 <p>strict graph {<br/>"Elise" -- "Leila"<br/>"Elise" -- "Maelys"<br/>"Elise" -- "Pauline"<br/>"Alexandre" -- "Luc"<br/>"Emma" -- "Inès"<br/>"Emma" -- "Louna"<br/>"Alexandre" -- "Emma"<br/>"Inès" -- "Margot" <br/>"Luc" -- "Maelys"<br/>}  </p>
 <p>Il est conseillé d'écrire les prénoms entre guillemets, et le double moins (--) permet de créer une relation d'amitié réciproque.<br/></p>
@@ -11,6 +16,8 @@
 <p>1) Copier-coller le code dans la page du site <a href="http://webgraphviz.com/" rel="noopener" target="_blank">http://webgraphviz.com/</a> pour générer le graphe à votre tour. </p>
 <p>2) Sur le site <a href="http://webgraphviz.com/" rel="noopener" target="_blank">http://webgraphviz.com/</a>, créez un graphe réel ou imaginaire représentant des amitiés sur un réseau social. 10 personnes au moins doivent le composer. <br/></p>
 <p>3) Estimez ensuite le rayon de ce graphe, son diamètre. Identifiez son centre ou ses centres. </p>
+</div>
+</div>
 
 </div>
 

@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Pour décrire une position à la surface de la Terre, on utilise généralement la latitude et la longitude. La latitude permet de se repérer par rapport au nord et au sud. La longitude par rapport à l'ouest et à l'est. </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Pour décrire une position à la surface de la Terre, on utilise généralement la latitude et la longitude. La latitude permet de se repérer par rapport au nord et au sud. La longitude par rapport à l'ouest et à l'est. </p>
 <p>Latitude et longitude s'expriment en degrés. </p>
 <p>L'origine (valeur zéro) de la latitude est l'équateur, celle de la longitude est le méridien de Greenwich (qui passe notamment par l'Angleterre). </p>
 <p>Le centre de la ville d'Orléans est ainsi localisé à une latitude de 47,9° Nord, 1,9° Est. </p>
@@ -17,6 +22,8 @@
 <p>22.92048°S, 43.18512°O</p>
 <p>22°55'14"S et 43°11'6"O</p>
 <p>Une troisième grandeur, l'altitude, permet d'identifier l'élévation d'un endroit. Généralement, elle est repérée par rapport au niveau de la mer.</p>
+</div>
+</div>
 
 </div>
 

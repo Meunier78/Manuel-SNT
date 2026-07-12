@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Téléchargez le fichier consommation_mondiale_data_center.ods puis ouvrez-le avec le tableur <a href="https://fr.libreoffice.org/download/telecharger-libreoffice/" rel="noopener" target="_blank">Calc</a> de la suite bureautique libre et gratuite <a href="https://fr.libreoffice.org/" rel="noopener" target="_blank">LibreOffice</a>. Répondez aux questions suivantes.</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Téléchargez le fichier consommation_mondiale_data_center.ods puis ouvrez-le avec le tableur <a href="https://fr.libreoffice.org/download/telecharger-libreoffice/" rel="noopener" target="_blank">Calc</a> de la suite bureautique libre et gratuite <a href="https://fr.libreoffice.org/" rel="noopener" target="_blank">LibreOffice</a>. Répondez aux questions suivantes.</p>
 <p>1. Depuis une dizaine d'années, la croissance de la consommation électrique totale mondiale est de 2 % par an. Celle des centres de données double en moyenne tous les 4 ans. Nous formulerons comme hypothèse qu'il en sera de même dans les années à venir.</p>
 <p>a) En utilisant les fonctionnalités du tableur (formule), calculez (ligne 3) pour les années 2023 à 2043 la consommation mondiale d'électricité sur la base de l'hypothèse énoncée.</p>
 <p>b) En utilisant les fonctionnalités du tableur (formule), calculez (ligne 4) la consommation mondiale des data center pour les années 2026, 2030, 2034, 2038 et 2042 (cases vertes) sur la base de l'hypothèse énoncée.</p>
@@ -12,6 +17,8 @@
 <p>a) Quelle est l'empreinte carbone d'un film HD de 2h00 visionné en streaming ?</p>
 <p>b) En moyenne, un abonné à une plateforme de streaming consomme 2h00 de séries ou de films chaque jour. Quelle est l'empreinte carbone annuelle de cette activité de loisir pour un abonné ?</p>
 <p>c) En France, en 2022, la plus grande plateforme de streaming comptait environ 10 millions d'abonnés. Quelle est l'empreinte carbone totale générée en France par an ? Comparez avec l'empreinte carbone des transports routiers qui était d'environ 120 millions de tonnes de CO<sub>2 </sub>équivalent.</p>
+</div>
+</div>
 
 </div>
 

@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Les réseaux antagonistes génératifs (GAN) ont apporté d'énormes progrès tant au niveau de la création visuelle que de contenus, mais ils soulèvent également d'importantes questions éthiques. Voici quelques-uns d'entre eux soulevés par les GAN.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Les réseaux antagonistes génératifs (GAN) ont apporté d'énormes progrès tant au niveau de la création visuelle que de contenus, mais ils soulèvent également d'importantes questions éthiques. Voici quelques-uns d'entre eux soulevés par les GAN.<br/></p>
 <p><b>Désinformation et fausses informations</b><br/></p>
 <p>Les GAN peuvent être utilisés pour créer des images et des vidéos réalistes qui semblent réelles, mais qui sont en réalité fabriquées. Cela peut être utilisé pour créer de fausses informations, de fausses images et de fausses vidéos, ce qui peut avoir de graves conséquences sur la confiance du public et la diffusion des informations. <br/></p>
 <p><b>Contenu offensant ou illégal </b><br/></p>
@@ -17,6 +22,8 @@
 <p>Les GAN peuvent être utilisés pour générer des images de visages, d'empreintes digitales, d'iris afin de contourner les systèmes de sécurité basés sur la reconnaissance faciale ou biométrique.<br/></p>
 <p><b>Attaques et piratages</b><br/></p>
 <p>Les GAN peuvent apporter de légères modifications aux données d'entrée (comme des images) afin de tromper les modèles d'apprentissage automatique. En particulier, ils peuvent être utilisés pour générer ces perturbations, rendant les modèles incapables de classer correctement les données.<br/></p>
+</div>
+</div>
 
 </div>
 

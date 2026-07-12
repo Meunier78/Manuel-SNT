@@ -5,7 +5,9 @@
 <div class="card">
 
 
-<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775152" id="l_2445121" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-les-donnees-en-une-seule-frise-html/image-01.jpg" width="664"/></p><div id="note-text"></div>
+
+
+<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775152" id="l_2445121" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-les-donnees-en-une-seule-frise-html/image-01.jpg" width="664"/></p><div id="note-text"></div>
 </div>
 
 </div>

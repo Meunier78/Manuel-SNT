@@ -2,7 +2,16 @@
 
 <div class="imported-content">
 
-<p class="wrapped-paragraph"><img class="wrapped imported-image ptSynthesisImg" data-height="293" data-original-url="media%2FpearlContent%2F551775008" data-width="220" id="ptSynthesisImg" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-exercices-qu-est-ce-qu-un-influenceur-web-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+
+<div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Influenceur_web" rel="noopener" target="_blank"><div id="note-text"><p class="wrapped-paragraph"><img class="wrapped ptSynthesisImg imported-image" data-height="293" data-original-url="media%2FpearlContent%2F551775008" data-width="220" id="ptSynthesisImg" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-exercices-qu-est-ce-qu-un-influenceur-web-html/image-01.jpg"/></p></div></a></div>
+<p>Un <b>influenceur</b> ou une <b>influenceuse web</b>, dans la culture numérique et plus particulièrement du Web et des plateformes de contenu et de réseautage social, est une personne qui, par son statut, sa position ou son exposition médiatique, est capable d'être un relais d'opinion influençant les habitudes de consommation parfois dans un but de manipulation à visée marketing.</p>
+<p><br/></p>
+</div>
 
 </div>
 

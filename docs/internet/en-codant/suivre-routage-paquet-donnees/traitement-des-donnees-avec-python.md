@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Nous allons déterminer la route pour aller de la machine source à la destination. La source est forcément l'un des deux ordinateurs portables. La destination peut être entrée avec la commande ping suivie d'une adresse IP ou d'un nom de domaine.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Nous allons déterminer la route pour aller de la machine source à la destination. La source est forcément l'un des deux ordinateurs portables. La destination peut être entrée avec la commande ping suivie d'une adresse IP ou d'un nom de domaine.<br/></p>
 <p>Soit le programme :<br/></p>
 <p><i>def est_ipv4(ad):</i><br/><i>    # Permet de savoir si l'adresse ad est au format IPV4</i><br/><i>    ad = ad.split('.')</i><br/><i>    if len(ad) != 4:</i><br/><i>        return False</i><br/><i>    for a in ad:</i><br/><i>        if not (0 &lt;= int(a) &lt;= 255):</i><br/><i>            return False</i><br/><i>    return True</i></p>
 <p><i>def net_id(adresse, masque):</i><br/><i>    # Renvoie l'adresse du réseau</i><br/><i>    netid = [0]*4</i><br/><i>    ad = adresse.split('.')</i><br/><i>    ma = masque.split('.')</i><br/><i>    for i in range(4):</i><br/><i>        netid[i] = str(int(ad[i])&amp;int(ma[i]))</i><br/><i>    netid = '.'.join(netid)</i><br/><i>    return netid</i></p>
@@ -32,6 +37,8 @@
 <p><i>        print("\t--&gt; ...........................")</i></p>
 <p><i>destination = ......................................</i></p>
 <p><i>print("destination : ", destination)</i></p>
+</div>
+</div>
 
 </div>
 

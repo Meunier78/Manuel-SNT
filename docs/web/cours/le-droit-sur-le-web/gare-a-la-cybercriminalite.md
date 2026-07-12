@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>La cybercriminalité est devenue un problème sérieux et en forte expansion. En tant qu'internaute, il est important d'être conscient des risques associés à la fraude en ligne, au vol d'identité, aux attaques de phishing, smishing, etc. Protégez vos informations personnelles, utilisez des mots de passe forts et faites attention à ce que vous faites en ligne. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>La cybercriminalité est devenue un problème sérieux et en forte expansion. En tant qu'internaute, il est important d'être conscient des risques associés à la fraude en ligne, au vol d'identité, aux attaques de phishing, smishing, etc. Protégez vos informations personnelles, utilisez des mots de passe forts et faites attention à ce que vous faites en ligne. <br/></p>
+</div>
+</div>
 
 </div>
 

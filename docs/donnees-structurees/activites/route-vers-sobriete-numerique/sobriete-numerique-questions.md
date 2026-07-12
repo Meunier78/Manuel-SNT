@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>1. Quelle est la part du numérique dans la consommation électrique française ?</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Quelle est la part du numérique dans la consommation électrique française ?</p>
 <p>2. Quel était en 2021, le nombre moyen d'équipements numériques par personne en Europe occidentale ?</p>
 <p>3. À combien l'ADEME estime-t-elle le nombre d'objets numériques en 2025 ?</p>
 <p>4. Quelle est la distance moyenne parcourue par une donnée numérique (mail, vidéo...)  ?</p>
@@ -12,6 +17,8 @@
 <p>8. Pourquoi l'ADEME met en garde contre le renouvellement trop fréquent des équipements numériques ? Quelles pratiques encourage-t-elle ?</p>
 <p>9. Quelles sont les bonnes habitudes que l'ADEME recommande afin de limiter la consommation électrique des équipement numériques ?</p>
 <p>10. Comment limiter le poids et le parcours des données ?</p>
+</div>
+</div>
 
 </div>
 

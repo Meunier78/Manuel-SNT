@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img class="imported-image ptSynthesisImg" data-filename="blob" data-height="758" data-original-url="media%2For%2F551774095%3Fhid%3Dm_17065" data-width="750" id="m_17065" loading="lazy" src="/Manuel-SNT/assets/imported/internet-cours-protocole-tcp-ip-et-routage-un-exemple-de-routage-ip-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="blob" data-height="758" data-original-url="media%2For%2F551774095%3Fhid%3Dm_17065" data-width="750" id="m_17065" loading="lazy" src="/Manuel-SNT/assets/imported/internet-cours-protocole-tcp-ip-et-routage-un-exemple-de-routage-ip-html/image-01.jpg"/></p>
 <p>Supposons, comme sur le schéma, que nous ayons un réseau local (LAN) avec l'adresse IP 192.168.0.0/24. Cela signifie que les trois premiers octets (192.168.0) représentent le réseau et le dernier octet (0) est réservé aux hôtes.</p>
 <p>Le réseau local (LAN) et connecté à internet (WAN) via un routeur (box internet) qui possède deux interfaces réseau :</p>
 <ul><li>Interface 1 : Adresse IP 192.168.0.1/24 (connectée au réseau local)</li><li>Interface 2 : Adresse IP 10.0.0.1/24 (connectée au réseau externe du FAI)</li></ul><p>Maintenant, supposons qu'un ordinateur ayant pour IP 192.168.0.101/24 sur le réseau local souhaite envoyer des données à un serveur possédant l'adresse IP 8.8.8.8 (représentant le serveur DNS de Google).</p>
@@ -14,6 +19,8 @@
 <p>Ce processus se poursuit à travers plusieurs routeurs sur Internet jusqu'à ce que le paquet atteigne finalement le réseau du serveur DNS de Google.</p>
 <p>Une fois que le paquet atteint le réseau du serveur DNS, les routeurs locaux acheminent le paquet vers l'adresse IP de destination spécifiée (8.8.8.8) jusqu'à ce qu'il atteigne le serveur DNS lui-même.</p>
 <p>Le serveur DNS répond ensuite au paquet en suivant le même processus de routage inverse pour renvoyer les données demandées à l'ordinateur source sur le réseau local.</p>
+</div>
+</div>
 
 </div>
 

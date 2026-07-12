@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>1. Dans le graphe "Un petit réseau d'amis", il y a trois centres. Identifiez-les. </p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Dans le graphe "Un petit réseau d'amis", il y a trois centres. Identifiez-les. </p>
 <p>2. Déterminez la valeur du diamètre de ce graphe. </p>
+</div>
+</div>
 
 </div>
 

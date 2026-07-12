@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Les tableurs comme Microsoft Excel ou LibreOffice Calc sont des outils utiles pour organiser et analyser des données sous forme de feuilles de calcul. Cependant, ils ne sont pas conçus pour gérer efficacement des bases de données lorsque celles-ci sont volumineuses. Voici quelques raisons pour lesquelles une base de données peut être préférable à un tableur.</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Les tableurs comme Microsoft Excel ou LibreOffice Calc sont des outils utiles pour organiser et analyser des données sous forme de feuilles de calcul. Cependant, ils ne sont pas conçus pour gérer efficacement des bases de données lorsque celles-ci sont volumineuses. Voici quelques raisons pour lesquelles une base de données peut être préférable à un tableur.</p>
 <p><b>1. Gestion de données plus complexes</b><br/></p>
 <p>Les bases de données peuvent stocker des données plus complexes et plus structurées que les tableurs. Elles permettent de stocker des données dans des tables (tableaux à 2 dimensions) avec des relations entre elles, ce qui facilite la manipulation et la recherche de données. Elle propose également un système de contrôle de l'intégrité des données permettant une vérification stricte de leurs valeurs.</p>
 <p><b>2. Plus grande capacité</b><br/></p>
@@ -13,6 +18,8 @@
 <p>Les bases de données peuvent offrir des niveaux de sécurité plus élevés que les tableurs. Elles peuvent être protégées par des mots de passe et des autorisations d'accès spécifiques pour chaque utilisateur, ce qui permet de contrôler qui peut accéder et modifier les données.</p>
 <p><b>5. Meilleure performance</b><br/></p>
 <p>Les bases de données sont optimisées pour offrir une performance élevée lors de la recherche et de la manipulation de grandes quantités de données. Les requêtes peuvent être exécutées rapidement et les résultats peuvent être affichés d'une manière optimisée.</p>
+</div>
+</div>
 
 </div>
 

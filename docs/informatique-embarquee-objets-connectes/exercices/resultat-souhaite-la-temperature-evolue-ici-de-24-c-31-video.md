@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Resultat souhaite la temperature evolue ici de 24 C 31 Video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/informatique-embarquee-exercices-resultat-souhaite-la-temperature-evolue-ici-de-24-c-31-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

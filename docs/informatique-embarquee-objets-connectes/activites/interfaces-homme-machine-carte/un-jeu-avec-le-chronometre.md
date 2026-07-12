@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Défiez vos camarades. Qui pourra, en comptant dans sa tête, arrêter le chronomètre au plus proche de 5000 ms (5 secondes) ou de 10 000 ms (10 secondes) ?  <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Défiez vos camarades. Qui pourra, en comptant dans sa tête, arrêter le chronomètre au plus proche de 5000 ms (5 secondes) ou de 10 000 ms (10 secondes) ?  <br/></p>
+</div>
+</div>
 
 </div>
 

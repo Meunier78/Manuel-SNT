@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Regardez les deux vidéos proposées puis répondez aux questions suivantes.</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Regardez les deux vidéos proposées puis répondez aux questions suivantes.</p>
 <p>1. Quelle est la différence entre Internet et le Web ?<br/></p>
 <p>2. Quelle est la différence entre un navigateur web et un moteur de recherche ?</p>
 <p>3. Expliquez brièvement le principe d'affichage d'une page web dans un navigateur.</p>
@@ -12,6 +17,8 @@
 <p><br/></p>
 <p><br/></p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

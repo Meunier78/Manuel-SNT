@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="700" data-original-url="logo%2Fhash%2F551774348%3Fh%3D07af567c66afac531e8fa83f1229cbdf" data-width="1000" id="l_2434181" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-qu-est-ce-que-le-seo-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="700" data-original-url="logo%2Fhash%2F551774348%3Fh%3D07af567c66afac531e8fa83f1229cbdf" data-width="1000" id="l_2434181" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-qu-est-ce-que-le-seo-html/image-01.jpg"/></p>
 <p><br/></p>
 <p>Le SEO, ou Search Engine Optimization (optimisation pour les moteurs de recherche), est un ensemble de techniques visant à améliorer la visibilité et le classement d'un site web dans les résultats des moteurs de recherche tels que Google. L'objectif principal du SEO est d'attirer un trafic organique et qualifié vers un site web en le positionnant favorablement dans les résultats de recherche.</p>
 <p>Voici un exemple concret.</p>
@@ -20,6 +25,8 @@
 <p><br/></p>
 <p>En utilisant ces techniques et en continuant à améliorer votre stratégie SEO, vous pouvez augmenter votre visibilité dans les résultats de recherche, attirer plus de visiteurs intéressés par la cuisine végétarienne et éventuellement augmenter votre audience et votre impact en ligne.</p>
 <p>Il est important de noter que le SEO est un processus continu et évolutif, car les moteurs de recherche mettent régulièrement à jour leurs algorithmes. Par conséquent, il est essentiel de rester informé des dernières tendances et pratiques recommandées.</p>
+</div>
+</div>
 
 </div>
 

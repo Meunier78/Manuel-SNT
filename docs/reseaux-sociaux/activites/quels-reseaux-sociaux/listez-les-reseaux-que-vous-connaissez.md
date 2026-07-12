@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>À vous maintenant !<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>À vous maintenant !<br/></p>
 <p>Listez les réseaux sociaux que vous utilisez ou que vous connaissez et qui vous semblent compatibles avec la définition donnée. <br/></p>
+</div>
+</div>
 
 </div>
 

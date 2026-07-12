@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a class="relative-url" href="https://twitter.com/PompiersFR/status/1642054992826605571" rel="noopener" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-exercices-la-fin-de-la-gratuite-des-pompiers-tweet-html/image-01.jpg"/></div></a></div></div>
 
 </div>

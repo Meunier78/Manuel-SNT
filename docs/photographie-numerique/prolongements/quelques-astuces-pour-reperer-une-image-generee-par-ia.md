@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Détecter une image générée par une IA peut parfois être un défi, car les progrès de la génération d'images à l'aide de réseaux de neurones ont permis de produire des images de plus en plus réalistes. Cependant, il existe plusieurs astuces que vous pouvez utiliser pour essayer de détecter de telles images.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Détecter une image générée par une IA peut parfois être un défi, car les progrès de la génération d'images à l'aide de réseaux de neurones ont permis de produire des images de plus en plus réalistes. Cependant, il existe plusieurs astuces que vous pouvez utiliser pour essayer de détecter de telles images.<br/></p>
 <p><b>Analyse des motifs récurrents</b><br/></p>
 <p>Les modèles génératifs sur lesquels s'appuient les IA ont tendance à reproduire des motifs récurrents dans les images fabriquées. Si vous voyez des éléments ou des arrangements qui semblent trop parfaits ou trop cohérents, cela pourrait indiquer que l'image a été fabriquée artificiellement par une IA. <br/></p>
 <p><b>Examen des détails</b><br/></p>
@@ -17,6 +22,8 @@
 <p><b>Utilisation d'outils spécialisés</b><br/></p>
 <p>Il existe des outils et des logiciels qui peuvent analyser des images pour détecter des anomalies ou des traces de génération automatique. Ces outils peuvent se baser sur des différences statistiques ou des caractéristiques typiques des images fabriquées.<br/></p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

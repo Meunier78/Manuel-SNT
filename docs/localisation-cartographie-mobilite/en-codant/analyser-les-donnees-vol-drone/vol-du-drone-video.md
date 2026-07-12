@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Vol du drone Video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-en-codant-analyser-les-donnees-vol-drone-vol-du-drone-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

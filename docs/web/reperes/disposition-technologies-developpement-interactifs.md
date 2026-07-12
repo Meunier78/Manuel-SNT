@@ -2,7 +2,15 @@
 
 <div class="imported-content">
 
-<p>Netscape Communications introduit le langage de script JavaScript, permettant de rendre les pages web plus interactives. Invention par Rasmus Lerdorf du langage de programmation PHP qui permet de créer des sites web dynamiques en générant du contenu personnalisé en fonction des interactions des utilisateurs.<br/></p>
+<div class="card">
+
+
+
+
+
+<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:Wikirl.jpg" rel="noopener" target="_blank"><p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774268" id="l_2420678" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-reperes-disposition-technologies-developpement-interactifs-html/image-01.jpg" width="629"/></p></a></div><div id="note-text"><p>Netscape Communications introduit le langage de script JavaScript, permettant de rendre les pages web plus interactives. Invention par Rasmus Lerdorf du langage de programmation PHP qui permet de créer des sites web dynamiques en générant du contenu personnalisé en fonction des interactions des utilisateurs.<br/></p>
+</div>
+</div>
 
 </div>
 

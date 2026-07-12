@@ -2,8 +2,14 @@
 
 <div class="imported-content">
 
-<p>Afin que le code s'exécute correctement, assurez-vous de les placer les deux fichiers (index.html et script.js) dans le même répertoire. Ainsi le code JavaScript sera correctement inclus et exécuté lorsque vous ouvrez le fichier HTML dans un navigateur.<br/></p>
+<div class="card">
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Afin que le code s'exécute correctement, assurez-vous de les placer les deux fichiers (index.html et script.js) dans le même répertoire. Ainsi le code JavaScript sera correctement inclus et exécuté lorsque vous ouvrez le fichier HTML dans un navigateur.<br/></p>
 <p>NB : Vous pouvez télécharger le fichier en cliquant sur la flèche pointant vers le bas dans les outils grisés en haut à droite.</p>
+</div>
+</div>
 
 </div>
 

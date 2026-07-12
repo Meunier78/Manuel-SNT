@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>On souhaite se rendre à pied, de la place de l'étoile [48.8735, 2.2959] à la tour Eiffel [48.8591, 2.2935]. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>On souhaite se rendre à pied, de la place de l'étoile [48.8735, 2.2959] à la tour Eiffel [48.8591, 2.2935]. <br/></p>
 <p>Pour centrer la carte, on calculera le milieu géométrique du segment reliant le point de départ et le point d'arrivée. On centrera la carte sur ce point.</p>
 <p>1. Complétez le programme suivant :</p>
 <p>from pyroutelib3 import Router<br/>import folium</p>
@@ -15,6 +20,8 @@
 <p>La fonction <i>calcul_dist</i> permet de déterminer la distance parcourue.</p>
 <p>2. Visualisez également ce trajet pour un déplacement en taxi et à vélo et affichez les distances correspondantes.</p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

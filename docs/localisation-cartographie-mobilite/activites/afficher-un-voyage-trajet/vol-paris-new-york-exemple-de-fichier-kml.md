@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p class="scrap-without-first-image"></p><p>En cas de problème pour télécharger un fichier kml représentant le vol d'un avion de ligne lors du trajet Paris - New York, en voici un prêt à l'emploi. Cliquez sur la flèche grisé en haut à droite pour le télécharger.<br/></p>
-<p><img class="imported-image" data-height="557" data-original-url="media%2For%2F551775540%3Fhid%3Dm_6490" data-width="750" id="m_6490" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-activites-afficher-un-voyage-trajet-vol-paris-new-york-exemple-de-fichier-kml-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div><a href="./Vol Paris New York Exemple de fichier KML.kml" target="_blank"><div id="note-text"><p class="scrap-without-first-image"></p><p>En cas de problème pour télécharger un fichier kml représentant le vol d'un avion de ligne lors du trajet Paris - New York, en voici un prêt à l'emploi. Cliquez sur la flèche grisé en haut à droite pour le télécharger.<br/></p>
+<p><img class="imported-image" data-height="557" data-original-url="media%2For%2F551775540%3Fhid%3Dm_6490" data-width="750" id="m_6490" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-activites-afficher-un-voyage-trajet-vol-paris-new-york-exemple-de-fichier-kml-html/image-01.jpg"/></p></div></a></div>
+<p><br/></p>
+</div>
 
 </div>
 

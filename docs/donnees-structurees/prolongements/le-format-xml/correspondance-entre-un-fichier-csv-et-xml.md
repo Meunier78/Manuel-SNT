@@ -5,7 +5,9 @@
 <div class="card">
 
 
-<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775431" id="l_2350584" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-le-format-xml-correspondance-entre-un-fichier-csv-et-xml-html/image-01.jpg" width="750"/></p><div id="note-text"></div>
+
+
+<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775431" id="l_2350584" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-le-format-xml-correspondance-entre-un-fichier-csv-et-xml-html/image-01.jpg" width="750"/></p><div id="note-text"></div>
 </div>
 
 </div>

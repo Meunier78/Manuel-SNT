@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>Pour afficher une image sur un écran, on émet une lumière qui reconstitue les composantes colorées de l'image numérique. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Pour afficher une image sur un écran, on émet une lumière qui reconstitue les composantes colorées de l'image numérique. <br/></p>
 <p>Pour cela, les écrans allument des millions de pixels, des rouges, des verts et des bleus, généralement regroupés par trois. Chaque trio de pixels produit une lumière perçue par notre œil comme un petit point coloré. Ces millions de pixels colorés forment une image. <br/></p>
 <p>Autrefois, on pouvait distinguer les pixels de l'écran à l'œil nu, car leur taille était importante. Aujourd'hui, une loupe puissante ou un microscope sont nécessaires, surtout si l'on souhaite observer les pixels rouges, verts et bleus. <br/></p>
+</div>
+</div>
 
 </div>
 

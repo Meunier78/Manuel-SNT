@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Lorsque vous effectuez une transaction en ligne ou acceptez les termes et conditions d'un site web, vous concluez un contrat en ligne. Il est important que vous lisiez attentivement ces accords et que vous compreniez leurs termes et conditions avant de les accepter. Respectez les termes concernant la confidentialité, la résiliation, les conflits potentiels, etc. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Lorsque vous effectuez une transaction en ligne ou acceptez les termes et conditions d'un site web, vous concluez un contrat en ligne. Il est important que vous lisiez attentivement ces accords et que vous compreniez leurs termes et conditions avant de les accepter. Respectez les termes concernant la confidentialité, la résiliation, les conflits potentiels, etc. <br/></p>
+</div>
+</div>
 
 </div>
 

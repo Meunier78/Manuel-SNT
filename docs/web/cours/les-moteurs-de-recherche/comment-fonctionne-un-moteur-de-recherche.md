@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="400" data-original-url="logo%2Fhash%2F551774349%3Fh%3D7ada4dbe4f8be4b69603475559f0c5bc" data-width="640" id="l_2421290" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-comment-fonctionne-un-moteur-de-recherche-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="400" data-original-url="logo%2Fhash%2F551774349%3Fh%3D7ada4dbe4f8be4b69603475559f0c5bc" data-width="640" id="l_2421290" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-comment-fonctionne-un-moteur-de-recherche-html/image-01.jpg"/></p>
 <p><br/></p>
 <p>Un moteur de recherche est un outil en ligne qui permet aux utilisateurs de rechercher des informations spécifiques sur Internet. Il fonctionne en parcourant le Web et en indexant des milliards de pages web pour fournir des résultats pertinents à vos requêtes.<br/></p>
 <p>Voici les quatre principales étapes mises en œuvre par un moteur de recherche.<br/></p>
@@ -15,6 +20,8 @@
 <p><b>4. Affichage du résultat</b><br/></p>
 <p>Les moteurs de recherche affichent les résultats de la recherche aux utilisateurs après avoir évalué la pertinence de chaque page. Les résultats sont généralement affichés dans une liste classée par pertinence. Chaque résultat comprend un titre, un court extrait de texte et un lien vers le site web complet. <br/></p>
 <p>Il est important de comprendre que les moteurs de recherche utilisent constamment des algorithmes complexes pour améliorer la qualité des résultats et l'expérience de recherche de l'utilisateur. Ils prennent également en compte des facteurs tels que l'emplacement géographique de l'utilisateur, ses préférences personnelles et son historique de recherche pour affiner les résultats.  <br/></p>
+</div>
+</div>
 
 </div>
 

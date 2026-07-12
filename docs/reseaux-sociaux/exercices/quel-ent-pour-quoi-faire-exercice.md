@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>1. Indiquez le nom de l'ENT de votre établissement.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Indiquez le nom de l'ENT de votre établissement.<br/></p>
 <p>2. Listez un certain nombre de fonctionnalités qu'il propose. </p>
 <p>3. Listez quelques différences entre les réseaux sociaux et votre ENT.  <br/></p>
+</div>
+</div>
 
 </div>
 

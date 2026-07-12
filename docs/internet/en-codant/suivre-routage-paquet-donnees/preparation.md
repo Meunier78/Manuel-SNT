@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Le réseau étudié mobilise un switch, deux routeurs ainsi que des ordinateurs portables et des serveurs.</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Le réseau étudié mobilise un switch, deux routeurs ainsi que des ordinateurs portables et des serveurs.</p>
 <p>Le switch utilise une table ARP pour associer une adresse IP avec une adresse MAC.<br/></p>
 <p>Le routeur utilise une table de routage pour déterminer la route vers une adresse IP.</p>
 <p>Le serveur DNS associe une adresse IP à un nom de domaine.</p>
@@ -26,6 +31,8 @@
 <p><i>str(100)</i> renvoie '100'    <i>int('100')</i> renvoie 100</p>
 <p>On inverse un entier (ou une chaîne représentant un entier) sur huit bits avec :</p>
 <p><i>256+~int('255')</i> renvoie 0</p>
+</div>
+</div>
 
 </div>
 

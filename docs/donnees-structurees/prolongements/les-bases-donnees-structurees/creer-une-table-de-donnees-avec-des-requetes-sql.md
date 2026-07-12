@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p class="scrap-without-first-image"></p><p>Considérons le fichier amis.csv dont le contenu est le suivant :</p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p class="scrap-without-first-image"></p><p>Considérons le fichier amis.csv dont le contenu est le suivant :</p>
 <p>-------------------------------<br/></p>
 <p>id, nom, prenom, age , ville</p>
 <p>1, Dupont, Paul, 32, Paris</p>
@@ -33,6 +38,8 @@
 <p><img ="xl"="" class="imported-image" data-height="873" data-original-url="logo%2Fhash%2F551775424%3Fh%3D5d633224a64b6d89721027b3c2116706" data-width="1000" id="l_2345829" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-les-bases-donnees-structurees-creer-une-table-de-donnees-avec-des-requetes-sql-html/image-01.jpg"/></p>
 <p><br/></p>
 <p><br/><br/></p>
+</div>
+</div>
 
 </div>
 

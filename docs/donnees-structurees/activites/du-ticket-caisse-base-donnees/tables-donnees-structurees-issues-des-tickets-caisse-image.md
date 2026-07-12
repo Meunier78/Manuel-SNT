@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p class="scrap-without-first-image"></p><p><br/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p class="scrap-without-first-image"></p><p><br/></p>
 <p><img ="xl"="" class="imported-image" data-height="1105" data-original-url="media%2FpearlContent%2F551775216" data-width="969" id="l_2436795" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-du-ticket-caisse-base-donnees-tables-donnees-structurees-issues-des-tickets-caisse-image-html/image-01.jpg"/></p>
 <p><br/></p>
+</div>
+</div>
 
 </div>
 

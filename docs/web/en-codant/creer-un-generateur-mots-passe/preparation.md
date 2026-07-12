@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Une liste d'éléments en python s'écrit :<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Une liste d'éléments en python s'écrit :<br/></p>
 <p><i>une_liste = ['a', 'b', 'c'] </i>avec 0, 1, 2 les indices respectifs de a, b et c. On peut obtenir le deuxième élément avec :</p>
 <p><i>une_liste[1]</i> renvoie b</p>
 <p>On peut obtenir l'indice du troisième élément (c) avec :</p>
@@ -22,6 +27,8 @@
 <p>Pour mettre un caractère en majuscule on utilise la méthode upper et pour mettre en minuscule, la méthode lower :</p>
 <p><i>'a'.upper()</i> renvoie A</p>
 <p><i>'A'.lower()</i> renvoie a</p>
+</div>
+</div>
 
 </div>
 

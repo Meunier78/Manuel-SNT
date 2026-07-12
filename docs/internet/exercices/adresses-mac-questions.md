@@ -2,9 +2,16 @@
 
 <div class="imported-content">
 
-<p>1. Sur combien d'octets est codée une adresse MAC ?</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Sur combien d'octets est codée une adresse MAC ?</p>
 <p>2. Combien d'adresses MAC peut-on avoir ?</p>
 <p>3. Convertissez l'adresse MAC 59:1e:4a:c4:21:04 en décimal et en binaire.</p>
+</div>
+</div>
 
 </div>
 

@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>Téléchargez le fichier "Ciel étoilé". Affichez les données EXIF de l'image. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Téléchargez le fichier "Ciel étoilé". Affichez les données EXIF de l'image. <br/></p>
 <p>Quel est le temps de pose (également dit d'exposition) de la photographie ? Quel est la sensibilité ISO de la photographie ?<br/></p>
+</div>
+</div>
 
 </div>
 

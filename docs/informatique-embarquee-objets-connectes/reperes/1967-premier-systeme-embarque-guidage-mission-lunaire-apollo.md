@@ -5,7 +5,9 @@
 <div class="card">
 
 
-<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:Dsky.jpg" rel="noopener" target="_blank"><p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551776615" id="l_2420797" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/informatique-embarquee-reperes-1967-premier-systeme-embarque-guidage-mission-lunaire-apollo-html/image-01.jpg" width="639"/></p></a></div>
+
+
+<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:Dsky.jpg" rel="noopener" target="_blank"><p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551776615" id="l_2420797" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/informatique-embarquee-reperes-1967-premier-systeme-embarque-guidage-mission-lunaire-apollo-html/image-01.jpg" width="639"/></p></a></div>
 
 </div>
 

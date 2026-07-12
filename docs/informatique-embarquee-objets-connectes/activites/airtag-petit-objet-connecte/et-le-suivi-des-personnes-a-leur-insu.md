@@ -2,8 +2,14 @@
 
 <div class="imported-content">
 
-<p>Apple a fait en sorte d'éviter que l'AirTag soit utilisé pour pister une personne sans qu'elle le sache. Si le propriétaire d'un AirTag le place dans le sac ou la voiture d'une autre personne, que se passe-t-il ? L'AirTag détecte d'abord que son propriétaire n'est plus près de lui. Ensuite, s'il perçoit un déplacement, parce que la personne qui le transporte dans son sac se met en mouvement, deux événements se produisent :</p>
-<ul><li>l'AirTag émet une sonnerie pour alerter la personne près de laquelle il se trouve ;<br/></li><li>les personnes voisines possédant elles-mêmes un iPhone reçoivent une notification sur l'écran de leur téléphone. </li></ul>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Apple a fait en sorte d'éviter que l'AirTag soit utilisé pour pister une personne sans qu'elle le sache. Si le propriétaire d'un AirTag le place dans le sac ou la voiture d'une autre personne, que se passe-t-il ? L'AirTag détecte d'abord que son propriétaire n'est plus près de lui. Ensuite, s'il perçoit un déplacement, parce que la personne qui le transporte dans son sac se met en mouvement, deux événements se produisent :</p>
+<ul><li>l'AirTag émet une sonnerie pour alerter la personne près de laquelle il se trouve ;<br/></li><li>les personnes voisines possédant elles-mêmes un iPhone reçoivent une notification sur l'écran de leur téléphone. </li></ul></div>
+</div>
 
 </div>
 

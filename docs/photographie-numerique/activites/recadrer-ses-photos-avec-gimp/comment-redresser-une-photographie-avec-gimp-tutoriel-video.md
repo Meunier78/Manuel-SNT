@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Comment redresser une photographie avec Gimp Tutoriel video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-recadrer-ses-photos-avec-gimp-comment-redresser-une-photographie-avec-gimp-tutoriel-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

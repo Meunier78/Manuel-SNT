@@ -2,7 +2,15 @@
 
 <div class="imported-content">
 
-<p>Premier support amovible de stockage d'informations.<br/></p>
+<div class="card">
+
+
+
+
+
+<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:Floppy_disk_2009_G1.jpg" rel="noopener" target="_blank"><p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775176" id="l_2420702" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-reperes-invention-disquette-premier-support-stockage-amovible-html/image-01.jpg" width="750"/></p></a></div><div id="note-text"><p>Premier support amovible de stockage d'informations.<br/></p>
+</div>
+</div>
 
 </div>
 

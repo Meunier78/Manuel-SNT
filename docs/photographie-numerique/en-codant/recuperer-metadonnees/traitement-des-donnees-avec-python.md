@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Partie 1 : Extraire la localisation et la date de l'image.</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Partie 1 : Extraire la localisation et la date de l'image.</p>
 <p>Nous vous proposons le programme à compléter suivant qui utilise trois fonctions vous permettant d'afficher les informations requises dans la console :</p>
 <p><i>from PIL import Image</i><br/><i>from PIL.ExifTags import TAGS</i><br/></p>
 <p><i>def get_coord_gps(exif_data):</i><br/><i>    lat = coord_degres(exif_data['GPSInfo'][2])</i><br/><i>    lat_ref = exif_data['GPSInfo'][1]</i><br/><i>    long = coord_degres(exif_data['GPSInfo'][4])</i><br/><i>    long_ref = exif_data['GPSInfo'][3]</i><br/><i>    if lat_ref != "N":</i><br/><i>        lat *= -1  # équivalent à lat = (-1)*lat</i><br/><i>    if long_ref != "E":</i><br/><i>        long *= -1   # équivalent à long = (-1)*long</i><br/><i>    return lat, long</i></p>
@@ -19,6 +24,8 @@
 <p><i>patron = Image.open("patron_NYC.jpg")</i><br/><i>patron.show()</i><br/><i>l, h = img.size</i><br/><i>carte_postale = Image.new("RGB",(l,h)) </i></p>
 <p><i># A compléter !</i><br/></p>
 <p><u>Attention</u>, le traitement de l'image peut être long (&gt; 1 min !) suivant la rapidité de votre PC.<br/></p>
+</div>
+</div>
 
 </div>
 

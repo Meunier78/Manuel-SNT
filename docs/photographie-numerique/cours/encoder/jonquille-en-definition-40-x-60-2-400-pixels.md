@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="864" data-original-url="media%2FpearlContent%2F551777009" data-width="576" id="l_2439077" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-cours-encoder-jonquille-en-definition-40-x-60-2-400-pixels-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="864" data-original-url="media%2FpearlContent%2F551777009" data-width="576" id="l_2439077" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-cours-encoder-jonquille-en-definition-40-x-60-2-400-pixels-html/image-01.jpg"/></p>
+</div>
+</div>
 
 </div>
 

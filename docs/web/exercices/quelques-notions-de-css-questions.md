@@ -2,11 +2,18 @@
 
 <div class="imported-content">
 
-<p>1. Qu'est-ce que CSS signifie et quel est son rôle dans le développement web ?<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Qu'est-ce que CSS signifie et quel est son rôle dans le développement web ?<br/></p>
 <p>2. Quelle est la différence entre une classe et un ID en CSS ?</p>
 <p>3. Quels sont les sélecteurs CSS les plus couramment utilisés ? Donnez un exemple de chaque sélecteur.</p>
 <p>4. Qu'est-ce qu'une règle CSS et comment est-elle structurée ?</p>
 <p>5. Quelles sont les propriétés CSS les plus couramment utilisées pour contrôler la mise en page et l'apparence des éléments HTML ? Donnez trois exemples de propriétés et expliquez leur utilisation.<br/></p>
+</div>
+</div>
 
 </div>
 

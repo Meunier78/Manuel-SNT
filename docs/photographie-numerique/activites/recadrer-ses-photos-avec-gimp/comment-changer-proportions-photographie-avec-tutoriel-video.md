@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Comment changer proportions photographie avec Tutoriel video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-recadrer-ses-photos-avec-gimp-comment-changer-proportions-photographie-avec-tutoriel-video-html/image-01.jpg"/></div></a></div></div>
 
 </div>

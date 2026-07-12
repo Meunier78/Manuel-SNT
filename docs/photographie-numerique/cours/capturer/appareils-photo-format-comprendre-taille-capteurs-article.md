@@ -2,7 +2,15 @@
 
 <div class="imported-content">
 
-<p><img class="imported-image ptSynthesisImg" data-height="562" data-original-url="media%2FpearlContent%2F551776987" data-width="750" id="ptPearlContentImg" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-cours-capturer-appareils-photo-format-comprendre-taille-capteurs-article-html/image-01.jpg"/></p>
+<div class="card">
+
+
+
+
+
+<div><a class="relative-url" href="https://www.cnetfrance.fr/produits/s-y-retrouver-dans-la-taille-des-capteurs-en-photo-numerique-39713467.htm" rel="noopener" target="_blank"><div id="note-text"><p><img class="ptSynthesisImg imported-image" data-height="562" data-original-url="media%2FpearlContent%2F551776987" data-width="750" id="ptPearlContentImg" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-cours-capturer-appareils-photo-format-comprendre-taille-capteurs-article-html/image-01.jpg"/></p></div></a></div>
+<p><br/></p>
+</div>
 
 </div>
 

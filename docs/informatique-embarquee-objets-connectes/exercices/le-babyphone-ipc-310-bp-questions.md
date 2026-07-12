@@ -2,8 +2,15 @@
 
 <div class="imported-content">
 
-<p>1. Décrivez les fonctionnalités principales de l'appareil. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>1. Décrivez les fonctionnalités principales de l'appareil. <br/></p>
 <p>2. Réalisez un schéma logique représentant le système embarqué sur le modèle de celui vu en cours.</p>
+</div>
+</div>
 
 </div>
 

@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Le droit d'auteur s'applique également aux ressources disponibles sur le Web. Qu'il s'agisse du contenu que vous créez ou utilisez, il est important de respecter les droits de propriété intellectuelle en ligne. Assurez-vous de respecter les licences et les droits d'auteur des œuvres en ligne telles que les images, les textes et les vidéos. <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Le droit d'auteur s'applique également aux ressources disponibles sur le Web. Qu'il s'agisse du contenu que vous créez ou utilisez, il est important de respecter les droits de propriété intellectuelle en ligne. Assurez-vous de respecter les licences et les droits d'auteur des œuvres en ligne telles que les images, les textes et les vidéos. <br/></p>
+</div>
+</div>
 
 </div>
 

@@ -2,10 +2,17 @@
 
 <div class="imported-content">
 
-<p>Consultez le schéma de la base de données et répondez aux questions suivantes.</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Consultez le schéma de la base de données et répondez aux questions suivantes.</p>
 <p>1. Quelle est la fonction des descripteurs qui sont en gras et soulignés ?</p>
 <p>2. Quelle est la fonction des descripteurs qui sont en gras ?</p>
 <p>3. Donnez une signification aux flèches entre les tables.</p>
+</div>
+</div>
 
 </div>
 

@@ -5,6 +5,8 @@
 <div class="card">
 
 
+
+
 <div><a href="./Films xml Fichier XML.xml" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-xml-films-xml-fichier-xml-html/image-01.jpg"/></div></a></div></div>
 
 </div>

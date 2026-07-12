@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Visionnez la vidéo E-mail, cloud, data center : ces clics qui polluent et répondez aux questions suivantes.</p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Visionnez la vidéo E-mail, cloud, data center : ces clics qui polluent et répondez aux questions suivantes.</p>
 <p>1. En 2016, quelle était la consommation électrique de l'ensemble des data centers dans le monde ?</p>
 <p>2. Si Internet était un pays, quelle serait sa place en termes de consommation d'énergie électrique ?</p>
 <p>3. Pourquoi les centres de données ont-ils un impact environnemental ?</p>
@@ -10,6 +15,8 @@
 <p>5. Comment la localisation d'un centre de données peut-elle affecter son impact environnemental ?</p>
 <p>6. Comment peut-on valoriser la production de chaleur des centres de données ?</p>
 <p>7. Comment pouvez-vous, à titre individuel, réduire votre empreinte carbone ? <br/></p>
+</div>
+</div>
 
 </div>
 

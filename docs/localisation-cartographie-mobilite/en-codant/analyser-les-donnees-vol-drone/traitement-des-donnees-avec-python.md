@@ -2,7 +2,12 @@
 
 <div class="imported-content">
 
-<p>Nous allons visualiser le parcours du drone à l'aide du fichier CSV contenant les informations de vol.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Nous allons visualiser le parcours du drone à l'aide du fichier CSV contenant les informations de vol.<br/></p>
 <p>1. Complétez le programme suivant :</p>
 <p><i>import pandas</i></p>
 <p><i>import folium</i></p>
@@ -46,6 +51,8 @@
 <p><i>for i in range(............................):</i></p>
 <p><i>    v.append(........................................)</i></p>
 <p><i>print("le drone vole à une vitesse de ", ..........................................., "km/h")</i><br/></p>
+</div>
+</div>
 
 </div>
 

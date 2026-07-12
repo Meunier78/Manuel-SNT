@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Prérequis : maîtriser les bases de la programmation Python (variables, boucles, entrées/sorties)<br/>Contexte de la mise en œuvre de l'activité : en classe, en présence de l'enseignant<br/>Ressources, matériel, documents nécessaires : bibliothèques Python (networkx, matplotlib.pyplot)<br/> <br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Prérequis : maîtriser les bases de la programmation Python (variables, boucles, entrées/sorties)<br/>Contexte de la mise en œuvre de l'activité : en classe, en présence de l'enseignant<br/>Ressources, matériel, documents nécessaires : bibliothèques Python (networkx, matplotlib.pyplot)<br/> <br/></p>
+</div>
+</div>
 
 </div>
 

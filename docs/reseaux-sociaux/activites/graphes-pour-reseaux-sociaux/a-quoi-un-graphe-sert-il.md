@@ -2,7 +2,14 @@
 
 <div class="imported-content">
 
-<p>Les caractéristiques d'un graphe représentant un réseau social servent à en connaître l'étendue, la structure. Les centres du graphe peuvent par exemple être des points d'entrée privilégiés d'une information que l'on souhaite faire circuler.<br/></p>
+<div class="card">
+
+
+
+
+<p class="scrap-without-first-image"></p><div id="note-text"><p>Les caractéristiques d'un graphe représentant un réseau social servent à en connaître l'étendue, la structure. Les centres du graphe peuvent par exemple être des points d'entrée privilégiés d'une information que l'on souhaite faire circuler.<br/></p>
+</div>
+</div>
 
 </div>
 
