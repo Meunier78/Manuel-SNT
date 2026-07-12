@@ -2,7 +2,10 @@
 
 <div class="imported-content">
 
+<div class="card">
 
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774165" id="l_2439019" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/internet-exercices-grandes-internet-exercice-sans-titre-34-html/image-01.jpg" width="750"/></p><div id="note-text"></div>
+</div>
 
 </div>
 

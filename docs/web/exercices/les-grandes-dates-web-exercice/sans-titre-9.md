@@ -2,7 +2,10 @@
 
 <div class="imported-content">
 
+<div class="card">
 
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774436" id="l_2439099" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-exercices-les-grandes-dates-web-exercice-sans-titre-9-html/image-01.jpg" width="227"/></p><div id="note-text"></div>
+</div>
 
 </div>
 

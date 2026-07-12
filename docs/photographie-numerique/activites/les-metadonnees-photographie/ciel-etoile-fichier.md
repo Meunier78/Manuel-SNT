@@ -2,7 +2,11 @@
 
 <div class="imported-content">
 
+<div class="card">
 
+
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551776925" id="l_2439087" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-les-metadonnees-photographie-ciel-etoile-fichier-html/image-01.jpg" width="1000"/></p><div id="note-text"></div>
+</div>
 
 </div>
 

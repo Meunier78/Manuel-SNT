@@ -2,7 +2,11 @@
 
 <div class="imported-content">
 
+<div class="card">
 
+
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775587" id="l_2436669" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/localisation-cartographie-exercices-pokemon-photographie-html/image-01.jpg" width="1000"/></p><div id="note-text"></div>
+</div>
 
 </div>
 

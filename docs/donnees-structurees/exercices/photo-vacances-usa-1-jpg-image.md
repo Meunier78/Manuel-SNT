@@ -2,7 +2,11 @@
 
 <div class="imported-content">
 
+<div class="card">
 
+
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775293" id="l_2436792" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-exercices-photo-vacances-usa-1-jpg-image-html/image-01.jpg" width="1000"/></p><div id="note-text"></div>
+</div>
 
 </div>
 

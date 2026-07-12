@@ -2,7 +2,10 @@
 
 <div class="imported-content">
 
+<div class="card">
 
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775052" id="l_2445177" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-exercices-grandes-reseaux-exercice-sans-titre-16-html/image-01.jpg" width="750"/></p><div id="note-text"></div>
+</div>
 
 </div>
 
