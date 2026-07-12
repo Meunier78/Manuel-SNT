@@ -7,7 +7,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551776800" id="l_2436589" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/informatique-embarquee-en-codant-piloter-deplacements-robotise-le-robot-braccio-illustration-html/image-01.jpg" width="563"/></p><div id="note-text"></div>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551776800" id="l_2436589" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/informatique-embarquee-en-codant-piloter-deplacements-robotise-le-robot-braccio-illustration-html/image-01.jpg" width="563"/></p><div id="note-text"></div>
 </div>
 
 </div>

@@ -7,7 +7,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774267" id="l_2436810" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-le-web-en-une-seule-frise-html/image-01.jpg" width="1000"/></p><div id="note-text"></div>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774267" id="l_2436810" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-le-web-en-une-seule-frise-html/image-01.jpg" width="1000"/></p><div id="note-text"></div>
 </div>
 
 </div>

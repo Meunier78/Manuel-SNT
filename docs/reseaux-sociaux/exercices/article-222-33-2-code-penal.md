@@ -7,7 +7,7 @@
 
 
 
-<div><a class="relative-url" href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045292599" rel="noopener" target="_blank"><p><img class="wrapped ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775016" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-exercices-article-222-33-2-code-penal-html/image-01.jpg" width="750"/></p></a></div>
+<div><a class="relative-url" href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045292599" rel="noopener" target="_blank"><p><img class="imported-image ptSynthesisImg wrapped" data-original-url="media%2FpearlContent%2F551775016" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-exercices-article-222-33-2-code-penal-html/image-01.jpg" width="750"/></p></a></div>
 <p>Le fait de harceler une personne par des propos ou comportements répétés ayant pour objet ou pour effet une dégradation de ses conditions de vie se traduisant par une altération de sa santé physique ou mentale est puni d'un an d'emprisonnement et de 15 000 € d'amende lorsque ces faits ont causé une incapacité totale de travail inférieure ou égale à huit jours ou n'ont entraîné aucune incapacité de travail.</p>
 <p>L'infraction est également constituée :</p>
 <p>a) Lorsque ces propos ou comportements sont imposés à une même victime par plusieurs personnes, de manière concertée ou à l'instigation de l'une d'elles, alors même que chacune de ces personnes n'a pas agi de façon répétée ;</p>

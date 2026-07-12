@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="blob" data-height="758" data-original-url="media%2For%2F551774095%3Fhid%3Dm_17065" data-width="750" id="m_17065" loading="lazy" src="/Manuel-SNT/assets/imported/internet-cours-protocole-tcp-ip-et-routage-un-exemple-de-routage-ip-html/image-01.jpg"/></p>
+<div id="note-text"><p><img class="imported-image ptSynthesisImg" data-filename="blob" data-height="758" data-original-url="media%2For%2F551774095%3Fhid%3Dm_17065" data-width="750" id="m_17065" loading="lazy" src="/Manuel-SNT/assets/imported/internet-cours-protocole-tcp-ip-et-routage-un-exemple-de-routage-ip-html/image-01.jpg"/></p>
 <p>Supposons, comme sur le schéma, que nous ayons un réseau local (LAN) avec l'adresse IP 192.168.0.0/24. Cela signifie que les trois premiers octets (192.168.0) représentent le réseau et le dernier octet (0) est réservé aux hôtes.</p>
 <p>Le réseau local (LAN) et connecté à internet (WAN) via un routeur (box internet) qui possède deux interfaces réseau :</p>
 <ul><li>Interface 1 : Adresse IP 192.168.0.1/24 (connectée au réseau local)</li><li>Interface 2 : Adresse IP 10.0.0.1/24 (connectée au réseau externe du FAI)</li></ul><p>Maintenant, supposons qu'un ordinateur ayant pour IP 192.168.0.101/24 sur le réseau local souhaite envoyer des données à un serveur possédant l'adresse IP 8.8.8.8 (représentant le serveur DNS de Google).</p>

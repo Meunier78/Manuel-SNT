@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="LE WEB 02.png" data-height="399" data-original-url="media%2For%2F551774347%3Fhid%3Dm_16575" data-width="750" id="m_16575" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-bases-du-web-qu-est-ce-qu-une-url-html/image-01.jpg"/></p>
+<div id="note-text"><p><img class="imported-image ptSynthesisImg" data-filename="LE WEB 02.png" data-height="399" data-original-url="media%2For%2F551774347%3Fhid%3Dm_16575" data-width="750" id="m_16575" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-bases-du-web-qu-est-ce-qu-une-url-html/image-01.jpg"/></p>
 <p>L'acronyme URL signifie "Uniform Resource Locator", qui signifie en français "Localisation Uniforme de Ressource". Une URL est une adresse unique utilisée pour rechercher et accéder à des ressources sur le web, telles que des pages web, des images, des vidéos et des fichiers. <br/></p>
 <p>Une URL est généralement composée de plusieurs parties :<br/></p>
 <p><b>1- Protocole</b><br/></p>

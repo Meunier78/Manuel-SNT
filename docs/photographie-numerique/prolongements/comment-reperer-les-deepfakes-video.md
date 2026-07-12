@@ -2,19 +2,12 @@
 
 <div class="imported-content">
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/9CFxc2Zy5zI"
-    title="Comment repérer les &quot;deepfakes&quot; ? - Vidéo"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+<div class="card">
 
-<p><a class="md-button" href="http://www.youtube.com/watch?v=9CFxc2Zy5zI" target="_blank" rel="noopener">
-Ouvrir la vidéo sur YouTube
-</a></p>
+
+
+
+<div><div class="embedded-youtube"><div class="video-container"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy" src="https://www.youtube-nocookie.com/embed/9CFxc2Zy5zI" title='Comment repérer les "deepfakes" ? - Vidéo'></iframe></div><p><a class="md-button" href="http://www.youtube.com/watch?v=9CFxc2Zy5zI" rel="noopener" target="_blank">Ouvrir la vidéo sur YouTube</a></p></div></div></div>
 
 </div>
 

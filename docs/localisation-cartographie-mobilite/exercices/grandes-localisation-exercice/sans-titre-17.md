@@ -6,7 +6,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775621" id="l_2445100" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/localisation-cartographie-exercices-grandes-localisation-exercice-sans-titre-17-html/image-01.jpg" width="953"/></p><div id="note-text"></div>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775621" id="l_2445100" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/localisation-cartographie-exercices-grandes-localisation-exercice-sans-titre-17-html/image-01.jpg" width="953"/></p><div id="note-text"></div>
 </div>
 
 </div>

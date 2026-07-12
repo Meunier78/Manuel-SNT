@@ -7,7 +7,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775427" id="l_2436777" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-le-format-json-correspondance-entre-un-fichier-csv-et-json-html/image-01.jpg" width="750"/></p><div id="note-text"><p><br/></p>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775427" id="l_2436777" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-le-format-json-correspondance-entre-un-fichier-csv-et-json-html/image-01.jpg" width="750"/></p><div id="note-text"><p><br/></p>
 </div>
 </div>
 

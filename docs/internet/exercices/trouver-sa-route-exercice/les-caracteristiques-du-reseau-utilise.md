@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="blob" data-height="786" data-original-url="media%2For%2F551774170%3Fhid%3Dm_16850" data-width="750" id="m_16850" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-trouver-sa-route-exercice-les-caracteristiques-du-reseau-utilise-html/image-01.jpg"/></p>
+<div id="note-text"><p><img class="imported-image ptSynthesisImg" data-filename="blob" data-height="786" data-original-url="media%2For%2F551774170%3Fhid%3Dm_16850" data-width="750" id="m_16850" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-trouver-sa-route-exercice-les-caracteristiques-du-reseau-utilise-html/image-01.jpg"/></p>
 <p><br/></p>
 <p>Extrait du résultat de la commande ipconfig /all réalisée sur l'ordinateur portable Aurora appartenant au réseau familial 1 :</p>
 <p>C:\Users\david&gt;ipconfig /all<br/></p>

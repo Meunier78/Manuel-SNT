@@ -7,7 +7,7 @@
 
 
 
-<div><a class="relative-url" href="https://stefansundin.github.io/traceroute-mapper/" rel="noopener" target="_blank"><p><img class="wrapped ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774169" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/internet-exercices-trouver-sa-route-exercice-traceroute-mapper-site-html/image-01.jpg" width="256"/></p></a></div>
+<div><a class="relative-url" href="https://stefansundin.github.io/traceroute-mapper/" rel="noopener" target="_blank"><p><img class="imported-image ptSynthesisImg wrapped" data-original-url="media%2FpearlContent%2F551774169" id="ptSynthesisImg" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/internet-exercices-trouver-sa-route-exercice-traceroute-mapper-site-html/image-01.jpg" width="256"/></p></a></div>
 <p>Run traceroute on your local machine, then paste the output here to map the route. <a href="">Show example.</a></p>
 <p>Thanks to <a href="https://ipinfo.io/" rel="noopener" target="_blank">ipinfo.io</a> for supporting this project.</p>
 <p>To navigate, press the arrow keys.</p>

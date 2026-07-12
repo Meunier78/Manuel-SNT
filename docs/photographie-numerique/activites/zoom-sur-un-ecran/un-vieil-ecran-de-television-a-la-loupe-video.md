@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Un vieil ecran de television a la loupe Video.mp4" target="_blank"><div id="note-text"><p><img class="ptSynthesisImg imported-image embedplaceholder" data-height="750" data-original-url="media%2FpearlContent%2F551776904" data-width="750" id="ptPearlContentImg" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-zoom-sur-un-ecran-un-vieil-ecran-de-television-a-la-loupe-video-html/image-01.jpg"/></p></div></a></div>
+<div><a href="./Un vieil ecran de television a la loupe Video.mp4" target="_blank"><div id="note-text"><p><img class="imported-image ptSynthesisImg embedplaceholder" data-height="750" data-original-url="media%2FpearlContent%2F551776904" data-width="750" id="ptPearlContentImg" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-zoom-sur-un-ecran-un-vieil-ecran-de-television-a-la-loupe-video-html/image-01.jpg"/></p></div></a></div>
 <p><br/></p>
 </div>
 

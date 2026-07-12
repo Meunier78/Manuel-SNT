@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="646" data-original-url="logo%2Fhash%2F551774366%3Fh%3D67f851246012ef49be53934ebf8d6228" data-width="1000" id="l_2423416" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-modele-client-serveur-sur-web-les-etapes-des-requetes-et-reponses-http-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="646" data-original-url="logo%2Fhash%2F551774366%3Fh%3D67f851246012ef49be53934ebf8d6228" data-width="1000" id="l_2423416" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-modele-client-serveur-sur-web-les-etapes-des-requetes-et-reponses-http-html/image-01.jpg"/></p>
 <p><b>1. Établissement de la connexion</b><br/></p>
 <p>Lorsqu'un client souhaite accéder à un site web, il envoie une requête au serveur. Pour les requêtes HTTPS, une couche de sécurité supplémentaire est ajoutée à l'aide d'un protocole appelé SSL/TLS (Secure Sockets Layer/Transport Layer Security). Cette couche de sécurité crypte les données échangées entre le client et le serveur pour protéger la confidentialité des informations.<br/></p>
 <p><b>2. Méthodes de requête  </b><br/></p>

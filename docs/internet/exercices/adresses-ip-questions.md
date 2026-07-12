@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="blob" data-height="843" data-original-url="media%2For%2F551774122%3Fhid%3Dm_17075" data-width="750" id="m_17075" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-adresses-ip-questions-html/image-01.jpg"/></p>
+<div id="note-text"><p><img class="imported-image ptSynthesisImg" data-filename="blob" data-height="843" data-original-url="media%2For%2F551774122%3Fhid%3Dm_17075" data-width="750" id="m_17075" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-adresses-ip-questions-html/image-01.jpg"/></p>
 <p>1. Sur combien d'octets est codée une adresse IPv4 ?</p>
 <p>2. Combien d'adresses IPV4 peut-on avoir ?</p>
 <p>3. L'adresse IPV4 privée d'une box Internet dans un réseau familial local LAN (Local Area Network) est en décimal pointé : 192.168.1.1. Elle est stockée sous la forme de 4 octets. Convertissez cette adresse IP en binaire pointé et en hexadécimal pointé.</p>

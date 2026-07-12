@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="511" data-original-url="logo%2Fhash%2F551774098%3Fh%3D20094e9ed857c79a66ebad8a2c42fe3d" data-width="750" id="l_2403330" loading="lazy" src="/Manuel-SNT/assets/imported/internet-cours-topologie-de-quelques-reseaux-topologie-de-quelques-reseaux-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="511" data-original-url="logo%2Fhash%2F551774098%3Fh%3D20094e9ed857c79a66ebad8a2c42fe3d" data-width="750" id="l_2403330" loading="lazy" src="/Manuel-SNT/assets/imported/internet-cours-topologie-de-quelques-reseaux-topologie-de-quelques-reseaux-html/image-01.jpg"/></p>
 <p><br/></p>
 <p><br/></p>
 <p>La topologie d'un réseau informatique correspond à son architecture physique : elle définit les connexions entre les équipements et les hiérarchies possibles. </p>

@@ -8,7 +8,7 @@
 
 
 
-<div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Flou_de_boug%C3%A9" rel="noopener" target="_blank"><div id="note-text"><p><img class="ptSynthesisImg imported-image" data-height="175" data-original-url="media%2FpearlContent%2F551776936" data-width="220" id="ptPearlContentImg" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-les-metadonnees-photographie-flou-de-bouge-article-html/image-01.jpg"/></p></div></a></div><div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Flou_de_boug%C3%A9" rel="noopener" target="_blank">
+<div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Flou_de_boug%C3%A9" rel="noopener" target="_blank"><div id="note-text"><p><img class="imported-image ptSynthesisImg" data-height="175" data-original-url="media%2FpearlContent%2F551776936" data-width="220" id="ptPearlContentImg" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-les-metadonnees-photographie-flou-de-bouge-article-html/image-01.jpg"/></p></div></a></div><div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Flou_de_boug%C3%A9" rel="noopener" target="_blank">
 <p>L'image du dessus a été exposée sans <a href="https://fr.wikipedia.org/wiki/Stabilisation_d%27image" rel="noopener" target="_blank">stabilisation d'image</a>, tandis que celle du dessous en a bénéficié. L'image stabilisée souffre notamment moins du flou de bougé.</p>
 <p><img class="imported-image" data-original-url="media%2Fscrap%2F06abddd8ac05e51ba58af13873d00437" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-activites-les-metadonnees-photographie-flou-de-bouge-article-html/image-02.jpg"/></p></a></div>
 <p>Couple de mariés pris de dos avec un flou de bougé.</p>

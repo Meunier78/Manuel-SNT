@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="400" data-original-url="logo%2Fhash%2F551774349%3Fh%3D7ada4dbe4f8be4b69603475559f0c5bc" data-width="640" id="l_2421290" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-comment-fonctionne-un-moteur-de-recherche-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="400" data-original-url="logo%2Fhash%2F551774349%3Fh%3D7ada4dbe4f8be4b69603475559f0c5bc" data-width="640" id="l_2421290" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-comment-fonctionne-un-moteur-de-recherche-html/image-01.jpg"/></p>
 <p><br/></p>
 <p>Un moteur de recherche est un outil en ligne qui permet aux utilisateurs de rechercher des informations spécifiques sur Internet. Il fonctionne en parcourant le Web et en indexant des milliards de pages web pour fournir des résultats pertinents à vos requêtes.<br/></p>
 <p>Voici les quatre principales étapes mises en œuvre par un moteur de recherche.<br/></p>

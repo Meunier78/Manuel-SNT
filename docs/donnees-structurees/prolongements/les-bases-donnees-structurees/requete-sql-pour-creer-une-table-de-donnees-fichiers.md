@@ -7,7 +7,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775418" id="l_2349868" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-les-bases-donnees-structurees-requete-sql-pour-creer-une-table-de-donnees-fichiers-html/image-01.jpg" width="750"/></p><div id="note-text"><p><br/></p>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775418" id="l_2349868" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-prolongements-les-bases-donnees-structurees-requete-sql-pour-creer-une-table-de-donnees-fichiers-html/image-01.jpg" width="750"/></p><div id="note-text"><p><br/></p>
 </div>
 </div>
 

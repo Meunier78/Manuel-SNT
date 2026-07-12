@@ -6,7 +6,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775357" id="l_2445157" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-exercices-structurees-traitement-sans-titre-39-html/image-01.jpg" width="750"/></p><div id="note-text"></div>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775357" id="l_2445157" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-exercices-structurees-traitement-sans-titre-39-html/image-01.jpg" width="750"/></p><div id="note-text"></div>
 </div>
 
 </div>

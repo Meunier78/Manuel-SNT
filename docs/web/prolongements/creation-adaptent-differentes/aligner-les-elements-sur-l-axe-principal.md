@@ -7,7 +7,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774481" id="l_2432896" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-prolongements-creation-adaptent-differentes-aligner-les-elements-sur-l-axe-principal-html/image-01.jpg" width="750"/></p><div id="note-text"><p><br/></p>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774481" id="l_2432896" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-prolongements-creation-adaptent-differentes-aligner-les-elements-sur-l-axe-principal-html/image-01.jpg" width="750"/></p><div id="note-text"><p><br/></p>
 <p>Pour changer l’alignement des éléments, on utilise l’instruction <b>justify-content</b> qui peut prendre les valeurs suivantes :<br/></p>
 <ul><li><b>flex-start</b> : alignés au début (par défaut) ;<br/></li><li><b>flex-end</b> : alignés à la fin ;<br/></li><li><b>center</b> : alignés au centre ;<br/></li><li><b>space-between</b> : les éléments sont étirés sur tout l'axe (il y a de l'espace entre eux) ;<br/></li><li><b>space-around</b> : idem, les éléments sont étirés sur tout l'axe, mais ils laissent aussi de l'espace sur les extrémités.</li></ul><p><br/></p>
 <p><br/></p>

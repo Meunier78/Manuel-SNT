@@ -2,19 +2,12 @@
 
 <div class="imported-content">
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/Q-WXtlz_ZHE"
-    title="HTML &amp; CSS : l&#x27;essentiel en 18 minutes chrono - Vidéo"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+<div class="card">
 
-<p><a class="md-button" href="http://www.youtube.com/watch?v=Q-WXtlz_ZHE" target="_blank" rel="noopener">
-Ouvrir la vidéo sur YouTube
-</a></p>
+
+
+
+<div><div class="embedded-youtube"><div class="video-container"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy" src="https://www.youtube-nocookie.com/embed/Q-WXtlz_ZHE" title="HTML &amp; CSS : l'essentiel en 18 minutes chrono - Vidéo"></iframe></div><p><a class="md-button" href="http://www.youtube.com/watch?v=Q-WXtlz_ZHE" rel="noopener" target="_blank">Ouvrir la vidéo sur YouTube</a></p></div></div></div>
 
 </div>
 

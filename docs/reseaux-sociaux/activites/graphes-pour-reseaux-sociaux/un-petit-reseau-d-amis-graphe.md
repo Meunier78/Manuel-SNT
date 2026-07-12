@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-filename="blob" data-height="554" data-original-url="media%2For%2F551774942%3Fhid%3Dm_16912" data-width="750" id="m_16912" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-activites-graphes-pour-reseaux-sociaux-un-petit-reseau-d-amis-graphe-html/image-01.jpg"/></p>
+<div id="note-text"><p><img class="imported-image ptSynthesisImg" data-filename="blob" data-height="554" data-original-url="media%2For%2F551774942%3Fhid%3Dm_16912" data-width="750" id="m_16912" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-activites-graphes-pour-reseaux-sociaux-un-petit-reseau-d-amis-graphe-html/image-01.jpg"/></p>
 </div>
 </div>
 

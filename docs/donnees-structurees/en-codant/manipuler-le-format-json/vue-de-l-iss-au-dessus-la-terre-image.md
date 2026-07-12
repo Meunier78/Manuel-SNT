@@ -7,7 +7,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775391" id="l_2430902" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-json-vue-de-l-iss-au-dessus-la-terre-image-html/image-01.jpg" width="1000"/></p><div id="note-text"></div>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775391" id="l_2430902" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-json-vue-de-l-iss-au-dessus-la-terre-image-html/image-01.jpg" width="1000"/></p><div id="note-text"></div>
 </div>
 
 </div>

@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img class="ptSynthesisImg imported-image" data-height="635" data-original-url="media%2For%2F551774425%3Fhid%3Dm_2268" data-width="750" id="m_2268" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-exercices-analyse-d-une-requete-web-questions-html/image-01.jpg"/></p>
+<div id="note-text"><p><img class="imported-image ptSynthesisImg" data-height="635" data-original-url="media%2For%2F551774425%3Fhid%3Dm_2268" data-width="750" id="m_2268" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-exercices-analyse-d-une-requete-web-questions-html/image-01.jpg"/></p>
 <p>L'outil de développement de Mozilla Firefox permet d'obtenir la capture d'écran précédente. On y trouve des éléments utiles pour l'analyse de la communication entre le navigateur et le serveur web lors de la consultation d'une page d'un site.<br/>Lors de la visite du site "<a href="https://example.com" rel="noopener" target="_blank">https://example.com</a>" on observe deux requêtes. Sur l'une d'entre elles figurent les informations ci-dessous.<br/><br/><b>En-têtes de la requête (548 o) :</b></p>
 <p>GET / HTTP/2<br/>Host: example.com<br/>User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0<br/>Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8<br/>Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3<br/>Accept-Encoding: gzip, deflate, br<br/>Connection: keep-alive<br/>Upgrade-Insecure-Requests: 1<br/>Sec-Fetch-Dest: document<br/>Sec-Fetch-Mode: navigate<br/>Sec-Fetch-Site: none<br/>Sec-Fetch-User: ?1<br/>If-Modified-Since: Thu, 17 Oct 2019 07:18:26 GMT<br/>If-None-Match: "3147526947+gzip"<br/>TE: trailers<br/></p>
 <p><b>En-têtes de la réponse (322 o) :</b></p>

@@ -7,7 +7,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551774375" id="l_2426516" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-cours-les-bases-des-langages-html-comment-un-fichier-html-est-il-lie-a-une-css-html/image-01.jpg" width="1000"/></p><div id="note-text"><p><br/></p>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774375" id="l_2426516" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/le-web-cours-les-bases-des-langages-html-comment-un-fichier-html-est-il-lie-a-une-css-html/image-01.jpg" width="1000"/></p><div id="note-text"><p><br/></p>
 <p>Pour que les règles de style du fichier CSS puissent s’appliquer sur les éléments de la page HTML, il faut que celle-ci y fasse référence. Si les instructions CSS sont dans un fichier "style.css" situé dans un même dossier au même niveau d'arborescence que le fichier "index.html", on écrira dans ce dernier, à l’intérieur de la balise d’en-tête ‹head› l’instruction surligné dans la copie d'écran figurant au début de ce document. Si tel n'est pas cas, il faudra indiquer le chemin relatif conduisant au fichier CSS en partant de l'endroit où se trouve le fichier HTML ciblé.</p>
 </div>
 </div>

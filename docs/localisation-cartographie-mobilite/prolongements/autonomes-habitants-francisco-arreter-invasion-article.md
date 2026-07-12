@@ -8,7 +8,7 @@
 
 
 
-<div><a class="relative-url" href="https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/actualite-477119-agaces-par-les-taxis-autonomes-les-habitants-de-san-francisco-ont-trouve-une-astuce-low-tech-pour-arreter-l-invasion.html" rel="noopener" target="_blank"><div id="note-text"><p><img class="ptSynthesisImg imported-image" data-height="422" data-original-url="media%2For%2F551775670%3Fhid%3Dm_16492" data-width="750" id="m_16492" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-prolongements-autonomes-habitants-francisco-arreter-invasion-article-html/image-01.jpg"/></p></div></a></div>
+<div><a class="relative-url" href="https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/actualite-477119-agaces-par-les-taxis-autonomes-les-habitants-de-san-francisco-ont-trouve-une-astuce-low-tech-pour-arreter-l-invasion.html" rel="noopener" target="_blank"><div id="note-text"><p><img class="imported-image ptSynthesisImg" data-height="422" data-original-url="media%2For%2F551775670%3Fhid%3Dm_16492" data-width="750" id="m_16492" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-prolongements-autonomes-habitants-francisco-arreter-invasion-article-html/image-01.jpg"/></p></div></a></div>
 <p><i>Article de Mallory Delicourt, paru sur Clubic, le 8 juillet 2023.</i></p>
 <p><b>Des vidéos virales qui circulent sur TikTok semblent démontrer que certains habitants de San Francisco parviennent à bloquer les taxis autonomes avec de simples cônes de signalisation.</b></p>
 <p>L'utilisation de ces véhicules fait largement débat, notamment en raison des problèmes causés ces dernières années.</p>

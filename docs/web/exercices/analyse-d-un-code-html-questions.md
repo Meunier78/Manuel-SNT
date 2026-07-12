@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="528" data-original-url="media%2FpearlContent%2F551774422" data-width="750" id="l_2445203" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-exercices-analyse-d-un-code-html-questions-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="528" data-original-url="media%2FpearlContent%2F551774422" data-width="750" id="l_2445203" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-exercices-analyse-d-un-code-html-questions-html/image-01.jpg"/></p>
 <p>Observez le code HTML ci-dessus et répondez aux questions suivantes.</p>
 <p>1. Quel élément de balise HTML est utilisé pour lier une feuille de style externe à une page web ?<br/></p>
 <p>a) style<br/>b) link<br/>c) head<br/>d) script</p>

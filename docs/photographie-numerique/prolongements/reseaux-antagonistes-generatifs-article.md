@@ -8,7 +8,7 @@
 
 
 
-<div><a class="relative-url" href="https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs" rel="noopener" target="_blank"><div id="note-text"><p class="wrapped-paragraph"><img class="wrapped ptSynthesisImg imported-image" data-height="260" data-original-url="media%2FpearlContent%2F551777152" data-width="260" id="ptSynthesisImg" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-prolongements-reseaux-antagonistes-generatifs-article-html/image-01.jpg"/></p></div></a></div>
+<div><a class="relative-url" href="https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs" rel="noopener" target="_blank"><div id="note-text"><p class="wrapped-paragraph"><img class="imported-image ptSynthesisImg wrapped" data-height="260" data-original-url="media%2FpearlContent%2F551777152" data-width="260" id="ptSynthesisImg" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-prolongements-reseaux-antagonistes-generatifs-article-html/image-01.jpg"/></p></div></a></div>
 <p>Réseaux antagonistes génératifs</p>
 <p>Image générée par le réseau antagoniste génératif StyleGAN, à partir d'une analyse de portraits.</p>
 <p>En intelligence artificielle, les <b>réseaux antagonistes génératifs</b> (RAG) parfois aussi appelés <b>réseaux adverses génératifs</b> (en anglais <i><b>generative adversarial networks</b></i> ou <b>GANs</b>) sont une classe d'algorithmes d'apprentissage non supervisé. Ces algorithmes ont été introduits par Goodfellow <i>et al.</i> 2014. Ils permettent de générer des images avec un fort degré de réalisme.</p>

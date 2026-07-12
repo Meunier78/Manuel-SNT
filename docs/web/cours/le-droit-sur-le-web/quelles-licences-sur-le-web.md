@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="354" data-original-url="logo%2Fhash%2F551774355%3Fh%3Dc2f2510313618a980df85667c7f66d7b" data-width="640" id="l_2421399" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-le-droit-sur-le-web-quelles-licences-sur-le-web-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="354" data-original-url="logo%2Fhash%2F551774355%3Fh%3Dc2f2510313618a980df85667c7f66d7b" data-width="640" id="l_2421399" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-le-droit-sur-le-web-quelles-licences-sur-le-web-html/image-01.jpg"/></p>
 <p><br/></p>
 <p>Le Web est un espace de liberté où n'importe qui peut publier des pages sans autorisation ni contrôle spécial. N'oubliez pas que la propriété intellectuelle s'applique également au Web. Si les données (texte, voix, image, vidéo, etc.) peuvent être copiées en un clic, la réutilisation n'est en revanche pas autorisée.<br/><br/>Afin de clarifier les différentes modalités de réutilisation et de diffusion de leur œuvre, les auteurs précisent comment partager (ou non) les contenus qu'ils ont créés et postés sur le Web en le spécifiant <i>via</i> des licences. Il existe de nombreux types de licences sur le Web qui régissent l'utilisation et la distribution de contenu, de logiciels et d'œuvres créatives.<br/></p>
 <p>Voici quelques-unes des licences les plus populaires.<br/></p>

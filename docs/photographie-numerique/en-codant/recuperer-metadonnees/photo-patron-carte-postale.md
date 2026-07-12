@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="721" data-original-url="media%2FpearlContent%2F551777126" data-width="417" id="l_2439059" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-en-codant-recuperer-metadonnees-photo-patron-carte-postale-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="721" data-original-url="media%2FpearlContent%2F551777126" data-width="417" id="l_2439059" loading="lazy" src="/Manuel-SNT/assets/imported/la-photographie-numerique-en-codant-recuperer-metadonnees-photo-patron-carte-postale-html/image-01.jpg"/></p>
 </div>
 </div>
 

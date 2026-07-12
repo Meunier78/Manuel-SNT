@@ -8,7 +8,7 @@
 
 
 
-<div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Loi_contre_la_manipulation_de_l%27information" rel="noopener" target="_blank"><div id="note-text"><p class="wrapped-paragraph"><img class="wrapped ptSynthesisImg imported-image" data-height="293" data-original-url="media%2FpearlContent%2F551774970" data-width="220" id="ptSynthesisImg" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-activites-attention-aux-infox-loi-contre-la-manipulation-de-l-information-article-html/image-01.jpg"/></p></div></a></div><div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Loi_contre_la_manipulation_de_l%27information" rel="noopener" target="_blank">
+<div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Loi_contre_la_manipulation_de_l%27information" rel="noopener" target="_blank"><div id="note-text"><p class="wrapped-paragraph"><img class="imported-image ptSynthesisImg wrapped" data-height="293" data-original-url="media%2FpearlContent%2F551774970" data-width="220" id="ptSynthesisImg" loading="lazy" src="/Manuel-SNT/assets/imported/les-reseaux-sociaux-activites-attention-aux-infox-loi-contre-la-manipulation-de-l-information-article-html/image-01.jpg"/></p></div></a></div><div><a class="relative-url" href="https://fr.wikipedia.org/wiki/Loi_contre_la_manipulation_de_l%27information" rel="noopener" target="_blank">
 <p>Loi contre la manipulation de l'information</p>
 <p>Lire en ligne</p>
 <p><a href="https://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=MICX1808389L" rel="noopener" target="_blank">Sur Légifrance</a></p>

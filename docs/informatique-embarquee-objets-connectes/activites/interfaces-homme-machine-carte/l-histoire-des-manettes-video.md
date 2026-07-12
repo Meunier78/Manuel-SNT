@@ -2,19 +2,12 @@
 
 <div class="imported-content">
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/hAgayKC2bdk"
-    title="L&#x27;histoire des Manettes ! - Vidéo"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+<div class="card">
 
-<p><a class="md-button" href="http://www.youtube.com/watch?v=hAgayKC2bdk" target="_blank" rel="noopener">
-Ouvrir la vidéo sur YouTube
-</a></p>
+
+
+
+<div><div class="embedded-youtube"><div class="video-container"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy" src="https://www.youtube-nocookie.com/embed/hAgayKC2bdk" title="L'histoire des Manettes ! - Vidéo"></iframe></div><p><a class="md-button" href="http://www.youtube.com/watch?v=hAgayKC2bdk" rel="noopener" target="_blank">Ouvrir la vidéo sur YouTube</a></p></div></div></div>
 
 </div>
 

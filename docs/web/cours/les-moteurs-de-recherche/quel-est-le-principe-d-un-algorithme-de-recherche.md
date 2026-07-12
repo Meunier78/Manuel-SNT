@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="720" data-original-url="logo%2Fhash%2F551774351%3Fh%3Deea26c036530ab9e8693a9aba7262c4c" data-width="1000" id="l_2421360" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-quel-est-le-principe-d-un-algorithme-de-recherche-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="720" data-original-url="logo%2Fhash%2F551774351%3Fh%3Deea26c036530ab9e8693a9aba7262c4c" data-width="1000" id="l_2421360" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-moteurs-de-recherche-quel-est-le-principe-d-un-algorithme-de-recherche-html/image-01.jpg"/></p>
 <p><br/></p>
 <p>Les algorithmes de recherche utilisent une combinaison de facteurs pour classer la pertinence des pages web pour une requête donnée.<br/></p>
 <p>Voici quelques éléments clés du fonctionnement des algorithmes des moteurs de recherche.<br/></p>

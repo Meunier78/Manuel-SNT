@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="758" data-original-url="logo%2Fhash%2F551774173%3Fh%3D77a2f3efc3bb14dcc9a2804186eec7d1" data-width="750" id="l_2397992" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-trouver-sa-route-exercice-commande-ipconfig-questions-html/image-01.jpg"/>La commande <b>ipconfig /all</b> est exécutée dans l'invite de commandes de l'ordinateur Aurora appartenant au réseau 1 familial.<br/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="758" data-original-url="logo%2Fhash%2F551774173%3Fh%3D77a2f3efc3bb14dcc9a2804186eec7d1" data-width="750" id="l_2397992" loading="lazy" src="/Manuel-SNT/assets/imported/internet-exercices-trouver-sa-route-exercice-commande-ipconfig-questions-html/image-01.jpg"/>La commande <b>ipconfig /all</b> est exécutée dans l'invite de commandes de l'ordinateur Aurora appartenant au réseau 1 familial.<br/></p>
 <p><br/></p>
 <p>1. Différentes technologies permettent d'acheminer des données d'une machine à une autre. En examinant les deux réseaux étudiés, indiquez les technologies associées au n° (1), (2) et (3).</p>
 <p>2. Ce PC est-il relié en filaire ou en Wifi à la box internet ? Justifiez.<br/></p>

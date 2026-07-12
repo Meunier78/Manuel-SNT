@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="534" data-original-url="logo%2Fhash%2F551775543%3Fh%3De241c793b6b7713d8df9f057eb63b515" data-width="590" id="l_2289824" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-activites-afficher-un-voyage-trajet-visualiser-la-trajectoire-d-un-vol-paris-new-york-questions-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="534" data-original-url="logo%2Fhash%2F551775543%3Fh%3De241c793b6b7713d8df9f057eb63b515" data-width="590" id="l_2289824" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-activites-afficher-un-voyage-trajet-visualiser-la-trajectoire-d-un-vol-paris-new-york-questions-html/image-01.jpg"/></p>
 <p><b>uMap</b> (<a href="http://umap.openstreetmap.fr/fr/) est" rel="noopener" target="_blank">http://umap.openstreetmap.fr/fr/</a>) est une plateforme permettant de créer des cartes en s'appuyant sur les fonds de carte d'OpenStreetMap. <br/></p>
 <p>Nous allons afficher la trajectoire d'un vol Paris-New York dans une carte créée sur le site. </p>
 <p>Suivez les étapes suivantes :<br/></p>

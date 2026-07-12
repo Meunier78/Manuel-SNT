@@ -7,7 +7,7 @@
 
 
 
-<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:Piqsels.com-id-zbxec.jpg" rel="noopener" target="_blank"><p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551775155" id="l_2420727" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-reperes-2022-robot-conversationnel-chatgpt-3-html/image-01.jpg" width="693"/></p></a></div>
+<div><a class="relative-url" href="https://commons.wikimedia.org/wiki/File:Piqsels.com-id-zbxec.jpg" rel="noopener" target="_blank"><p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551775155" id="l_2420727" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-reperes-2022-robot-conversationnel-chatgpt-3-html/image-01.jpg" width="693"/></p></a></div>
 
 </div>
 

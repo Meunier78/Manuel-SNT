@@ -6,7 +6,7 @@
 
 
 
-<p><img class="ptSynthesisImg imported-image" data-original-url="media%2FpearlContent%2F551776768" id="l_2445076" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/informatique-embarquee-exercices-nformatique-embarquee-sans-titre-11-html/image-01.jpg" width="973"/></p><div id="note-text"></div>
+<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551776768" id="l_2445076" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/informatique-embarquee-exercices-nformatique-embarquee-sans-titre-11-html/image-01.jpg" width="973"/></p><div id="note-text"></div>
 </div>
 
 </div>

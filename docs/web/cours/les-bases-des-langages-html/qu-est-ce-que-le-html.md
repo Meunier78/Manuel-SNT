@@ -7,7 +7,7 @@
 
 
 
-<div id="note-text"><p><img ="xl"="" class="ptSynthesisImg imported-image" data-height="888" data-original-url="logo%2Fhash%2F551774376%3Fh%3Dca0044e6b4de473019fb1b3f393e8fe3" data-width="1000" id="l_2424474" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-bases-des-langages-html-qu-est-ce-que-le-html-html/image-01.jpg"/></p>
+<div id="note-text"><p><img ="xl"="" class="imported-image ptSynthesisImg" data-height="888" data-original-url="logo%2Fhash%2F551774376%3Fh%3Dca0044e6b4de473019fb1b3f393e8fe3" data-width="1000" id="l_2424474" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-cours-les-bases-des-langages-html-qu-est-ce-que-le-html-html/image-01.jpg"/></p>
 <p><br/></p>
 <p>HTML (Hypertext Markup Language) est le langage de balisage standard utilisé pour créer la structure et le contenu d'une page web. Le HTML indique la signification sémantique du contenu, c'est-à-dire la fonction et la structure des éléments sur la page. Il établit la base de la structure de la page, mais il ne se concentre pas sur l'apparence visuelle. <br/></p>
 <p>Le HTML est composé de balises qui décrivent la signification et la structure des éléments sur la page. Les balises HTML sont entourées de chevrons ("&lt;" et "&gt;") et sont souvent utilisées par paires, avec une balise d'ouverture et une balise de fermeture.<br/></p>
