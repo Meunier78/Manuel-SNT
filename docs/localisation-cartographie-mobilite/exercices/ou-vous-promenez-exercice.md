@@ -1,0 +1,17 @@
+# Où vous promenez-vous ? - Exercice
+
+<div class="imported-content">
+
+<p>Le site <a href="https://www.geoguessr.com/fr" rel="noopener" target="_blank">https://www.geoguessr.com/fr</a> vous plonge dans une ville en affichant les images de rues de Google Street View. Il s'agit d'identifier l'endroit où l'on se trouve. <br/></p>
+<p>Bonne découverte !<br/></p>
+<p>Attention toutefois, la connexion au site nécessite un compte Google (sollicitez un adulte / majeur). </p>
+
+</div>
+
+<div class="source-note" markdown="1">
+
+Source : **Les Manuels Libres — SNT Seconde**  
+Licence : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr),
+sous réserve des droits de propriété intellectuelle de tiers.
+
+</div>

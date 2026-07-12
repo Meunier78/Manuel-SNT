@@ -1,4 +1,7 @@
 # En codant
-<div class="snt-grid"><a class="snt-card" href="convertir-en-binaire-decimal-et-hexadecimal.md"><strong>Convertir en binaire, décimal et hexadécimal</strong><span>Ouvrir la ressource</span></a>
-<a class="snt-card" href="convertir-des-adresses-symboliques-en-ip-comme-un-serveur-dns.md"><strong>Convertir des adresses symboliques en IP comme un serveur DNS</strong><span>Ouvrir la ressource</span></a>
-<a class="snt-card" href="suivre-le-routage-d-un-paquet-de-donnees.md"><strong>Suivre le routage d’un paquet de données</strong><span>Ouvrir la ressource</span></a></div>
+
+<div class="snt-grid">
+<a class="snt-card" href="convertir-adresses-symboliques/"><strong>Convertir adresses symboliques</strong><span>5 ressource(s)</span></a>
+<a class="snt-card" href="convertir-binaire-hexadecimal/"><strong>Convertir binaire hexadecimal</strong><span>6 ressource(s)</span></a>
+<a class="snt-card" href="suivre-routage-paquet-donnees/"><strong>Suivre routage paquet donnees</strong><span>6 ressource(s)</span></a>
+</div>

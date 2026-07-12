@@ -1,7 +1,10 @@
 # Activités
-<div class="snt-grid"><a class="snt-card" href="langage-machine.md"><strong>Langage machine</strong><span>Ouvrir la ressource</span></a>
-<a class="snt-card" href="adresses-ip.md"><strong>Adresses IP</strong><span>Ouvrir la ressource</span></a>
-<a class="snt-card" href="modeles-osi-et-tcp-ip.md"><strong>Modèles OSI et TCP/IP</strong><span>Ouvrir la ressource</span></a>
-<a class="snt-card" href="routage.md"><strong>Routage</strong><span>Ouvrir la ressource</span></a>
-<a class="snt-card" href="trame-ethernet.md"><strong>Trame Ethernet</strong><span>Ouvrir la ressource</span></a>
-<a class="snt-card" href="serveurs-dns.md"><strong>Serveurs DNS</strong><span>Ouvrir la ressource</span></a></div>
+
+<div class="snt-grid">
+<a class="snt-card" href="adresses-ip/"><strong>Adresses IP</strong><span>2 ressource(s)</span></a>
+<a class="snt-card" href="langage-machine/"><strong>Langage machine</strong><span>7 ressource(s)</span></a>
+<a class="snt-card" href="modeles-osi-et-tcp-ip/"><strong>Modeles OSI et TCP IP</strong><span>2 ressource(s)</span></a>
+<a class="snt-card" href="routage/"><strong>Routage</strong><span>13 ressource(s)</span></a>
+<a class="snt-card" href="serveurs-dns/"><strong>Serveurs DNS</strong><span>2 ressource(s)</span></a>
+<a class="snt-card" href="trame-ethernet/"><strong>Trame Ethernet</strong><span>6 ressource(s)</span></a>
+</div>

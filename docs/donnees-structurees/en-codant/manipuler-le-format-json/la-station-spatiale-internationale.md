@@ -1,0 +1,16 @@
+# La Station spatiale internationale
+
+<div class="imported-content">
+
+<p>En abrégé <b>ISS</b> (International Space Station), est une station spatiale placée en orbite terrestre basse, occupée en permanence par un équipage international qui se consacre à la recherche scientifique dans l'environnement spatial. Ce programme, lancé et piloté par la NASA, est développé conjointement avec l'agence spatiale fédérale russe, avec la participation des agences spatiales européenne, japonaise et canadienne.<br/><br/>Il s'agit d'une station composée de modules scientifiques destinés à l'étude des êtres vivants dans l'espace, mais aussi à l'expérimentation de nouvelles technologies militaires et civiles comme les robots, les sondes, les réacteurs, etc. L'ISS a été conçue pour accueillir une équipe d'astronautes pendant plusieurs mois. Ainsi, il n'y a pas seulement des modules de recherche : on trouve également des salles de détente, sport, chambre, salle à manger. Cependant, les pièces sont de taille limitée. Par conséquent, les ressources alimentaires et le matériel mobile sont régulièrement acheminés par des cargos, des vaisseaux Soyouz, car la station n'est pas prévue pour contenir de grands stocks. L'ISS possède donc un sas d'arrimage permettant aux vaisseaux de s'accrocher.<br/><br/>L'ISS est aussi grande qu'un terrain de football ! Ses panneaux solaires, qui lui permettent de s'auto-approvisionner en énergie, s'étendent sur plusieurs dizaines de mètres carrés. De part et d'autre de la poutre principale, qui soutient l'ensemble des modules, on trouve des panneaux grisâtres légèrement pliés "en accordéon" : il s'agit de surfaces permettant d'évacuer la chaleur excessive de l'ISS. De ce fait, afin de maintenir une température convenable pour les astronautes, ces surfaces sont longues de plusieurs mètres.</p>
+<p>Placée en orbite à 350 km d'altitude, l'ISS tourne autour de la Terre. Elle se déplace à une vitesse moyenne de 28 000 km/h. Ainsi, en une journée, plusieurs tours complets peuvent être accomplis par la station. Depuis la planète, il est possible d'apercevoir l'ISS à l'œil nu car ses panneaux solaires sont très brillants. Vue depuis la Terre, la station ressemble à un point lumineux qui traverse le ciel. On notera que l'ISS ne fait le tour du globe qu'en 90 minutes seulement !<br/><br/><a href="https://www.heavens-above.com/ISS_3D.aspx?lat=0&amp;lng=0&amp;loc=Unspecified&amp;alt=0&amp;tz=UCT" rel="noopener" target="_blank"><u>Visualiser l’ISS en 3D</u></a> <br/><br/>Dès le départ, la grande complexité d'assemblage de la station est évidente. Pas moins de 43 lancements sont planifiés dès 1994, avec 34 vols Shuttle, 5 lanceurs Soyouz et 4 Proton, sans compter les rotations d'équipages tous les 6 mois. Seize États se sont ainsi associés au montage du plus grand mécano spatial de tous les temps : le Canada, le Danemark, la France, l'Allemagne, l'Italie, le Japon, la Belgique, le Brésil, la Hollande, la Norvège, la Russie, l'Espagne, la Suède, la Suisse, le Royaume-Uni et les États-Unis.<br/></p>
+
+</div>
+
+<div class="source-note" markdown="1">
+
+Source : **Les Manuels Libres — SNT Seconde**  
+Licence : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr),
+sous réserve des droits de propriété intellectuelle de tiers.
+
+</div>

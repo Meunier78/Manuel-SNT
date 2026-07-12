@@ -1,0 +1,25 @@
+# Les aides à la conduite pour notre sécurité - Article
+
+<div class="imported-content">
+
+<p>Avez-vous conscience des aides à la conduite en service dans une voiture moderne ? Voici quelques systèmes informatiques embarqués qui veillent à la sécurité des passagers. <br/></p>
+<h2>La direction assistée<br/></h2><p>Voici une technologie que vous avez sûrement totalement oubliée, et pourtant : dès que vous tournez le volant de votre véhicule, la direction assistée s’enclenche et facilite considérablement le braquage de vos roues directrices. Vos manœuvres sont ainsi beaucoup plus souples et simplifiées.<br/></p>
+<h2>Le régulateur de vitesse adaptatif<br/></h2><p>Nouvelle génération de régulateur de vitesse, le régulateur de vitesse adaptatif ou Adaptative Cruise Control (ACC) vous permet d’adapter l’allure de votre voiture aux conditions de circulation. Lorsque vous l’enclenchez, le système adapte automatiquement votre vitesse à celle de la voiture qui vous précède sur la route en fonction de la distance qui vous sépare.</p>
+<h2>L’alerte de franchissement involontaire de ligne (AFIL)<br/></h2><p>Si vous changez de voie et que vous franchissez une bande blanche sans avoir activé votre clignotant, un calculateur déclenche une alerte, souvent sous forme de vibrations et/ou de bips sonores. En règle générale, le dispositif ne corrige pas la trajectoire, c’est au conducteur de le faire, mais certains systèmes plus sophistiqués sont en mesure d’effectuer une correction active pour permettre le maintien de la direction et éviter une sortie de route.</p>
+<h2>La reconnaissance des panneaux de signalisation<br/></h2><p>Aide à la conduite particulièrement précieuse sur la route, la reconnaissance des panneaux de signalisation reconnaît les panneaux permanents comme temporaires (notamment pour les limitations de vitesse et les interdictions de dépassement) et vous remonte l’information directement sur le tableau de bord du véhicule.</p>
+<h2>L’ABS<br/></h2><p>Rendu obligatoire depuis 2004 sur tous les véhicules neufs de grande série commercialisés en Europe, l’ABS pour « Antiblockiersystem » évite le blocage de vos roues lorsque vous réalisez un freinage d’urgence. Ce système s’active automatiquement et vous permet de réaliser un freinage plus souple et plus sécuritaire.<br/></p>
+<h2>L’assistance au freinage d’urgence<br/></h2><p>Lorsque vous avez besoin d’amorcer un freinage d’urgence, il est possible que vous n’appuyiez pas assez fort sur la pédale de frein, ce qui augmente alors le risque d’accident. L’assistance au freinage d’urgence (AFU) est un équipement d’aide à la conduite qui augmente la puissance de freinage pour renforcer la sécurité du conducteur. Concrètement, si le calculateur considère que la force de freinage est caractéristique d’une situation d’urgence, il actionne un système mécanique qui va agir sur le frein et ainsi vous aider à diminuer la vitesse du véhicule le plus rapidement possible.</p>
+<h2>L’ESP<br/></h2><p>En agissant à la fois sur l’arrivée des gaz et le freinage, l’ESP pour « Electronic Stability Program » permet de corriger la trajectoire de votre véhicule et s’avère particulièrement efficace dans le cadre d’un évitement d’obstacles, d’un virage ou encore d’une perte d’adhérence. De même qu’avec l’ABS, vous n’avez aucune action à faire pour que l’ESP se déclenche, la détection est automatique et le dispositif s’actionne seul.<br/></p>
+<h2>Le GPS<br/></h2><p>Il est loin le temps où les conducteurs partaient sur les routes équipés d’une carte papier. Désormais, lorsque vous vous rendez quelque part, vous activez votre GPS de façon quasi-systématique. Qu’il soit directement intégré à votre véhicule ou alors disponible depuis une application mobile sur votre smartphone, il vous est devenu indispensable ! Et pour cause, au-delà de vous indiquer le trajet pour vous rendre d’un point A à un point B, les GPS prennent en compte les conditions de circulation et vous proposent un itinéraire privilégié afin d’optimiser votre trajet selon vos préférences.<br/></p>
+<h2>Le détecteur de fatigue<br/></h2><p>La somnolence au volant correspond à la difficulté de rester éveillé, avec un risque d’endormissement élevé. Elle se manifeste par des paupières lourdes et des bâillements répétés. Selon Damien Léger, président du Conseil scientifique de l’INSV : « Dès les premiers signes de somnolence, les risques d’avoir un accident sont multipliés par 3 ou 4. ».</p>
+<p>Pour lutter contre la fatigue et la somnolence au volant, il existe plusieurs solutions. De l’ « attention assist » (détection de somnolence) directement intégré à votre véhicule qui affiche une alerte sur l’ordinateur de bord pour vous recommander de faire une pause, à l’oreillette ou à la bague qui analyse votre niveau d’attention et vous envoie une alerte si celui-ci diminue, tous les moyens sont bons pour vous garder éveillé sur la route !</p>
+
+</div>
+
+<div class="source-note" markdown="1">
+
+Source : **Les Manuels Libres — SNT Seconde**  
+Licence : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr),
+sous réserve des droits de propriété intellectuelle de tiers.
+
+</div>

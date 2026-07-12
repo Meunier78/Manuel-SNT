@@ -1,22 +1,18 @@
 # Qu'est-ce qu'Internet ?
 
-Le réseau Internet est une infrastructure mondiale qui relie plusieurs centaines de millions d’ordinateurs et d’objets connectés. Il permet l’échange d’informations, la communication et l’accès à une multitude de services.
+<div class="imported-content">
 
-Depuis sa naissance dans les années 1960, Internet a connu une croissance rapide et est devenu une infrastructure essentielle pour les gouvernements, les établissements d’enseignement, les entreprises, les banques et les particuliers.
+<p>Le réseau Internet est une infrastructure mondiale qui relie plusieurs centaines de millions d'ordinateurs et d'objets connectés (IoT) à travers le monde, permettant ainsi l'échange d'informations, la communication et l'accès à une multitude de services. Il s'agit d'un réseau complexe en constante évolution qui repose sur des principes fondamentaux de communication et de transmission de données. </p>
+<p>Depuis sa naissance dans les années 1960, le réseau Internet a connu une croissance exponentielle et a révolutionné notre société. Il est devenu une infrastructure vitale et incontournable pour de nombreuses organisations : gouvernements, institutions éducatives, entreprises, banques... Il facilite, pour les utilisateurs du monde entier, l'accès à l'information, le commerce électronique, la communication instantanée et bien d'autres aspects de notre vie quotidienne.<br/></p>
+<p>Au cours des dernières décennies, le trafic de données sur Internet a explosé de manière exponentielle. Dans les années 1990, le trafic se comptait en mégaoctets (10<sup>6</sup> o) par mois. Aujourd'hui, il atteint plusieurs exaoctets (10<sup>18</sup> o) quotidiennement, avec des pics lors d'événements mondiaux. La popularité croissante du streaming vidéo, des réseaux sociaux, de l'Internet des objets et de la connectivité mobile ont stimulé cette croissance. La 5G et les technologies à venir promettent de continuer à façonner cette évolution.<br/></p>
+<p>Au cœur du réseau Internet se trouve un ensemble de protocoles et de normes qui permettent le transfert de données d'un point à un autre. Parmi ces protocoles, le protocole TCP/IP joue un rôle crucial en fournissant une architecture de communication standardisée pour les réseaux interconnectés.<br/></p>
 
-Le trafic de données a explosé avec le streaming vidéo, les réseaux sociaux, l’Internet des objets et les réseaux mobiles.
+</div>
 
-Internet repose sur des protocoles et des normes. Le protocole **TCP/IP** fournit une architecture commune aux réseaux interconnectés.
+<div class="source-note" markdown="1">
 
-!!! info "Prototype"
-    Cette première ressource sert à tester la navigation complète.
+Source : **Les Manuels Libres — SNT Seconde**  
+Licence : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr),
+sous réserve des droits de propriété intellectuelle de tiers.
 
-Source : [Les Manuels Libres](https://lesmanuelslibres.region-academique-idf.fr/snt-seconde/).
-
-<iframe
-  src="https://lesmanuelslibres.region-academique-idf.fr/snt-seconde/Internet/Qu%20est%20ce%20qu%20Internet.html"
-  title="Qu'est-ce qu'Internet ?"
-  style="width:100%; height:75vh; border:1px solid #ddd; border-radius:8px;"
-  loading="lazy"
-  allowfullscreen>
-</iframe>
+</div>
