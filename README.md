@@ -1,2 +1,3 @@
 # Manuel-SNT
-Manuel interactif de Sciences numériques et technologie – Seconde
+
+Prototype MkDocs Material publié avec GitHub Pages.

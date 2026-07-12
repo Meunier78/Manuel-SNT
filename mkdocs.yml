@@ -1,0 +1,166 @@
+site_name: Manuel SNT 2de
+site_url: https://meunier78.github.io/Manuel-SNT/
+repo_url: https://github.com/Meunier78/Manuel-SNT
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle: {icon: material/weather-night, name: Mode sombre}
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle: {icon: material/weather-sunny, name: Mode clair}
+  features: [navigation.instant,navigation.instant.progress,navigation.tracking,navigation.path,navigation.sections,navigation.indexes,navigation.top,toc.follow,search.suggest,search.highlight]
+plugins:
+  - search:
+      lang: fr
+markdown_extensions: [admonition,attr_list,md_in_html,pymdownx.details,pymdownx.superfences]
+extra_css: [stylesheets/extra.css]
+copyright: Adaptation du manuel SNT Seconde — licence CC BY-NC-SA 4.0, sous réserve des droits de tiers.
+nav:
+  - Accueil: index.md
+  - "1. Internet":
+      - "Vue d’ensemble": internet/index.md
+      - "Ouverture du chapitre":
+          - "Vue d’ensemble": internet/ouverture-du-chapitre/index.md
+          - "Qu'est-ce qu'Internet ?": internet/ouverture-du-chapitre/qu-est-ce-qu-internet.md
+          - "Internet en une seule frise": internet/ouverture-du-chapitre/internet-en-une-seule-frise.md
+      - "Repères":
+          - "Vue d’ensemble": internet/reperes/index.md
+          - "Années 1960-1980": internet/reperes/annees-1960-1980.md
+          - "Années 1990": internet/reperes/annees-1990.md
+          - "Années 2000": internet/reperes/annees-2000.md
+      - "Activités":
+          - "Vue d’ensemble": internet/activites/index.md
+          - "Langage machine": internet/activites/langage-machine.md
+          - "Adresses IP": internet/activites/adresses-ip.md
+          - "Modèles OSI et TCP/IP": internet/activites/modeles-osi-et-tcp-ip.md
+          - "Routage": internet/activites/routage.md
+          - "Trame Ethernet": internet/activites/trame-ethernet.md
+          - "Serveurs DNS": internet/activites/serveurs-dns.md
+      - "Cours":
+          - "Vue d’ensemble": internet/cours/index.md
+          - "Bases du langage machine : binaire et hexadécimal": internet/cours/bases-du-langage-machine-binaire-et-hexadecimal.md
+          - "Réseaux et adresses IP": internet/cours/reseaux-et-adresses-ip.md
+          - "Protocole TCP/IP et routage": internet/cours/protocole-tcp-ip-et-routage.md
+          - "Topologie de quelques réseaux": internet/cours/topologie-de-quelques-reseaux.md
+          - "Adresses symboliques et serveur DNS": internet/cours/adresses-symboliques-et-serveur-dns.md
+      - "Exercices":
+          - "Vue d’ensemble": internet/exercices/index.md
+          - "Les grandes dates d'Internet": internet/exercices/les-grandes-dates-d-internet.md
+          - "Jongler entre binaire, décimal et hexadécimal": internet/exercices/jongler-entre-binaire-decimal-et-hexadecimal.md
+          - "Manipuler les unités de mesure informatiques": internet/exercices/manipuler-les-unites-de-mesure-informatiques.md
+          - "Les bases des réseaux informatiques": internet/exercices/les-bases-des-reseaux-informatiques.md
+          - "Adresses IP, adresses MAC et routage": internet/exercices/adresses-ip-adresses-mac-et-routage.md
+          - "Trouver sa route": internet/exercices/trouver-sa-route.md
+      - "En codant":
+          - "Vue d’ensemble": internet/en-codant/index.md
+          - "Convertir en binaire, décimal et hexadécimal": internet/en-codant/convertir-en-binaire-decimal-et-hexadecimal.md
+          - "Convertir des adresses symboliques en IP comme un serveur DNS": internet/en-codant/convertir-des-adresses-symboliques-en-ip-comme-un-serveur-dns.md
+          - "Suivre le routage d’un paquet de données": internet/en-codant/suivre-le-routage-d-un-paquet-de-donnees.md
+      - "Prolongements":
+          - "Vue d’ensemble": internet/prolongements/index.md
+          - "DHCP, ports de communication et pare-feu": internet/prolongements/dhcp-ports-de-communication-et-pare-feu.md
+          - "Les VPN": internet/prolongements/les-vpn.md
+          - "Le chiffrement des données": internet/prolongements/le-chiffrement-des-donnees.md
+          - "Les blockchains": internet/prolongements/les-blockchains.md
+          - "Les attaques de DNS": internet/prolongements/les-attaques-de-dns.md
+  - "2. Le Web":
+      - "Vue d’ensemble": web/index.md
+      - "Ouverture du chapitre":
+          - "Vue d’ensemble": web/ouverture-du-chapitre/index.md
+      - "Repères":
+          - "Vue d’ensemble": web/reperes/index.md
+      - "Activités":
+          - "Vue d’ensemble": web/activites/index.md
+      - "Cours":
+          - "Vue d’ensemble": web/cours/index.md
+      - "Exercices":
+          - "Vue d’ensemble": web/exercices/index.md
+      - "En codant":
+          - "Vue d’ensemble": web/en-codant/index.md
+      - "Prolongements":
+          - "Vue d’ensemble": web/prolongements/index.md
+  - "3. Les réseaux sociaux":
+      - "Vue d’ensemble": reseaux-sociaux/index.md
+      - "Ouverture du chapitre":
+          - "Vue d’ensemble": reseaux-sociaux/ouverture-du-chapitre/index.md
+      - "Repères":
+          - "Vue d’ensemble": reseaux-sociaux/reperes/index.md
+      - "Activités":
+          - "Vue d’ensemble": reseaux-sociaux/activites/index.md
+      - "Cours":
+          - "Vue d’ensemble": reseaux-sociaux/cours/index.md
+      - "Exercices":
+          - "Vue d’ensemble": reseaux-sociaux/exercices/index.md
+      - "En codant":
+          - "Vue d’ensemble": reseaux-sociaux/en-codant/index.md
+      - "Prolongements":
+          - "Vue d’ensemble": reseaux-sociaux/prolongements/index.md
+  - "4. Les données structurées et leur traitement":
+      - "Vue d’ensemble": donnees-structurees/index.md
+      - "Ouverture du chapitre":
+          - "Vue d’ensemble": donnees-structurees/ouverture-du-chapitre/index.md
+      - "Repères":
+          - "Vue d’ensemble": donnees-structurees/reperes/index.md
+      - "Activités":
+          - "Vue d’ensemble": donnees-structurees/activites/index.md
+      - "Cours":
+          - "Vue d’ensemble": donnees-structurees/cours/index.md
+      - "Exercices":
+          - "Vue d’ensemble": donnees-structurees/exercices/index.md
+      - "En codant":
+          - "Vue d’ensemble": donnees-structurees/en-codant/index.md
+      - "Prolongements":
+          - "Vue d’ensemble": donnees-structurees/prolongements/index.md
+  - "5. Localisation, cartographie et mobilité":
+      - "Vue d’ensemble": localisation-cartographie-mobilite/index.md
+      - "Ouverture du chapitre":
+          - "Vue d’ensemble": localisation-cartographie-mobilite/ouverture-du-chapitre/index.md
+      - "Repères":
+          - "Vue d’ensemble": localisation-cartographie-mobilite/reperes/index.md
+      - "Activités":
+          - "Vue d’ensemble": localisation-cartographie-mobilite/activites/index.md
+      - "Cours":
+          - "Vue d’ensemble": localisation-cartographie-mobilite/cours/index.md
+      - "Exercices":
+          - "Vue d’ensemble": localisation-cartographie-mobilite/exercices/index.md
+      - "En codant":
+          - "Vue d’ensemble": localisation-cartographie-mobilite/en-codant/index.md
+      - "Prolongements":
+          - "Vue d’ensemble": localisation-cartographie-mobilite/prolongements/index.md
+  - "6. Informatique embarquée et objets connectés":
+      - "Vue d’ensemble": informatique-embarquee-objets-connectes/index.md
+      - "Ouverture du chapitre":
+          - "Vue d’ensemble": informatique-embarquee-objets-connectes/ouverture-du-chapitre/index.md
+      - "Repères":
+          - "Vue d’ensemble": informatique-embarquee-objets-connectes/reperes/index.md
+      - "Activités":
+          - "Vue d’ensemble": informatique-embarquee-objets-connectes/activites/index.md
+      - "Cours":
+          - "Vue d’ensemble": informatique-embarquee-objets-connectes/cours/index.md
+      - "Exercices":
+          - "Vue d’ensemble": informatique-embarquee-objets-connectes/exercices/index.md
+      - "En codant":
+          - "Vue d’ensemble": informatique-embarquee-objets-connectes/en-codant/index.md
+      - "Prolongements":
+          - "Vue d’ensemble": informatique-embarquee-objets-connectes/prolongements/index.md
+  - "7. La photographie numérique":
+      - "Vue d’ensemble": photographie-numerique/index.md
+      - "Ouverture du chapitre":
+          - "Vue d’ensemble": photographie-numerique/ouverture-du-chapitre/index.md
+      - "Repères":
+          - "Vue d’ensemble": photographie-numerique/reperes/index.md
+      - "Activités":
+          - "Vue d’ensemble": photographie-numerique/activites/index.md
+      - "Cours":
+          - "Vue d’ensemble": photographie-numerique/cours/index.md
+      - "Exercices":
+          - "Vue d’ensemble": photographie-numerique/exercices/index.md
+      - "En codant":
+          - "Vue d’ensemble": photographie-numerique/en-codant/index.md
+      - "Prolongements":
+          - "Vue d’ensemble": photographie-numerique/prolongements/index.md
