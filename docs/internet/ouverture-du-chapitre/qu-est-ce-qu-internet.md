@@ -12,3 +12,11 @@ Internet repose sur des protocoles et des normes. Le protocole **TCP/IP** fourni
     Cette première ressource sert à tester la navigation complète.
 
 Source : [Les Manuels Libres](https://lesmanuelslibres.region-academique-idf.fr/snt-seconde/).
+
+<iframe
+  src="https://lesmanuelslibres.region-academique-idf.fr/snt-seconde/Internet/Qu%20est%20ce%20qu%20Internet.html"
+  title="Qu'est-ce qu'Internet ?"
+  style="width:100%; height:75vh; border:1px solid #ddd; border-radius:8px;"
+  loading="lazy"
+  allowfullscreen>
+</iframe>
