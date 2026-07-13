@@ -9,7 +9,7 @@
   </div>
   <div class="chapter-grid">
 
-  <a class="chapter-card" href="reperes/1995-classmates-pour-les-copains-d-ecole.md">
+  <a class="chapter-card" href="reperes/1995-classmates-pour-les-copains-d-ecole/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🕰️</div>
       <h2 class="chapter-card__title">Repères</h2>
@@ -24,7 +24,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="activites/attention-aux-infox/des-sites-qui-permettent-de-debusquer-des-infox.md">
+  <a class="chapter-card" href="activites/attention-aux-infox/des-sites-qui-permettent-de-debusquer-des-infox/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🧩</div>
       <h2 class="chapter-card__title">Activités</h2>
@@ -39,7 +39,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="cours/anatomy-of-facebook-article-en-anglais.md">
+  <a class="chapter-card" href="cours/anatomy-of-facebook-article-en-anglais/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">📘</div>
       <h2 class="chapter-card__title">Cours</h2>
@@ -54,7 +54,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="exercices/a-vous-exercice.md">
+  <a class="chapter-card" href="exercices/a-vous-exercice/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">✍️</div>
       <h2 class="chapter-card__title">Exercices</h2>
@@ -69,7 +69,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="en-codant/analyser-reseau-social-start/avant-de-commencer.md">
+  <a class="chapter-card" href="en-codant/analyser-reseau-social-start/avant-de-commencer/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">👨‍💻</div>
       <h2 class="chapter-card__title">En codant</h2>
@@ -84,7 +84,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="prolongements/des-reseaux-orientes.md">
+  <a class="chapter-card" href="prolongements/des-reseaux-orientes/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🚀</div>
       <h2 class="chapter-card__title">Prolongements</h2>

@@ -9,7 +9,7 @@
   </div>
   <div class="chapter-grid">
 
-  <a class="chapter-card" href="reperes/1993-le-gps-devient-operationnel-avec-24-satellites-actifs.md">
+  <a class="chapter-card" href="reperes/1993-le-gps-devient-operationnel-avec-24-satellites-actifs/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🕰️</div>
       <h2 class="chapter-card__title">Repères</h2>
@@ -24,7 +24,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="activites/afficher-un-voyage-trajet/flightaware-site.md">
+  <a class="chapter-card" href="activites/afficher-un-voyage-trajet/flightaware-site/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🧩</div>
       <h2 class="chapter-card__title">Activités</h2>
@@ -39,7 +39,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="cours/calculs-d-itineraires.md">
+  <a class="chapter-card" href="cours/calculs-d-itineraires/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">📘</div>
       <h2 class="chapter-card__title">Cours</h2>
@@ -54,7 +54,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="exercices/a-quelle-heure-partir-exercice.md">
+  <a class="chapter-card" href="exercices/a-quelle-heure-partir-exercice/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">✍️</div>
       <h2 class="chapter-card__title">Exercices</h2>
@@ -69,7 +69,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="en-codant/analyser-les-donnees-vol-drone/avant-de-commencer.md">
+  <a class="chapter-card" href="en-codant/analyser-les-donnees-vol-drone/avant-de-commencer/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">👨‍💻</div>
       <h2 class="chapter-card__title">En codant</h2>
@@ -84,7 +84,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="prolongements/a-san-francisco-les-taxis-roulent-sans-chauffeur-video.md">
+  <a class="chapter-card" href="prolongements/a-san-francisco-les-taxis-roulent-sans-chauffeur-video/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🚀</div>
       <h2 class="chapter-card__title">Prolongements</h2>

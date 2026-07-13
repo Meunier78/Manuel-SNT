@@ -8,31 +8,31 @@
   </div>
 
   <div class="section-grid">
-  <a class="section-card" href="reperes/1967-premier-systeme-embarque-guidage-mission-lunaire-apollo.md">
+  <a class="section-card" href="reperes/1967-premier-systeme-embarque-guidage-mission-lunaire-apollo/">
     <h2 class="section-card__title">1967 - Premier système embarqué de guidage lors de la mission lunaire Apollo</h2>
     <p class="section-card__excerpt">sous réserve des droits de propriété intellectuelle de tiers.</p>
   </a>
-  <a class="section-card" href="reperes/1971-premier-processeur-produit-par-intel.md">
+  <a class="section-card" href="reperes/1971-premier-processeur-produit-par-intel/">
     <h2 class="section-card__title">1971 - Premier processeur produit par Intel</h2>
     <p class="section-card__excerpt">sous réserve des droits de propriété intellectuelle de tiers.</p>
   </a>
-  <a class="section-card" href="reperes/1998-mise-en-service-du-metro-sans-conducteur-paris-la-ligne.md">
+  <a class="section-card" href="reperes/1998-mise-en-service-du-metro-sans-conducteur-paris-la-ligne/">
     <h2 class="section-card__title">1998 - Mise en service du métro sans conducteur à Paris (la ligne 14)</h2>
     <p class="section-card__excerpt">sous réserve des droits de propriété intellectuelle de tiers.</p>
   </a>
-  <a class="section-card" href="reperes/1999-introduction-expression-internet-objets-kevin-ashton.md">
+  <a class="section-card" href="reperes/1999-introduction-expression-internet-objets-kevin-ashton/">
     <h2 class="section-card__title">1999 - Introduction de l’expression « Internet des objets » par Kevin Ashton</h2>
     <p class="section-card__excerpt">sous réserve des droits de propriété intellectuelle de tiers.</p>
   </a>
-  <a class="section-card" href="reperes/2007-commercialisation-de-l-iphone.md">
+  <a class="section-card" href="reperes/2007-commercialisation-de-l-iphone/">
     <h2 class="section-card__title">2007 - Commercialisation de l&#x27;iPhone</h2>
     <p class="section-card__excerpt">Ouvrir la vidéo sur YouTube sous réserve des droits de propriété intellectuelle de tiers.</p>
   </a>
-  <a class="section-card" href="reperes/2010-2020-les-aides-conduite-multiplient-dans-les-voitures.md">
+  <a class="section-card" href="reperes/2010-2020-les-aides-conduite-multiplient-dans-les-voitures/">
     <h2 class="section-card__title">2010 &amp; 2020 - Les aides à la conduite se multiplient dans les voitures</h2>
     <p class="section-card__excerpt">sous réserve des droits de propriété intellectuelle de tiers.</p>
   </a>
-  <a class="section-card" href="reperes/airbus-premier-equipe-commandes-electriques-informatisees.md">
+  <a class="section-card" href="reperes/airbus-premier-equipe-commandes-electriques-informatisees/">
     <h2 class="section-card__title">1984 - Airbus 320, premier avion équipé de commandes électriques informatisées</h2>
     <p class="section-card__excerpt">sous réserve des droits de propriété intellectuelle de tiers.</p>
   </a>

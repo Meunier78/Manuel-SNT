@@ -9,7 +9,7 @@
   </div>
   <div class="chapter-grid">
 
-  <a class="chapter-card" href="reperes/1969-naissance-d-arpanet.md">
+  <a class="chapter-card" href="reperes/1969-naissance-d-arpanet/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🕰️</div>
       <h2 class="chapter-card__title">Repères</h2>
@@ -24,7 +24,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="activites/adresses-ip/adresses-ip-comprendre-l-essentiel-en-7-minutes-video.md">
+  <a class="chapter-card" href="activites/adresses-ip/adresses-ip-comprendre-l-essentiel-en-7-minutes-video/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🧩</div>
       <h2 class="chapter-card__title">Activités</h2>
@@ -39,7 +39,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="cours/adresses-symboliques-serveur/de-la-requete-dns-a-l-affichage-d-une-page-web-schema.md">
+  <a class="chapter-card" href="cours/adresses-symboliques-serveur/de-la-requete-dns-a-l-affichage-d-une-page-web-schema/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">📘</div>
       <h2 class="chapter-card__title">Cours</h2>
@@ -54,7 +54,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="exercices/adresses-ip-questions.md">
+  <a class="chapter-card" href="exercices/adresses-ip-questions/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">✍️</div>
       <h2 class="chapter-card__title">Exercices</h2>
@@ -69,7 +69,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="en-codant/convertir-adresses-symboliques/avant-de-commencer.md">
+  <a class="chapter-card" href="en-codant/convertir-adresses-symboliques/avant-de-commencer/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">👨‍💻</div>
       <h2 class="chapter-card__title">En codant</h2>
@@ -84,7 +84,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="prolongements/comprendre-l-attaque-ddos-en-4-minutes-video.md">
+  <a class="chapter-card" href="prolongements/comprendre-l-attaque-ddos-en-4-minutes-video/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🚀</div>
       <h2 class="chapter-card__title">Prolongements</h2>

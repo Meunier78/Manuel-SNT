@@ -9,7 +9,7 @@
   </div>
   <div class="chapter-grid">
 
-  <a class="chapter-card" href="reperes/1967-premier-systeme-embarque-guidage-mission-lunaire-apollo.md">
+  <a class="chapter-card" href="reperes/1967-premier-systeme-embarque-guidage-mission-lunaire-apollo/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🕰️</div>
       <h2 class="chapter-card__title">Repères</h2>
@@ -24,7 +24,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="activites/airtag-petit-objet-connecte/et-le-suivi-des-personnes-a-leur-insu.md">
+  <a class="chapter-card" href="activites/airtag-petit-objet-connecte/et-le-suivi-des-personnes-a-leur-insu/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🧩</div>
       <h2 class="chapter-card__title">Activités</h2>
@@ -39,7 +39,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="cours/a-quoi-sert-l-informatique-embarquee.md">
+  <a class="chapter-card" href="cours/a-quoi-sert-l-informatique-embarquee/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">📘</div>
       <h2 class="chapter-card__title">Cours</h2>
@@ -54,7 +54,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="exercices/boussole-inclinee-premier-exemple.md">
+  <a class="chapter-card" href="exercices/boussole-inclinee-premier-exemple/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">✍️</div>
       <h2 class="chapter-card__title">Exercices</h2>
@@ -69,7 +69,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="en-codant/piloter-deplacements-robotise/avant-de-commencer.md">
+  <a class="chapter-card" href="en-codant/piloter-deplacements-robotise/avant-de-commencer/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">👨‍💻</div>
       <h2 class="chapter-card__title">En codant</h2>
@@ -84,7 +84,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="prolongements/australie-drones-semeurs-graines-deforestation-article.md">
+  <a class="chapter-card" href="prolongements/australie-drones-semeurs-graines-deforestation-article/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🚀</div>
       <h2 class="chapter-card__title">Prolongements</h2>
