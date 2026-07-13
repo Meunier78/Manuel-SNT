@@ -47,9 +47,11 @@ extra_css:
   - stylesheets/extra.css
 
   - stylesheets/header-lpv.css
+  - stylesheets/homepage-roadmap.css
 extra_javascript:
   - javascripts/fix-links.js
 
+  - javascripts/sidebar-active-path.js
 copyright: >
   Adaptation du manuel SNT Seconde — Les Manuels Libres.
   Licence CC BY-NC-SA 4.0, sous réserve des droits de tiers.
