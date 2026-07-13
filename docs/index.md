@@ -6,12 +6,8 @@
 
 <div class="snt-roadmap">
 
-<svg class="snt-roadmap__path" viewBox="0 0 1000 1040" preserveAspectRatio="none" aria-hidden="true">
-  <path d="M210 110 C340 120,420 190,530 210 C670 240,760 290,720 360 C680 430,500 430,430 500 C360 570,570 610,640 650 C720 700,570 760,500 815 C620 860,730 900,865 955" />
-  <circle cx="210" cy="110" r="10"/><circle cx="530" cy="210" r="10"/>
-  <circle cx="720" cy="360" r="10"/><circle cx="430" cy="500" r="10"/>
-  <circle cx="640" cy="650" r="10"/><circle cx="500" cy="815" r="10"/>
-  <circle cx="865" cy="955" r="10"/>
+<svg class="snt-roadmap__path" aria-hidden="true">
+  <path class="snt-roadmap__line" d=""></path>
 </svg>
 
 <a class="snt-card snt-card--1" href="internet/">
