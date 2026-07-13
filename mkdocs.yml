@@ -1,8 +1,6 @@
 site_name: Manuel SNT 2de
 site_description: Manuel interactif de Sciences numériques et technologie — Seconde
 site_url: https://meunier78.github.io/Manuel-SNT/
-repo_url: https://github.com/Meunier78/Manuel-SNT
-repo_name: Meunier78/Manuel-SNT
 
 theme:
   name: material
@@ -48,6 +46,7 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+  - stylesheets/header-lpv.css
 extra_javascript:
   - javascripts/fix-links.js
 

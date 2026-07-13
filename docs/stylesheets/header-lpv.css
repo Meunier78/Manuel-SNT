@@ -1,0 +1,41 @@
+/* Personnalisation de la barre supérieure du Manuel SNT */
+
+/* La zone GitHub à droite n'est plus affichée. */
+.md-header__source {
+  display: none !important;
+}
+
+/* Le logo LPV est centré sur la première ligne. */
+.md-header__inner {
+  position: relative;
+}
+
+.md-header__inner::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 76px;
+  height: 40px;
+  transform: translate(-50%, -50%);
+  background: #ffffff url("../assets/images/logo-lpv.png") center / contain no-repeat;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.16);
+  pointer-events: none;
+  z-index: 5;
+}
+
+/* Sur tablette, le logo est légèrement réduit. */
+@media screen and (max-width: 960px) {
+  .md-header__inner::after {
+    width: 58px;
+    height: 32px;
+  }
+}
+
+/* Sur téléphone, on évite tout chevauchement avec le titre et la recherche. */
+@media screen and (max-width: 700px) {
+  .md-header__inner::after {
+    display: none;
+  }
+}
