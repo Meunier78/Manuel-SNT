@@ -9,7 +9,7 @@
   </div>
   <div class="chapter-grid">
 
-  <a class="chapter-card" href="reperes/1930-cartes-perforees/">
+  <a class="chapter-card" href="reperes/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🕰️</div>
       <h2 class="chapter-card__title">Repères</h2>
@@ -24,7 +24,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="activites/bases-donnees-relationnelles/base-de-donnees-clients-maquette-1-fichier/">
+  <a class="chapter-card" href="activites/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🧩</div>
       <h2 class="chapter-card__title">Activités</h2>
@@ -39,7 +39,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="cours/comment-stocker-localement-des-donnees/">
+  <a class="chapter-card" href="cours/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">📘</div>
       <h2 class="chapter-card__title">Cours</h2>
@@ -54,7 +54,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="exercices/cinemas-actifs-en-france-premieres-questions/">
+  <a class="chapter-card" href="exercices/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">✍️</div>
       <h2 class="chapter-card__title">Exercices</h2>
@@ -69,7 +69,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="en-codant/manipuler-le-format-csv/avant-de-commencer/">
+  <a class="chapter-card" href="en-codant/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">👨‍💻</div>
       <h2 class="chapter-card__title">En codant</h2>
@@ -84,7 +84,7 @@
     </ul>
   </a>
 
-  <a class="chapter-card" href="prolongements/le-format-json/correspondance-entre-un-fichier-csv-et-json/">
+  <a class="chapter-card" href="prolongements/">
     <div class="chapter-card__header">
       <div class="chapter-card__icon" aria-hidden="true">🚀</div>
       <h2 class="chapter-card__title">Prolongements</h2>
