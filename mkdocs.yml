@@ -44,9 +44,12 @@ extra_css:
 - stylesheets/header-lpv.css
 - stylesheets/homepage-roadmap.css
 - stylesheets/chapter-landing.css
+- stylesheets/navigation-hierarchy.css
+- stylesheets/sidebar-hierarchy.css
 extra_javascript:
 - javascripts/fix-links.js
 - javascripts/sidebar-active-path.js
+- javascripts/sidebar-hierarchy.js
 copyright: 'Adaptation du manuel SNT Seconde — Les Manuels Libres. Licence CC BY-NC-SA 4.0, sous réserve des droits de tiers.
 
   '
@@ -56,6 +59,7 @@ nav:
   - Présentation du chapitre: internet/index.md
   - Vue d’ensemble: internet/index.md
   - Repères:
+    - internet/reperes/index.md
     - Vue d’ensemble: internet/reperes/index.md
     - 1969 - Naissance d'ARPANET: internet/reperes/1969-naissance-d-arpanet.md
     - 1971 - Envoi du premier e-mail: internet/reperes/1971-envoi-du-premier-e-mail.md
@@ -70,6 +74,7 @@ nav:
     - 2010 - Entrée dans l'ère de l'Internet des objets (IoT): internet/reperes/2010-entree-dans-l-ere-de-internet-des-objets-iot.md
     - 2021 - Émergence de la blockchain et des cryptomonnaies: internet/reperes/2021-emergence-de-la-blockchain-et-des-cryptomonnaies.md
   - Activités:
+    - internet/activites/index.md
     - Vue d’ensemble: internet/activites/index.md
     - Adresses IP:
       - Vue d’ensemble: internet/activites/adresses-ip/index.md
@@ -116,6 +121,7 @@ nav:
       - Trame Ethernet colorée par zone - Aide: internet/activites/trame-ethernet/trame-ethernet-coloree-par-zone-aide.md
       - Une trame Ethernet récupérée sur le réseau: internet/activites/trame-ethernet/une-trame-ethernet-recuperee-sur-le-reseau.md
   - Cours:
+    - internet/cours/index.md
     - Vue d’ensemble: internet/cours/index.md
     - Adresses symboliques serveur:
       - Vue d’ensemble: internet/cours/adresses-symboliques-serveur/index.md
@@ -168,6 +174,7 @@ nav:
       - Qu'est-ce qu'un réseau pair-à-pair ?: internet/cours/topologie-de-quelques-reseaux/qu-est-ce-qu-un-reseau-pair-a.md
       - Topologie de quelques réseaux: internet/cours/topologie-de-quelques-reseaux/topologie-de-quelques-reseaux.md
   - Exercices:
+    - internet/exercices/index.md
     - Vue d’ensemble: internet/exercices/index.md
     - Adresses IP - Questions: internet/exercices/adresses-ip-questions.md
     - Adresses MAC - Questions: internet/exercices/adresses-mac-questions.md
@@ -225,6 +232,7 @@ nav:
       - La route empruntée pour aller sur ww.inria.fr avec l'invite de commandes: internet/exercices/trouver-sa-route-exercice/route-empruntee-pour-aller-sur-inria-avec-invite-commandes.md
       - Traceroute mapper - Site: internet/exercices/trouver-sa-route-exercice/traceroute-mapper-site.md
   - En codant:
+    - internet/en-codant/index.md
     - Vue d’ensemble: internet/en-codant/index.md
     - Convertir adresses symboliques:
       - Vue d’ensemble: internet/en-codant/convertir-adresses-symboliques/index.md
@@ -250,6 +258,7 @@ nav:
       - Traitement des données avec Python: internet/en-codant/suivre-routage-paquet-donnees/traitement-des-donnees-avec-python.md
       - Vers le notebook Capytale - Site: internet/en-codant/suivre-routage-paquet-donnees/vers-le-notebook-capytale-site.md
   - Prolongements:
+    - internet/prolongements/index.md
     - Vue d’ensemble: internet/prolongements/index.md
     - Comprendre l'attaque DDOS en 4 minutes - Vidéo: internet/prolongements/comprendre-l-attaque-ddos-en-4-minutes-video.md
     - Comprendre le DHCP en 3 minutes - Vidéo: internet/prolongements/comprendre-le-dhcp-en-3-minutes-video.md
@@ -269,6 +278,7 @@ nav:
   - Présentation du chapitre: web/index.md
   - Vue d’ensemble: web/index.md
   - Repères:
+    - web/reperes/index.md
     - Vue d’ensemble: web/reperes/index.md
     - 1965 - Invention et programmation du concept d'hypertexte par Ted Nelson: web/reperes/1965-invention-programmation-concept-hypertexte-par-nelson.md
     - 1989 - Naissance au CERN par Tim Berners Lee: web/reperes/1989-naissance-au-cern-par-tim-berners-lee.md
@@ -286,6 +296,7 @@ nav:
         (langage PHP)
       : web/reperes/disposition-technologies-developpement-interactifs.md
   - Activités:
+    - web/activites/index.md
     - Vue d’ensemble: web/activites/index.md
     - Algorithme de PageRank:
       - Vue d’ensemble: web/activites/algorithme-de-pagerank/index.md
@@ -323,6 +334,7 @@ nav:
       - Ceci n'est pas Internet - Questions: web/activites/web-internet/ceci-n-est-pas-internet-questions.md
       - Ceci n'est pas internet ! - Vidéo: web/activites/web-internet/ceci-n-est-pas-internet-video.md
   - Cours:
+    - web/cours/index.md
     - Vue d’ensemble: web/cours/index.md
     - Le droit sur le Web:
       - Vue d’ensemble: web/cours/le-droit-sur-le-web/index.md
@@ -395,6 +407,7 @@ nav:
       - Les étapes des requêtes et des réponses HTTP: web/cours/modele-client-serveur-sur-web/les-etapes-des-requetes-et-reponses-http.md
       - Quelles différences entre les protocoles HTTP et HTTPS ?: web/cours/modele-client-serveur-sur-web/quelles-differences-entre-les-protocoles-http-et-https.md
   - Exercices:
+    - web/exercices/index.md
     - Vue d’ensemble: web/exercices/index.md
     - Analyse d'un code HTML - Exercice interactif: web/exercices/analyse-d-un-code-html-exercice-interactif.md
     - Analyse d'un code HTML - Questions: web/exercices/analyse-d-un-code-html-questions.md
@@ -430,6 +443,7 @@ nav:
       - Perle sans titre: web/exercices/les-grandes-dates-web-exercice/sans-titre-8.md
       - Perle sans titre: web/exercices/les-grandes-dates-web-exercice/sans-titre-9.md
   - En codant:
+    - web/en-codant/index.md
     - Vue d’ensemble: web/en-codant/index.md
     - Creer un generateur mots passe:
       - Vue d’ensemble: web/en-codant/creer-un-generateur-mots-passe/index.md
@@ -455,6 +469,7 @@ nav:
       - Traitement des données avec Python: web/en-codant/retrouver-moteur-recherche/traitement-des-donnees-avec-python.md
       - Vers le notebook Capytale - Site: web/en-codant/retrouver-moteur-recherche/vers-le-notebook-capytale-site.md
   - Prolongements:
+    - web/prolongements/index.md
     - Vue d’ensemble: web/prolongements/index.md
     - La naissance du Web - Site: web/prolongements/la-naissance-du-web-site.md
     - Creation adaptent differentes:
@@ -487,6 +502,7 @@ nav:
   - Présentation du chapitre: reseaux-sociaux/index.md
   - Vue d’ensemble: reseaux-sociaux/index.md
   - Repères:
+    - reseaux-sociaux/reperes/index.md
     - Vue d’ensemble: reseaux-sociaux/reperes/index.md
     - 1995 - Classmates, pour les copains d'école: reseaux-sociaux/reperes/1995-classmates-pour-les-copains-d-ecole.md
     - 2003 - Myspace, musical et artistique: reseaux-sociaux/reperes/2003-myspace-musical-et-artistique.md
@@ -498,6 +514,7 @@ nav:
     - 2018 - TikTok en vidéos courtes: reseaux-sociaux/reperes/2018-tiktok-en-videos-courtes.md
     - 2023 - 5 milliards d'utilisateurs actifs des réseaux sociaux: reseaux-sociaux/reperes/2023-5-milliards-d-utilisateurs-actifs-des-reseaux-sociaux.md
   - Activités:
+    - reseaux-sociaux/activites/index.md
     - Vue d’ensemble: reseaux-sociaux/activites/index.md
     - Attention aux infox:
       - Vue d’ensemble: reseaux-sociaux/activites/attention-aux-infox/index.md
@@ -548,6 +565,7 @@ nav:
       - Service Après-Vente d'Internet - Vidéo: reseaux-sociaux/activites/service-apres-vente-internet/service-apres-vente-d-internet-video.md
       - Vidéo 'Service Après-Vente d'Internet' - Questions: reseaux-sociaux/activites/service-apres-vente-internet/video-service-apres-vente-d-internet-questions.md
   - Cours:
+    - reseaux-sociaux/cours/index.md
     - Vue d’ensemble: reseaux-sociaux/cours/index.md
     - Anatomy of Facebook - Article (en anglais): reseaux-sociaux/cours/anatomy-of-facebook-article-en-anglais.md
     - Caractéristiques d'un graphe: reseaux-sociaux/cours/caracteristiques-d-un-graphe.md
@@ -570,6 +588,7 @@ nav:
     - Réseau social constitué de 18 élèves - Graphe: reseaux-sociaux/cours/reseau-social-constitue-de-18-eleves-graphe.md
     - Utilité des caractéristiques d'un graphe: reseaux-sociaux/cours/utilite-des-caracteristiques-d-un-graphe.md
   - Exercices:
+    - reseaux-sociaux/exercices/index.md
     - Vue d’ensemble: reseaux-sociaux/exercices/index.md
     - À vous ! - Exercice: reseaux-sociaux/exercices/a-vous-exercice.md
     - Article 222-33-2-2 - Code pénal: reseaux-sociaux/exercices/article-222-33-2-code-penal.md
@@ -626,6 +645,7 @@ nav:
       - Perle sans titre: reseaux-sociaux/exercices/grandes-reseaux-exercice/sans-titre-8.md
       - Perle sans titre: reseaux-sociaux/exercices/grandes-reseaux-exercice/sans-titre-9.md
   - En codant:
+    - reseaux-sociaux/en-codant/index.md
     - Vue d’ensemble: reseaux-sociaux/en-codant/index.md
     - Analyser reseau social start:
       - Vue d’ensemble: reseaux-sociaux/en-codant/analyser-reseau-social-start/index.md
@@ -652,6 +672,7 @@ nav:
       - Traitement des données avec Python: reseaux-sociaux/en-codant/modeliser-reseau-facebook/traitement-des-donnees-avec-python.md
       - Vers le notebook Capytale - Site: reseaux-sociaux/en-codant/modeliser-reseau-facebook/vers-le-notebook-capytale-site.md
   - Prolongements:
+    - reseaux-sociaux/prolongements/index.md
     - Vue d’ensemble: reseaux-sociaux/prolongements/index.md
     - Des réseaux orientés: reseaux-sociaux/prolongements/des-reseaux-orientes.md
     - L'achat et la vente de données personnelles: reseaux-sociaux/prolongements/l-achat-et-la-vente-de-donnees-personnelles.md
@@ -662,6 +683,7 @@ nav:
   - Présentation du chapitre: donnees-structurees/index.md
   - Vue d’ensemble: donnees-structurees/index.md
   - Repères:
+    - donnees-structurees/reperes/index.md
     - Vue d’ensemble: donnees-structurees/reperes/index.md
     - 1930 - Cartes perforées: donnees-structurees/reperes/1930-cartes-perforees.md
     - 1956 - Invention du disque dur: donnees-structurees/reperes/1956-invention-du-disque-dur.md
@@ -682,6 +704,7 @@ nav:
     - 2022 - Robot conversationnel ChatGPT 3: donnees-structurees/reperes/2022-robot-conversationnel-chatgpt-3.md
     - 1971 - Invention de la disquette, premier support de stockage de données amovible: donnees-structurees/reperes/invention-disquette-premier-support-stockage-amovible.md
   - Activités:
+    - donnees-structurees/activites/index.md
     - Vue d’ensemble: donnees-structurees/activites/index.md
     - Bases donnees relationnelles:
       - Vue d’ensemble: donnees-structurees/activites/bases-donnees-relationnelles/index.md
@@ -741,6 +764,7 @@ nav:
       - Sobriété numérique - Guide: donnees-structurees/activites/route-vers-sobriete-numerique/sobriete-numerique-guide.md
       - Sobriété numérique - Questions: donnees-structurees/activites/route-vers-sobriete-numerique/sobriete-numerique-questions.md
   - Cours:
+    - donnees-structurees/cours/index.md
     - Vue d’ensemble: donnees-structurees/cours/index.md
     - Comment stocker localement des données ?: donnees-structurees/cours/comment-stocker-localement-des-donnees.md
     - Différents formats de tables de données: donnees-structurees/cours/differents-formats-de-tables-donnees.md
@@ -760,6 +784,7 @@ nav:
     - Quel est l'impact environnemental du big data ?: donnees-structurees/cours/quel-est-l-impact-environnemental-du-big-data.md
     - Quels sont les formats de tables de données les plus répandus ?: donnees-structurees/cours/quels-sont-les-formats-de-tables-donnees-plus-repandus.md
   - Exercices:
+    - donnees-structurees/exercices/index.md
     - Vue d’ensemble: donnees-structurees/exercices/index.md
     - Cinémas actifs en France - Premières questions: donnees-structurees/exercices/cinemas-actifs-en-france-premieres-questions.md
     - Cinémas actifs en France - Questions avec le tableur: donnees-structurees/exercices/cinemas-actifs-en-france-questions-avec-le-tableur.md
@@ -838,6 +863,7 @@ nav:
       - Perle sans titre: donnees-structurees/exercices/structurees-traitement/sans-titre-8.md
       - Perle sans titre: donnees-structurees/exercices/structurees-traitement/sans-titre-9.md
   - En codant:
+    - donnees-structurees/en-codant/index.md
     - Vue d’ensemble: donnees-structurees/en-codant/index.md
     - Manipuler le format CSV:
       - Vue d’ensemble: donnees-structurees/en-codant/manipuler-le-format-csv/index.md
@@ -871,6 +897,7 @@ nav:
       - Traitement des données avec Python: donnees-structurees/en-codant/manipuler-le-format-xml/traitement-des-donnees-avec-python.md
       - Vers le notebook Capytale - Site: donnees-structurees/en-codant/manipuler-le-format-xml/vers-le-notebook-capytale-site.md
   - Prolongements:
+    - donnees-structurees/prolongements/index.md
     - Vue d’ensemble: donnees-structurees/prolongements/index.md
     - Le format JSON:
       - Vue d’ensemble: donnees-structurees/prolongements/le-format-json/index.md
@@ -896,6 +923,7 @@ nav:
   - Présentation du chapitre: localisation-cartographie-mobilite/index.md
   - Vue d’ensemble: localisation-cartographie-mobilite/index.md
   - Repères:
+    - localisation-cartographie-mobilite/reperes/index.md
     - Vue d’ensemble: localisation-cartographie-mobilite/reperes/index.md
     - 1993 - Le GPS devient opérationnel avec 24 satellites actifs: localisation-cartographie-mobilite/reperes/1993-le-gps-devient-operationnel-avec-24-satellites-actifs.md
     - 2008 - L'iPhone connait et affiche sa position avec l'ajout d'un capteur GPS: localisation-cartographie-mobilite/reperes/2008-iphone-connait-affiche-position-avec-ajout-capteur-gps.md
@@ -907,6 +935,7 @@ nav:
     - XIXe siècle - 'Carte de l'état-major' du territoire français à l'échelle 1/80 000: localisation-cartographie-mobilite/reperes/xixe-siecle-carte-etat-major-territoire-francais-echelle-000.md
     - XXe siècle - Les cartes sont numérisées et s'affichent sur les écrans: localisation-cartographie-mobilite/reperes/xxe-siecle-les-cartes-sont-numerisees-affichent-sur-ecrans.md
   - Activités:
+    - localisation-cartographie-mobilite/activites/index.md
     - Vue d’ensemble: localisation-cartographie-mobilite/activites/index.md
     - Afficher un voyage trajet:
       - Vue d’ensemble: localisation-cartographie-mobilite/activites/afficher-un-voyage-trajet/index.md
@@ -959,6 +988,7 @@ nav:
       - Une photo mystère: localisation-cartographie-mobilite/activites/se-localiser-sur-terre/une-photo-mystere.md
       - Une photographie de tortue retrouvée: localisation-cartographie-mobilite/activites/se-localiser-sur-terre/une-photographie-de-tortue-retrouvee.md
   - Cours:
+    - localisation-cartographie-mobilite/cours/index.md
     - Vue d’ensemble: localisation-cartographie-mobilite/cours/index.md
     - Calculs d’itinéraires: localisation-cartographie-mobilite/cours/calculs-d-itineraires.md
     - Cartes et guidage: localisation-cartographie-mobilite/cours/cartes-et-guidage.md
@@ -975,6 +1005,7 @@ nav:
     - Soyez vigilants sur la question énergétique: localisation-cartographie-mobilite/cours/soyez-vigilants-sur-la-question-energetique.md
     - Utiliser calques et données: localisation-cartographie-mobilite/cours/utiliser-calques-et-donnees.md
   - Exercices:
+    - localisation-cartographie-mobilite/exercices/index.md
     - Vue d’ensemble: localisation-cartographie-mobilite/exercices/index.md
     - À quelle heure partir ? - Exercice: localisation-cartographie-mobilite/exercices/a-quelle-heure-partir-exercice.md
     - Chez vous, au milieu du XIXe siècle - Exercice: localisation-cartographie-mobilite/exercices/chez-vous-au-milieu-du-xixe-siecle-exercice.md
@@ -1026,6 +1057,7 @@ nav:
       - Perle sans titre: localisation-cartographie-mobilite/exercices/grandes-localisation-exercice/sans-titre-8.md
       - Perle sans titre: localisation-cartographie-mobilite/exercices/grandes-localisation-exercice/sans-titre-9.md
   - En codant:
+    - localisation-cartographie-mobilite/en-codant/index.md
     - Vue d’ensemble: localisation-cartographie-mobilite/en-codant/index.md
     - Analyser les donnees vol drone:
       - Vue d’ensemble: localisation-cartographie-mobilite/en-codant/analyser-les-donnees-vol-drone/index.md
@@ -1054,6 +1086,7 @@ nav:
       - Traitement des données avec Python: localisation-cartographie-mobilite/en-codant/dessiner-trajet-sur-une-carte/traitement-des-donnees-avec-python.md
       - Vers le notebook Capytale - Site: localisation-cartographie-mobilite/en-codant/dessiner-trajet-sur-une-carte/vers-le-notebook-capytale-site.md
   - Prolongements:
+    - localisation-cartographie-mobilite/prolongements/index.md
     - Vue d’ensemble: localisation-cartographie-mobilite/prolongements/index.md
     - À San Francisco, les taxis roulent... sans chauffeur ! - Vidéo: localisation-cartographie-mobilite/prolongements/a-san-francisco-les-taxis-roulent-sans-chauffeur-video.md
     - ? Agacés par les taxis autonomes, les habitants de San Francisco ont trouvé une astuce low tech pour arrêter l’invasion
@@ -1074,6 +1107,7 @@ nav:
   - Présentation du chapitre: informatique-embarquee-objets-connectes/index.md
   - Vue d’ensemble: informatique-embarquee-objets-connectes/index.md
   - Repères:
+    - informatique-embarquee-objets-connectes/reperes/index.md
     - Vue d’ensemble: informatique-embarquee-objets-connectes/reperes/index.md
     - 1967 - Premier système embarqué de guidage lors de la mission lunaire Apollo: informatique-embarquee-objets-connectes/reperes/1967-premier-systeme-embarque-guidage-mission-lunaire-apollo.md
     - 1971 - Premier processeur produit par Intel: informatique-embarquee-objets-connectes/reperes/1971-premier-processeur-produit-par-intel.md
@@ -1083,6 +1117,7 @@ nav:
     - 2010 & 2020 - Les aides à la conduite se multiplient dans les voitures: informatique-embarquee-objets-connectes/reperes/2010-2020-les-aides-conduite-multiplient-dans-les-voitures.md
     - 1984 - Airbus 320, premier avion équipé de commandes électriques informatisées: informatique-embarquee-objets-connectes/reperes/airbus-premier-equipe-commandes-electriques-informatisees.md
   - Activités:
+    - informatique-embarquee-objets-connectes/activites/index.md
     - Vue d’ensemble: informatique-embarquee-objets-connectes/activites/index.md
     - AirTag petit objet connecte:
       - Vue d’ensemble: informatique-embarquee-objets-connectes/activites/airtag-petit-objet-connecte/index.md
@@ -1148,6 +1183,7 @@ nav:
       - Le VAE comme système informatique embarqué - Questions: informatique-embarquee-objets-connectes/activites/velos-assistance-electrique/le-vae-comme-systeme-informatique-embarque-questions.md
       - Vélo à assistance électrique - Schéma logique: informatique-embarquee-objets-connectes/activites/velos-assistance-electrique/velo-a-assistance-electrique-schema-logique.md
   - Cours:
+    - informatique-embarquee-objets-connectes/cours/index.md
     - Vue d’ensemble: informatique-embarquee-objets-connectes/cours/index.md
     - À quoi sert l'informatique embarquée ?: informatique-embarquee-objets-connectes/cours/a-quoi-sert-l-informatique-embarquee.md
     - Deux modes opératoires pour l'informatique embarquée: informatique-embarquee-objets-connectes/cours/deux-modes-operatoires-pour-l-informatique-embarquee.md
@@ -1158,6 +1194,7 @@ nav:
     - Qu'est-ce que la domotique ?: informatique-embarquee-objets-connectes/cours/qu-est-ce-que-la-domotique.md
     - Soyons vigilants !: informatique-embarquee-objets-connectes/cours/soyons-vigilants.md
   - Exercices:
+    - informatique-embarquee-objets-connectes/exercices/index.md
     - Vue d’ensemble: informatique-embarquee-objets-connectes/exercices/index.md
     - Boussole inclinée, premier exemple: informatique-embarquee-objets-connectes/exercices/boussole-inclinee-premier-exemple.md
     - Boussole inclinée, second exemple: informatique-embarquee-objets-connectes/exercices/boussole-inclinee-second-exemple.md
@@ -1211,6 +1248,7 @@ nav:
       - Perle sans titre: informatique-embarquee-objets-connectes/exercices/nformatique-embarquee/sans-titre-8.md
       - Perle sans titre: informatique-embarquee-objets-connectes/exercices/nformatique-embarquee/sans-titre-9.md
   - En codant:
+    - informatique-embarquee-objets-connectes/en-codant/index.md
     - Vue d’ensemble: informatique-embarquee-objets-connectes/en-codant/index.md
     - Piloter deplacements robotise:
       - Vue d’ensemble: informatique-embarquee-objets-connectes/en-codant/piloter-deplacements-robotise/index.md
@@ -1230,6 +1268,7 @@ nav:
       - Programmer dans Vittascience - Site: informatique-embarquee-objets-connectes/en-codant/suivre-arreter-devant-obstacle/programmer-dans-vittascience-site.md
       - Traitement des données avec Vittascience: informatique-embarquee-objets-connectes/en-codant/suivre-arreter-devant-obstacle/traitement-des-donnees-avec-vittascience.md
   - Prolongements:
+    - informatique-embarquee-objets-connectes/prolongements/index.md
     - Vue d’ensemble: informatique-embarquee-objets-connectes/prolongements/index.md
     - 'Australie : une armée de drones semeurs de graines pour lutter contre la déforestation - Article': informatique-embarquee-objets-connectes/prolongements/australie-drones-semeurs-graines-deforestation-article.md
     - Ces lunettes qui rendent (presque) la vue aux aveugles - Article: informatique-embarquee-objets-connectes/prolongements/ces-lunettes-qui-rendent-presque-la-vue-aux-aveugles-article.md
@@ -1247,6 +1286,7 @@ nav:
   - Présentation du chapitre: photographie-numerique/index.md
   - Vue d’ensemble: photographie-numerique/index.md
   - Repères:
+    - photographie-numerique/reperes/index.md
     - Vue d’ensemble: photographie-numerique/reperes/index.md
     - 1826 - Premières photographies: photographie-numerique/reperes/1826-premieres-photographies.md
     - 1900 - Photographie en couleurs: photographie-numerique/reperes/1900-photographie-en-couleurs.md
@@ -1258,6 +1298,7 @@ nav:
     - 2023 - Essor de la génération de fausses « photographies » par l'intelligence artificielle: photographie-numerique/reperes/generation-fausses-photographies-intelligence-artificielle.md
     - 2007 - L'iPhone popularise la photo numérique depuis les téléphones portables: photographie-numerique/reperes/iphone-popularise-numerique-depuis-telephones-portables.md
   - Activités:
+    - photographie-numerique/activites/index.md
     - Vue d’ensemble: photographie-numerique/activites/index.md
     - Comparer une image rendu ecran:
       - Vue d’ensemble: photographie-numerique/activites/comparer-une-image-rendu-ecran/index.md
@@ -1336,6 +1377,7 @@ nav:
       - Un vieil écran de télévision à la loupe - Vidéo: photographie-numerique/activites/zoom-sur-un-ecran/un-vieil-ecran-de-television-a-la-loupe-video.md
       - Zoom sur un écran - Questions: photographie-numerique/activites/zoom-sur-un-ecran/zoom-sur-un-ecran-questions.md
   - Cours:
+    - photographie-numerique/cours/index.md
     - Vue d’ensemble: photographie-numerique/cours/index.md
     - Capturer:
       - Vue d’ensemble: photographie-numerique/cours/capturer/index.md
@@ -1390,6 +1432,7 @@ nav:
       - Une armée de points lumineux: photographie-numerique/cours/visualiser-et-partager/une-armee-de-points-lumineux.md
       - Voir les pixels d'une télévision - Vidéo: photographie-numerique/cours/visualiser-et-partager/voir-les-pixels-d-une-television-video.md
   - Exercices:
+    - photographie-numerique/exercices/index.md
     - Vue d’ensemble: photographie-numerique/exercices/index.md
     - BMP, taux de compression - Exercice: photographie-numerique/exercices/bmp-taux-de-compression-exercice.md
     - Est-ce une mer ou un océan ? - Exercice: photographie-numerique/exercices/est-ce-une-mer-ou-un-ocean-exercice.md
@@ -1436,6 +1479,7 @@ nav:
       - Perle sans titre: photographie-numerique/exercices/photographie-numerique/sans-titre-8.md
       - Perle sans titre: photographie-numerique/exercices/photographie-numerique/sans-titre-9.md
   - En codant:
+    - photographie-numerique/en-codant/index.md
     - Vue d’ensemble: photographie-numerique/en-codant/index.md
     - Ajouter des filtres une image:
       - Vue d’ensemble: photographie-numerique/en-codant/ajouter-des-filtres-une-image/index.md
@@ -1468,6 +1512,7 @@ nav:
       - Traitement des données avec Python: photographie-numerique/en-codant/recuperer-metadonnees/traitement-des-donnees-avec-python.md
       - Vers le notebook Capytale - Site: photographie-numerique/en-codant/recuperer-metadonnees/vers-le-notebook-capytale-site.md
   - Prolongements:
+    - photographie-numerique/prolongements/index.md
     - Vue d’ensemble: photographie-numerique/prolongements/index.md
     - AI or Not - Site: photographie-numerique/prolongements/ai-or-not-site.md
     - Comment repérer les 'deepfakes' ? - Vidéo: photographie-numerique/prolongements/comment-reperer-les-deepfakes-video.md
