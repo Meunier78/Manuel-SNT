@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Conversion en base 2 10 16 Exercice interactif.qcm" target="_blank"><p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774185" id="l_2380119" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/internet-en-codant-convertir-binaire-hexadecimal-conversion-en-base-2-10-16-exercice-interactif-html/image-01.jpg" width="750"/></p></a></div><div id="note-text"><p><br/></p>
+<div><div class="snt-missing-resource" role="group" aria-label="Ressource source non incluse dans l’archive" data-missing-resource="Conversion en base 2 10 16 Exercice interactif.qcm"><p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774185" id="l_2380119" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/internet-en-codant-convertir-binaire-hexadecimal-conversion-en-base-2-10-16-exercice-interactif-html/image-01.jpg" width="750"/></p></div><p class="snt-missing-resource__notice">Fichier source non inclus dans l’archive : <code>Conversion en base 2 10 16 Exercice interactif.qcm</code>.</p></div><div id="note-text"><p><br/></p>
 </div>
 </div>
 

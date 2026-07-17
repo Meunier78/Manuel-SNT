@@ -5,24 +5,83 @@
 :root {
   --snt-sidebar-width: 340px;
   --snt-sidebar-min: 280px;
-  --snt-sidebar-max: 520px;
+  --snt-sidebar-max: 650px;
 }
 
 @media screen and (min-width: 76.25em) {
+  /* Exploiter réellement la largeur de l'écran pour les deux colonnes. */
+  .md-main__inner.md-grid {
+    box-sizing: border-box;
+    width: calc(100% - 2rem);
+    max-width: 2200px !important;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .md-content {
+    flex: 1 1 0 !important;
+    width: auto !important;
+    max-width: none !important;
+    min-width: 0;
+  }
+
+  .md-content__inner {
+    box-sizing: border-box;
+    width: auto;
+    max-width: none !important;
+    margin-right: 1.2rem;
+    margin-left: 1.2rem;
+  }
+
+  /* Une table des matières vide ne doit pas réserver une colonne fantôme. */
+  .md-sidebar--secondary.snt-sidebar--empty {
+    display: none !important;
+  }
+
   .md-sidebar--primary {
-    position: relative;
+    position: sticky;
+    top: 2.4rem;
+    align-self: flex-start;
+    height: calc(100vh - 2.4rem);
     flex: 0 0 var(--snt-sidebar-width) !important;
     width: var(--snt-sidebar-width) !important;
     min-width: var(--snt-sidebar-width) !important;
     max-width: var(--snt-sidebar-width) !important;
+    z-index: 3;
+    background: var(--md-default-bg-color);
   }
 
   .md-sidebar--primary .md-sidebar__scrollwrap,
+  .md-sidebar--primary .md-sidebar__inner,
+  .md-sidebar--primary nav.md-nav,
+  .md-sidebar--primary .md-nav__list,
+  .md-sidebar--primary .md-nav__item {
+    box-sizing: border-box;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: none !important;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    margin: 0;
+    max-height: calc(100vh - 4.8rem);
+    overflow-y: auto;
+    overflow-x: hidden;
+    overscroll-behavior: contain;
+    scrollbar-gutter: stable;
+  }
+
   .md-sidebar--primary .md-sidebar__inner {
-    width: 100%;
+    padding-right: .5rem;
+  }
+
+  .md-footer {
+    position: relative;
+    z-index: 1;
   }
 
   .md-content {
+    flex: 1 1 auto;
     min-width: 0;
   }
 
@@ -59,14 +118,31 @@
   }
 }
 
-/* Masquage strict des sous-niveaux par défaut */
+/* Sous-niveaux complètement retirés du flux lorsqu'ils sont repliés. */
 .md-sidebar--primary .md-nav__item > nav.md-nav {
   display: none !important;
+  height: 0 !important;
+  min-height: 0 !important;
+  max-height: 0 !important;
+  margin: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  overflow: hidden !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  transform: none !important;
 }
 
-/* Seuls les éléments explicitement marqués ouverts sont affichés */
 .md-sidebar--primary .md-nav__item.snt-open > nav.md-nav {
   display: block !important;
+  height: auto !important;
+  min-height: 0 !important;
+  max-height: none !important;
+  margin: 0 !important;
+  overflow: visible !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  transform: none !important;
 }
 
 /* Suppression de l'effet de frise à points qui gênait la lecture */
@@ -126,17 +202,22 @@
   overflow-wrap: anywhere;
 }
 
-/* Niveau 4 éventuel */
+/* Niveau 4 : exploite toute la largeur réellement disponible. */
 .md-sidebar--primary nav[data-md-level="3"] > .md-nav__list {
-  padding-left: 1.7rem;
+  margin-left: .55rem;
+  padding-left: .75rem;
+  border-left: 2px solid rgba(72, 102, 190, .22) !important;
 }
 
 .md-sidebar--primary nav[data-md-level="3"] > .md-nav__list > .md-nav__item > .md-nav__link,
 .md-sidebar--primary nav[data-md-level="3"] > .md-nav__list > .md-nav__item > label.md-nav__link {
+  box-sizing: border-box;
+  width: 100%;
   margin: 0;
-  padding: .18rem .45rem;
+  padding: .2rem .42rem;
   font-size: .68rem;
-  line-height: 1.12;
+  line-height: 1.18;
+  color: var(--md-default-fg-color--light);
   white-space: normal;
   overflow-wrap: anywhere;
 }
@@ -159,8 +240,28 @@
 .md-sidebar--primary .md-nav__link {
   display: flex;
   align-items: flex-start;
+  box-sizing: border-box;
   min-width: 0;
   text-overflow: clip !important;
+}
+
+.md-sidebar--primary a.md-nav__link:not(.md-nav__container),
+.md-sidebar--primary .md-nav__container {
+  width: 100%;
+}
+
+.md-sidebar--primary .md-nav__container > a.md-nav__link {
+  flex: 1 1 auto;
+  width: auto;
+  min-width: 0;
+}
+
+.md-sidebar--primary .md-nav__container > label.md-nav__link {
+  flex: 0 0 1.45rem;
+  width: 1.45rem;
+  min-width: 1.45rem;
+  padding-left: .1rem;
+  padding-right: .1rem;
 }
 
 .md-sidebar--primary .md-nav__link > span,
@@ -168,17 +269,100 @@
   overflow: visible !important;
 }
 
-/* Mobile : comportement Material normal */
-@media screen and (max-width: 76.24em) {
-  .snt-sidebar-resizer {
-    display: none !important;
+/* Anciennes fiches fragmentaires des grandes dates : invisibles dans le menu. */
+.md-sidebar--primary .snt-legacy-fragment {
+  display: none !important;
+}
+
+/* Navigation AVANT / APRÈS entre fiches sœurs de niveau 4.
+   Elle est placée en haut de la colonne de contenu par le JavaScript. */
+.snt-page-nav {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1rem;
+  margin: .25rem 0 1.35rem;
+  padding: 0;
+  border: 0;
+}
+
+.snt-page-nav__button {
+  display: flex;
+  align-items: center;
+  min-height: 3.15rem;
+  padding: .55rem .78rem;
+  border: 2px solid #6f8fe5;
+  border-radius: .6rem;
+  background: linear-gradient(135deg, #eaf1ff 0%, #dce8ff 100%);
+  box-shadow: 0 .16rem .45rem rgba(45, 72, 165, .16);
+  text-decoration: none !important;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.snt-page-nav__button:hover,
+.snt-page-nav__button:focus-visible {
+  transform: translateY(-1px);
+  border-color: #405fd0;
+  background: linear-gradient(135deg, #dce8ff 0%, #cbdcff 100%);
+  box-shadow: 0 .28rem .65rem rgba(45, 72, 165, .24);
+}
+
+.snt-page-nav__button--next {
+  justify-content: flex-end;
+  text-align: right;
+}
+
+.snt-page-nav__button--disabled {
+  visibility: hidden;
+}
+
+.snt-page-nav__direction,
+.snt-page-nav__title {
+  display: block;
+}
+
+.snt-page-nav__direction {
+  color: #2e48b6;
+  font-size: .7rem;
+  font-weight: 750;
+  letter-spacing: .015em;
+}
+
+.snt-page-nav__title {
+  margin-top: .12rem;
+  color: var(--md-default-fg-color);
+  font-size: .76rem;
+  line-height: 1.22;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .snt-page-nav {
+    grid-template-columns: 1fr;
+    gap: .55rem;
   }
 
-  .md-sidebar--primary .md-nav__item > nav.md-nav {
-    display: none !important;
+  .snt-page-nav__button--disabled {
+    display: none;
   }
+}
 
-  .md-sidebar--primary .md-nav__item.snt-open > nav.md-nav {
-    display: block !important;
-  }
+
+/* Boutons AVANT / APRÈS : fond visible aussi en thème sombre. */
+[data-md-color-scheme="slate"] .snt-page-nav__button {
+  border-color: #8198f0;
+  background: linear-gradient(135deg, rgba(72, 93, 184, .38), rgba(54, 71, 145, .48));
+  box-shadow: 0 .16rem .45rem rgba(0, 0, 0, .28);
+}
+
+[data-md-color-scheme="slate"] .snt-page-nav__button:hover,
+[data-md-color-scheme="slate"] .snt-page-nav__button:focus-visible {
+  border-color: #aabaff;
+  background: linear-gradient(135deg, rgba(91, 114, 220, .50), rgba(69, 89, 178, .58));
+}
+
+[data-md-color-scheme="slate"] .snt-page-nav__direction {
+  color: #c8d2ff;
+}
+
+[data-md-color-scheme="slate"] .snt-page-nav__title {
+  color: var(--md-default-fg-color);
 }

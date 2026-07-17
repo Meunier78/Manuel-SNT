@@ -1,15 +1,6 @@
-# Perle sans titre
+# Frise chronologique corrigée
 
-<div class="imported-content">
-
-<div class="card">
-
-
-
-<p><img class="imported-image ptSynthesisImg" data-original-url="media%2FpearlContent%2F551774129" id="l_2439005" loading="lazy" pearltrees="true" src="/Manuel-SNT/assets/imported/internet-exercices-grandes-internet-exercice-sans-titre-html/image-01.jpg" width="750"/></p><div id="note-text"></div>
-</div>
-
-</div>
+<img class="snt-date-frise" src="/Manuel-SNT/assets/imported/internet-internet-en-une-seule-frise-html/image-01.jpg" alt="Frise chronologique des grandes dates d’Internet, de 1969 à 2021" />
 
 <div class="source-note" markdown="1">
 

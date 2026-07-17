@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-16T02:10:53.476342",
+  "project": "C:\\Users\\bertr\\Documents\\Manuel-SNT-GitHub",
+  "site_url": "https://meunier78.github.io/Manuel-SNT/",
+  "build_status": "OK",
+  "markdown_total": 1284,
+  "content_pages": 1127,
+  "expected_content_pages": 1127,
+  "html_total": 1285,
+  "nav_entries": 1312,
+  "not_in_nav": 21,
+  "nav_duplicates": 49,
+  "level2_found": 42,
+  "level3_found": 1113,
+  "extra_css": [
+    "stylesheets/extra.css",
+    "stylesheets/header-lpv.css",
+    "stylesheets/homepage-roadmap.css",
+    "stylesheets/chapter-landing.css",
+    "stylesheets/sidebar-final.css"
+  ],
+  "extra_javascript": [
+    "javascripts/fix-links.js",
+    "javascripts/sidebar-final.js",
+    "javascripts/homepage-roadmap.js"
+  ],
+  "sidebar_css_files": 2,
+  "sidebar_css_names": [
+    "stylesheets/chapter-landing.css",
+    "stylesheets/sidebar-final.css"
+  ],
+  "sidebar_js_files": 1,
+  "sidebar_js_names": [
+    "javascripts/sidebar-final.js"
+  ],
+  "public_ok": 1284,
+  "public_total": 1285,
+  "failures": 1332,
+  "warnings": 77
+}

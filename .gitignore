@@ -1,2 +1,21 @@
+# Site généré localement par MkDocs
 site/
-audit_snt_*/
+
+# Caches Python et outils
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Environnements virtuels et variables locales
+.venv/
+venv/
+env/
+.env
+
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

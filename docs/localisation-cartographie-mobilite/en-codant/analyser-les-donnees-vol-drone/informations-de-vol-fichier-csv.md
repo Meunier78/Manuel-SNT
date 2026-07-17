@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Informations de vol Fichier csv.csv" target="_blank"><div id="note-text"><p><img class="imported-image ptSynthesisImg embedplaceholder" data-height="750" data-original-url="media%2FpearlContent%2F551775662" data-width="750" id="ptPearlContentImg" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-en-codant-analyser-les-donnees-vol-drone-informations-de-vol-fichier-csv-html/image-01.jpg"/></p></div></a></div>
+<div><div class="snt-missing-resource" role="group" aria-label="Ressource source non incluse dans l’archive" data-missing-resource="Informations de vol Fichier csv.csv"><div id="note-text"><p><img class="imported-image ptSynthesisImg embedplaceholder" data-height="750" data-original-url="media%2FpearlContent%2F551775662" data-width="750" id="ptPearlContentImg" loading="lazy" src="/Manuel-SNT/assets/imported/localisation-cartographie-en-codant-analyser-les-donnees-vol-drone-informations-de-vol-fichier-csv-html/image-01.jpg"/></p></div></div><p class="snt-missing-resource__notice">Fichier source non inclus dans l’archive : <code>Informations de vol Fichier csv.csv</code>.</p></div>
 <p><br/></p>
 </div>
 

@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Sobriete numerique Guide.pdf" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-route-vers-sobriete-numerique-sobriete-numerique-guide-html/image-01.jpg"/></div></a></div></div>
+<div><div class="snt-missing-resource" role="group" aria-label="Ressource source non incluse dans l’archive" data-missing-resource="Sobriete numerique Guide.pdf"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-route-vers-sobriete-numerique-sobriete-numerique-guide-html/image-01.jpg"/></div></div><p class="snt-missing-resource__notice">Fichier source non inclus dans l’archive : <code>Sobriete numerique Guide.pdf</code>.</p></div></div>
 
 </div>
 

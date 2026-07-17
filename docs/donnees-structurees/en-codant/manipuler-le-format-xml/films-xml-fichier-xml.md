@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Films xml Fichier XML.xml" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-xml-films-xml-fichier-xml-html/image-01.jpg"/></div></a></div></div>
+<div><div class="snt-missing-resource" role="group" aria-label="Ressource source non incluse dans l’archive" data-missing-resource="Films xml Fichier XML.xml"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-xml-films-xml-fichier-xml-html/image-01.jpg"/></div></div><p class="snt-missing-resource__notice">Fichier source non inclus dans l’archive : <code>Films xml Fichier XML.xml</code>.</p></div></div>
 
 </div>
 

@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Formulaire HTML Fichier (2).html" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-prolongements-javascript-creer-interactives-formulaire-html-fichier-html/image-01.jpg"/></div></a></div></div>
+<div><div class="snt-missing-resource" role="group" aria-label="Ressource source non incluse dans l’archive" data-missing-resource="Formulaire HTML Fichier (2).html"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/le-web-prolongements-javascript-creer-interactives-formulaire-html-fichier-html/image-01.jpg"/></div></div><p class="snt-missing-resource__notice">Fichier source non inclus dans l’archive : <code>Formulaire HTML Fichier (2).html</code>.</p></div></div>
 
 </div>
 

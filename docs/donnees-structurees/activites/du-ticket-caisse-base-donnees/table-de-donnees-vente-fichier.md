@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Table de donnees vente Fichier.xlsx" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-du-ticket-caisse-base-donnees-table-de-donnees-vente-fichier-html/image-01.jpg"/></div></a></div></div>
+<div><div class="snt-missing-resource" role="group" aria-label="Ressource source non incluse dans l’archive" data-missing-resource="Table de donnees vente Fichier.xlsx"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-activites-du-ticket-caisse-base-donnees-table-de-donnees-vente-fichier-html/image-01.jpg"/></div></div><p class="snt-missing-resource__notice">Fichier source non inclus dans l’archive : <code>Table de donnees vente Fichier.xlsx</code>.</p></div></div>
 
 </div>
 

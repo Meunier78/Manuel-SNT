@@ -1,0 +1,25 @@
+REPARATION MKDOCS ET CHEMIN D'ACCUEIL
+=====================================
+Configuration valide trouvée : C:\Users\bertr\Documents\Manuel-SNT-GitHub\sauvegarde_chemin_accueil_20260713-191406\mkdocs.yml
+mkdocs.yml restauré depuis : C:\Users\bertr\Documents\Manuel-SNT-GitHub\sauvegarde_chemin_accueil_20260713-191406\mkdocs.yml
+Configuration YAML réparée et vérifiée.
+
+> C:\Users\bertr\AppData\Local\Programs\Python\Python314\python.exe -m mkdocs build --strict --clean
+Build strict réussi et page d'accueil contrôlée.
+
+> git diff --check -- mkdocs.yml docs/index.md docs/stylesheets/homepage-roadmap.css docs/javascripts/homepage-roadmap.js
+
+> git add -- mkdocs.yml docs/index.md docs/stylesheets/homepage-roadmap.css docs/javascripts/homepage-roadmap.js
+
+> git diff --cached --check
+
+> git diff --cached --quiet
+
+> git commit -m Réparation du chemin graphique de la page d'accueil
+
+> git push origin main
+
+REPARATION TERMINEE
+mkdocs.yml est valide.
+Le chemin dynamique et les titres sur deux lignes sont publiés.
+Attendez GitHub Actions puis rechargez avec Ctrl+F5.

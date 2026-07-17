@@ -42,3 +42,78 @@
   color: var(--md-default-fg-color--light);
   font-size: .82rem;
 }
+
+
+/* Ressources sources absentes de l’archive : aperçu conservé, faux téléchargement supprimé. */
+.snt-missing-resource {
+  display: block;
+  cursor: not-allowed;
+  opacity: .82;
+}
+.snt-missing-resource img {
+  filter: grayscale(.18);
+}
+.snt-missing-resource__notice {
+  margin: .6rem 0 1rem;
+  padding: .55rem .7rem;
+  border-left: .2rem solid var(--md-warning-fg-color, #e6a700);
+  background: var(--md-warning-fg-color--transparent, rgba(230, 167, 0, .09));
+  font-size: .82rem;
+}
+
+
+/* Activité consolidée : grandes dates d'Internet. */
+.snt-date-exercise {
+  margin: 1.2rem 0;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .65rem;
+  background: rgba(72, 78, 190, .04);
+}
+
+.snt-date-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem;
+  margin: .8rem 0 1rem;
+}
+
+.snt-date-chip {
+  display: inline-block;
+  padding: .28rem .58rem;
+  border: 1px solid rgba(72, 78, 190, .28);
+  border-radius: 999px;
+  background: var(--md-default-bg-color);
+  color: var(--md-primary-fg-color);
+  font-weight: 750;
+}
+
+.snt-date-events {
+  columns: 2 18rem;
+  column-gap: 2rem;
+}
+
+.snt-date-events li {
+  break-inside: avoid;
+  margin-bottom: .45rem;
+}
+
+.snt-date-correction {
+  margin: 1.4rem 0;
+  padding: .4rem .8rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .55rem;
+}
+
+.snt-date-correction summary {
+  cursor: pointer;
+  color: var(--md-primary-fg-color);
+  font-weight: 750;
+}
+
+.snt-date-frise {
+  display: block;
+  width: min(100%, 760px);
+  height: auto;
+  margin: 1.2rem auto;
+}

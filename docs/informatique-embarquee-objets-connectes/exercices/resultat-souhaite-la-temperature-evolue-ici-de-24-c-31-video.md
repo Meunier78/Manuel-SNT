@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Resultat souhaite la temperature evolue ici de 24 C 31 Video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/informatique-embarquee-exercices-resultat-souhaite-la-temperature-evolue-ici-de-24-c-31-video-html/image-01.jpg"/></div></a></div></div>
+<div><div class="snt-missing-resource" role="group" aria-label="Ressource source non incluse dans l’archive" data-missing-resource="Resultat souhaite la temperature evolue ici de 24 C 31 Video.mp4"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/informatique-embarquee-exercices-resultat-souhaite-la-temperature-evolue-ici-de-24-c-31-video-html/image-01.jpg"/></div></div><p class="snt-missing-resource__notice">Fichier source non inclus dans l’archive : <code>Resultat souhaite la temperature evolue ici de 24 C 31 Video.mp4</code>.</p></div></div>
 
 </div>
 

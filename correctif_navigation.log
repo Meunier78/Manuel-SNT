@@ -1,0 +1,234 @@
+CORRECTIF ROBUSTE - NAVIGATION MANUEL SNT
+=========================================
+
+> git status --porcelain=v1
+ M docs/donnees-structurees/activites/index.md
+ M docs/donnees-structurees/cours/index.md
+ M docs/donnees-structurees/en-codant/index.md
+ M docs/donnees-structurees/exercices/index.md
+ M docs/donnees-structurees/prolongements/index.md
+ M docs/donnees-structurees/reperes/index.md
+ M docs/index.md
+ M docs/informatique-embarquee-objets-connectes/activites/index.md
+ M docs/informatique-embarquee-objets-connectes/cours/index.md
+ M docs/informatique-embarquee-objets-connectes/en-codant/index.md
+ M docs/informatique-embarquee-objets-connectes/exercices/index.md
+ M docs/informatique-embarquee-objets-connectes/prolongements/index.md
+ M docs/informatique-embarquee-objets-connectes/reperes/index.md
+ M docs/internet/activites/index.md
+ M docs/internet/cours/index.md
+ M docs/internet/en-codant/index.md
+ M docs/internet/exercices/index.md
+ M docs/internet/prolongements/index.md
+ M docs/internet/reperes/index.md
+ M docs/javascripts/sidebar-active-path.js
+ M docs/localisation-cartographie-mobilite/activites/index.md
+ M docs/localisation-cartographie-mobilite/cours/index.md
+ M docs/localisation-cartographie-mobilite/en-codant/index.md
+ M docs/localisation-cartographie-mobilite/exercices/index.md
+ M docs/localisation-cartographie-mobilite/prolongements/index.md
+ M docs/localisation-cartographie-mobilite/reperes/index.md
+ M docs/photographie-numerique/activites/index.md
+ M docs/photographie-numerique/cours/index.md
+ M docs/photographie-numerique/en-codant/index.md
+ M docs/photographie-numerique/exercices/index.md
+ M docs/photographie-numerique/prolongements/index.md
+ M docs/photographie-numerique/reperes/index.md
+ M docs/reseaux-sociaux/activites/index.md
+ M docs/reseaux-sociaux/cours/index.md
+ M docs/reseaux-sociaux/en-codant/index.md
+ M docs/reseaux-sociaux/exercices/index.md
+ M docs/reseaux-sociaux/prolongements/index.md
+ M docs/reseaux-sociaux/reperes/index.md
+ M docs/web/activites/index.md
+ M docs/web/cours/index.md
+ M docs/web/en-codant/index.md
+ M docs/web/exercices/index.md
+ M docs/web/prolongements/index.md
+ M docs/web/reperes/index.md
+ M mkdocs.yml
+?? correctif_navigation.log
+?? docs/javascripts/sidebar-hierarchy.js
+?? docs/stylesheets/navigation-hierarchy.css
+?? docs/stylesheets/sidebar-hierarchy.css
+?? sauvegarde_accueil_20260713-132720/
+?? sauvegarde_accueil_20260713-154639/
+?? sauvegarde_decodeurs_20260713-001444/
+?? sauvegarde_entete_20260713-120615/
+?? sauvegarde_navigation_20260713-165019/
+?? sauvegarde_niveaux2_20260713-162130/
+?? sauvegarde_pages_chapitre_20260713-160305/
+Fichiers du chantier détectés : 48
+Fichiers nettoyés : 0
+
+> C:\Users\bertr\AppData\Local\Programs\Python\Python314\python.exe -m mkdocs build --strict --clean
+
+ \u2502  \u26a0  Warning from the Material for MkDocs team
+ \u2502
+ \u2502  MkDocs 2.0, the underlying framework of Material for MkDocs,
+ \u2502  will introduce backward-incompatible changes, including:
+ \u2502
+ \u2502  � All plugins will stop working � the plugin system has been removed
+ \u2502  � All theme overrides will break � the theming system has been rewritten
+ \u2502  � No migration path exists � existing projects cannot be upgraded
+ \u2502  � Closed contribution model � community members can't report bugs
+ \u2502  � Currently unlicensed � unsuitable for production use
+ \u2502
+ \u2502  Our full analysis:
+ \u2502
+ \u2502  https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/
+
+INFO    -  Cleaning site directory
+INFO    -  Building documentation to directory: C:\Users\bertr\Documents\Manuel-SNT-GitHub\site
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - donnees-structurees\ouverture-du-chapitre\index.md
+  - donnees-structurees\ouverture-du-chapitre\les-donnees-en-une-seule-frise.md
+  - donnees-structurees\ouverture-du-chapitre\qu-est-ce-que-sont-les-donnees-structurees-et-comment-traite.md
+  - informatique-embarquee-objets-connectes\ouverture-du-chapitre\index.md
+  - informatique-embarquee-objets-connectes\ouverture-du-chapitre\environnement-sante-handicap-sport-loisirs-ils-sont-partout.md
+  - informatique-embarquee-objets-connectes\ouverture-du-chapitre\objets-connectes-en-une-seule-frise.md
+  - internet\ouverture-du-chapitre\index.md
+  - internet\ouverture-du-chapitre\internet-en-une-seule-frise.md
+  - internet\ouverture-du-chapitre\qu-est-ce-qu-internet.md
+  - localisation-cartographie-mobilite\ouverture-du-chapitre\index.md
+  - localisation-cartographie-mobilite\ouverture-du-chapitre\localisation-en-une-seule-frise.md
+  - localisation-cartographie-mobilite\ouverture-du-chapitre\ou-suis-je-es-tu-est-ce.md
+  - photographie-numerique\ouverture-du-chapitre\index.md
+  - photographie-numerique\ouverture-du-chapitre\capturees-stockees-transformees-visualisees-partagees.md
+  - photographie-numerique\ouverture-du-chapitre\photographie-numerique-en-une-seule-frise.md
+  - reseaux-sociaux\ouverture-du-chapitre\index.md
+  - reseaux-sociaux\ouverture-du-chapitre\les-reseaux-sociaux-en-une-seule-frise.md
+  - reseaux-sociaux\ouverture-du-chapitre\qu-est-ce-qu-un-reseau-social.md
+  - web\ouverture-du-chapitre\index.md
+  - web\ouverture-du-chapitre\le-web-en-une-seule-frise.md
+  - web\ouverture-du-chapitre\qu-est-ce-que-le-web.md
+INFO    -  Documentation built in 41.76 seconds
+
+> git add -- docs/donnees-structurees/activites/index.md docs/donnees-structurees/cours/index.md docs/donnees-structurees/en-codant/index.md docs/donnees-structurees/exercices/index.md docs/donnees-structurees/prolongements/index.md docs/donnees-structurees/reperes/index.md docs/index.md docs/informatique-embarquee-objets-connectes/activites/index.md docs/informatique-embarquee-objets-connectes/cours/index.md docs/informatique-embarquee-objets-connectes/en-codant/index.md docs/informatique-embarquee-objets-connectes/exercices/index.md docs/informatique-embarquee-objets-connectes/prolongements/index.md docs/informatique-embarquee-objets-connectes/reperes/index.md docs/internet/activites/index.md docs/internet/cours/index.md
+warning: in the working copy of 'docs/donnees-structurees/activites/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/donnees-structurees/cours/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/donnees-structurees/en-codant/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/donnees-structurees/exercices/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/donnees-structurees/prolongements/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/donnees-structurees/reperes/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/informatique-embarquee-objets-connectes/activites/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/informatique-embarquee-objets-connectes/cours/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/informatique-embarquee-objets-connectes/en-codant/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/informatique-embarquee-objets-connectes/exercices/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/informatique-embarquee-objets-connectes/prolongements/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/informatique-embarquee-objets-connectes/reperes/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/internet/activites/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/internet/cours/index.md', LF will be replaced by CRLF the next time Git touches it
+
+> git add -- docs/internet/en-codant/index.md docs/internet/exercices/index.md docs/internet/prolongements/index.md docs/internet/reperes/index.md docs/javascripts/sidebar-active-path.js docs/javascripts/sidebar-hierarchy.js docs/localisation-cartographie-mobilite/activites/index.md docs/localisation-cartographie-mobilite/cours/index.md docs/localisation-cartographie-mobilite/en-codant/index.md docs/localisation-cartographie-mobilite/exercices/index.md docs/localisation-cartographie-mobilite/prolongements/index.md docs/localisation-cartographie-mobilite/reperes/index.md docs/photographie-numerique/activites/index.md docs/photographie-numerique/cours/index.md docs/photographie-numerique/en-codant/index.md
+warning: in the working copy of 'docs/internet/en-codant/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/internet/exercices/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/internet/prolongements/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/internet/reperes/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/javascripts/sidebar-active-path.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/localisation-cartographie-mobilite/activites/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/localisation-cartographie-mobilite/cours/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/localisation-cartographie-mobilite/en-codant/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/localisation-cartographie-mobilite/exercices/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/localisation-cartographie-mobilite/prolongements/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/localisation-cartographie-mobilite/reperes/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/photographie-numerique/activites/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/photographie-numerique/cours/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/photographie-numerique/en-codant/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/javascripts/sidebar-hierarchy.js', LF will be replaced by CRLF the next time Git touches it
+
+> git add -- docs/photographie-numerique/exercices/index.md docs/photographie-numerique/prolongements/index.md docs/photographie-numerique/reperes/index.md docs/reseaux-sociaux/activites/index.md docs/reseaux-sociaux/cours/index.md docs/reseaux-sociaux/en-codant/index.md docs/reseaux-sociaux/exercices/index.md docs/reseaux-sociaux/prolongements/index.md docs/reseaux-sociaux/reperes/index.md docs/stylesheets/navigation-hierarchy.css docs/stylesheets/sidebar-hierarchy.css docs/web/activites/index.md docs/web/cours/index.md docs/web/en-codant/index.md docs/web/exercices/index.md
+warning: in the working copy of 'docs/photographie-numerique/exercices/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/photographie-numerique/prolongements/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/photographie-numerique/reperes/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/reseaux-sociaux/activites/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/reseaux-sociaux/cours/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/reseaux-sociaux/en-codant/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/reseaux-sociaux/exercices/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/reseaux-sociaux/prolongements/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/reseaux-sociaux/reperes/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/web/activites/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/web/cours/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/web/en-codant/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/web/exercices/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/stylesheets/navigation-hierarchy.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/stylesheets/sidebar-hierarchy.css', LF will be replaced by CRLF the next time Git touches it
+
+> git add -- docs/web/prolongements/index.md docs/web/reperes/index.md mkdocs.yml
+warning: in the working copy of 'docs/web/prolongements/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/web/reperes/index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mkdocs.yml', LF will be replaced by CRLF the next time Git touches it
+
+> git diff --cached --check
+
+> git diff --cached --quiet
+
+Fichiers prêts à être publiés :
+
+> git diff --cached --name-status
+M	docs/donnees-structurees/activites/index.md
+M	docs/donnees-structurees/cours/index.md
+M	docs/donnees-structurees/en-codant/index.md
+M	docs/donnees-structurees/exercices/index.md
+M	docs/donnees-structurees/prolongements/index.md
+M	docs/donnees-structurees/reperes/index.md
+M	docs/index.md
+M	docs/informatique-embarquee-objets-connectes/activites/index.md
+M	docs/informatique-embarquee-objets-connectes/cours/index.md
+M	docs/informatique-embarquee-objets-connectes/en-codant/index.md
+M	docs/informatique-embarquee-objets-connectes/exercices/index.md
+M	docs/informatique-embarquee-objets-connectes/prolongements/index.md
+M	docs/informatique-embarquee-objets-connectes/reperes/index.md
+M	docs/internet/activites/index.md
+M	docs/internet/cours/index.md
+M	docs/internet/en-codant/index.md
+M	docs/internet/exercices/index.md
+M	docs/internet/prolongements/index.md
+M	docs/internet/reperes/index.md
+M	docs/javascripts/sidebar-active-path.js
+A	docs/javascripts/sidebar-hierarchy.js
+M	docs/localisation-cartographie-mobilite/activites/index.md
+M	docs/localisation-cartographie-mobilite/cours/index.md
+M	docs/localisation-cartographie-mobilite/en-codant/index.md
+M	docs/localisation-cartographie-mobilite/exercices/index.md
+M	docs/localisation-cartographie-mobilite/prolongements/index.md
+M	docs/localisation-cartographie-mobilite/reperes/index.md
+M	docs/photographie-numerique/activites/index.md
+M	docs/photographie-numerique/cours/index.md
+M	docs/photographie-numerique/en-codant/index.md
+M	docs/photographie-numerique/exercices/index.md
+M	docs/photographie-numerique/prolongements/index.md
+M	docs/photographie-numerique/reperes/index.md
+M	docs/reseaux-sociaux/activites/index.md
+M	docs/reseaux-sociaux/cours/index.md
+M	docs/reseaux-sociaux/en-codant/index.md
+M	docs/reseaux-sociaux/exercices/index.md
+M	docs/reseaux-sociaux/prolongements/index.md
+M	docs/reseaux-sociaux/reperes/index.md
+A	docs/stylesheets/navigation-hierarchy.css
+A	docs/stylesheets/sidebar-hierarchy.css
+M	docs/web/activites/index.md
+M	docs/web/cours/index.md
+M	docs/web/en-codant/index.md
+M	docs/web/exercices/index.md
+M	docs/web/prolongements/index.md
+M	docs/web/reperes/index.md
+M	mkdocs.yml
+
+> git commit -m Finalisation des pages de chapitre et de la navigation
+[main f4d3d42] Finalisation des pages de chapitre et de la navigation
+ 48 files changed, 5599 insertions(+), 468 deletions(-)
+ create mode 100644 docs/javascripts/sidebar-hierarchy.js
+ create mode 100644 docs/stylesheets/navigation-hierarchy.css
+ create mode 100644 docs/stylesheets/sidebar-hierarchy.css
+Auto packing the repository for optimum performance.
+See "git help gc" for manual housekeeping.
+
+> git push origin main
+To https://github.com/Meunier78/Manuel-SNT.git
+   94bd953..f4d3d42  main -> main
+
+CORRECTIF TERMINE
+Les modifications ont été vérifiées et publiées.
+Attendez GitHub Actions, puis rechargez le site avec Ctrl+F5.

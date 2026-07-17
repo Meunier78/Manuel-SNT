@@ -1,0 +1,41 @@
+
+ \u2502  \u26a0  Warning from the Material for MkDocs team
+ \u2502
+ \u2502  MkDocs 2.0, the underlying framework of Material for MkDocs,
+ \u2502  will introduce backward-incompatible changes, including:
+ \u2502
+ \u2502  � All plugins will stop working � the plugin system has been removed
+ \u2502  � All theme overrides will break � the theming system has been rewritten
+ \u2502  � No migration path exists � existing projects cannot be upgraded
+ \u2502  � Closed contribution model � community members can't report bugs
+ \u2502  � Currently unlicensed � unsuitable for production use
+ \u2502
+ \u2502  Our full analysis:
+ \u2502
+ \u2502  https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/
+
+INFO    -  Cleaning site directory
+INFO    -  Building documentation to directory: C:\Users\bertr\Documents\Manuel-SNT-GitHub\site
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - donnees-structurees\ouverture-du-chapitre\index.md
+  - donnees-structurees\ouverture-du-chapitre\les-donnees-en-une-seule-frise.md
+  - donnees-structurees\ouverture-du-chapitre\qu-est-ce-que-sont-les-donnees-structurees-et-comment-traite.md
+  - informatique-embarquee-objets-connectes\ouverture-du-chapitre\index.md
+  - informatique-embarquee-objets-connectes\ouverture-du-chapitre\environnement-sante-handicap-sport-loisirs-ils-sont-partout.md
+  - informatique-embarquee-objets-connectes\ouverture-du-chapitre\objets-connectes-en-une-seule-frise.md
+  - internet\ouverture-du-chapitre\index.md
+  - internet\ouverture-du-chapitre\internet-en-une-seule-frise.md
+  - internet\ouverture-du-chapitre\qu-est-ce-qu-internet.md
+  - localisation-cartographie-mobilite\ouverture-du-chapitre\index.md
+  - localisation-cartographie-mobilite\ouverture-du-chapitre\localisation-en-une-seule-frise.md
+  - localisation-cartographie-mobilite\ouverture-du-chapitre\ou-suis-je-es-tu-est-ce.md
+  - photographie-numerique\ouverture-du-chapitre\index.md
+  - photographie-numerique\ouverture-du-chapitre\capturees-stockees-transformees-visualisees-partagees.md
+  - photographie-numerique\ouverture-du-chapitre\photographie-numerique-en-une-seule-frise.md
+  - reseaux-sociaux\ouverture-du-chapitre\index.md
+  - reseaux-sociaux\ouverture-du-chapitre\les-reseaux-sociaux-en-une-seule-frise.md
+  - reseaux-sociaux\ouverture-du-chapitre\qu-est-ce-qu-un-reseau-social.md
+  - web\ouverture-du-chapitre\index.md
+  - web\ouverture-du-chapitre\le-web-en-une-seule-frise.md
+  - web\ouverture-du-chapitre\qu-est-ce-que-le-web.md
+INFO    -  Documentation built in 81.47 seconds

@@ -7,7 +7,7 @@
 
 
 
-<div><a href="./Importer un fichier csv dans Excel Video.mp4" target="_blank"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-csv-importer-un-fichier-csv-dans-excel-video-html/image-01.jpg"/></div></a></div></div>
+<div><div class="snt-missing-resource" role="group" aria-label="Ressource source non incluse dans l’archive" data-missing-resource="Importer un fichier csv dans Excel Video.mp4"><div><img class="imported-image" loading="lazy" src="/Manuel-SNT/assets/imported/donnees-structurees-traitement-en-codant-manipuler-le-format-csv-importer-un-fichier-csv-dans-excel-video-html/image-01.jpg"/></div></div><p class="snt-missing-resource__notice">Fichier source non inclus dans l’archive : <code>Importer un fichier csv dans Excel Video.mp4</code>.</p></div></div>
 
 </div>
 
