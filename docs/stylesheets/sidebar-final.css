@@ -8,7 +8,46 @@
   --snt-sidebar-max: 650px;
 }
 
-@media screen and (min-width: 76.25em) {
+@media screen and (min-width: 60em) {
+  /* À partir de 960 px, la navigation reste visible, y compris sur iPad paysage.
+     Ces règles neutralisent le comportement « tiroir » appliqué par Material
+     sous son seuil de bureau natif. */
+  .md-main__inner.md-grid {
+    display: flex !important;
+  }
+
+  .md-sidebar--primary {
+    display: block !important;
+    position: sticky !important;
+    inset-block-start: 2.4rem !important;
+    inset-inline-start: auto !important;
+    transform: none !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  .md-sidebar--primary .md-nav--primary,
+  .md-sidebar--primary .md-nav--primary .md-nav {
+    position: static !important;
+    inset: auto !important;
+    width: 100% !important;
+    height: auto !important;
+    transform: none !important;
+    background: transparent !important;
+  }
+
+  .md-sidebar--primary .md-nav--primary .md-nav .md-nav__title {
+    display: none !important;
+  }
+
+  .md-header__button[for="__drawer"] {
+    display: none !important;
+  }
+
+  .md-overlay {
+    display: none !important;
+  }
+
   /* Exploiter réellement la largeur de l'écran pour les deux colonnes. */
   .md-main__inner.md-grid {
     box-sizing: border-box;
@@ -272,6 +311,38 @@
 /* Anciennes fiches fragmentaires des grandes dates : invisibles dans le menu. */
 .md-sidebar--primary .snt-legacy-fragment {
   display: none !important;
+}
+
+
+/* Fil d'Ariane : plus lisible sans alourdir l'en-tête du contenu. */
+.md-path {
+  margin-bottom: .75rem;
+  font-size: .82rem;
+  line-height: 1.4;
+}
+
+.md-path__list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  row-gap: .18rem;
+}
+
+.md-path__item,
+.md-path__link {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.md-path__link {
+  padding-top: .08rem;
+  padding-bottom: .08rem;
+}
+
+@media screen and (max-width: 59.984375em) {
+  .md-path {
+    font-size: .76rem;
+  }
 }
 
 /* Navigation AVANT / APRÈS entre fiches sœurs de niveau 4.
